@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "deeb8cdf69d05a20",
+        "id": "3d5e4431df50e443",
         "type": "tabs",
         "children": [
           {
-            "id": "744347441911b4d0",
+            "id": "8f800f51499ce3d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "log"
+              "title": "Nova aba"
             }
           }
         ]
@@ -161,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "eda46add2f5d28ff",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +184,13 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "744347441911b4d0",
+  "active": "8f800f51499ce3d3",
   "lastOpenFiles": [
+    "log.md",
     "index.md",
     "CLAUDE.md",
     "wiki/obras/A Gênese.md",
@@ -217,7 +225,6 @@
     "wiki/obras/Série André Luiz.md",
     "wiki/centros/União das Sociedades Espíritas.md",
     "wiki/centros/Federação Espírita Brasileira.md",
-    "wiki/entidades/Leon Denis.md",
-    "wiki/conceitos/Reencarnação.md"
+    "wiki/entidades/Leon Denis.md"
   ]
 }
