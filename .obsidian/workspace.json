@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "dab244ec7f0e93e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "deeb8cdf69d05a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744347441911b4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0549818cee52256b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f38847ffa190450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4e89eb1d1d143f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6e34b770e16f89ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "99e175bd6a923a27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdb784928c9cf5ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ccdff1c51ca1933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff671b729b5fa661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "6ff32c0ae91c56e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "84e2adfd8a75a14e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8d2013a27973a8a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "50bb74c4be122107",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "744347441911b4d0",
+  "lastOpenFiles": [
+    "index.md",
+    "CLAUDE.md",
+    "wiki/obras/A Gênese.md",
+    "wiki/overview.md",
+    "wiki/temas/Espiritismo no Brasil.md",
+    "wiki/obras/Nosso Lar.md",
+    "wiki/conceitos/Pluralidade dos Mundos Habitados.md",
+    "index.md.tmp.20012.1777843697870",
+    "raw/Andre Luiz - Sinal Verde.pdf",
+    "raw/Andre Luiz - Respostas da Vida.pdf",
+    "raw/Andre Luiz - Obreiros da Vida Eterna.pdf",
+    "raw/Andre Luiz - Nosso Lar (Chico Xavier).pdf",
+    "raw/Andre Luiz - Missionarios da Luz.pdf",
+    "raw/Andre Luiz - Mecanismos da Mediunidade.pdf",
+    "raw/Andre Luiz - Desobsessao.pdf",
+    "raw/Andre Luiz - Conduta Espírita.pdf",
+    "raw/Andre Luiz - Agenda Crista.pdf",
+    "wiki/conceitos/Mediunidade.md",
+    "wiki/conceitos/Desobsessão.md",
+    "wiki/conceitos/Carma e Lei de Causa e Efeito.md",
+    "wiki/entidades/Allan Kardec.md",
+    "wiki/entidades/Joanna de Ângelis.md",
+    "wiki/temas/Evolucionismo Espiritual.md",
+    "wiki/obras/O Céu e o Inferno.md",
+    "wiki/obras/Obras Póstumas.md",
+    "wiki/temas/Espiritismo e Ciência.md",
+    "wiki/temas/Caridade como Lei.md",
+    "wiki/obras/O Livro dos Espíritos.md",
+    "wiki/conceitos/Perispírito.md",
+    "wiki/obras/O Evangelho Segundo o Espiritismo.md",
+    "wiki/obras/O Livro dos Médiuns.md",
+    "wiki/obras/Série André Luiz.md",
+    "wiki/centros/União das Sociedades Espíritas.md",
+    "wiki/centros/Federação Espírita Brasileira.md",
+    "wiki/entidades/Leon Denis.md",
+    "wiki/conceitos/Reencarnação.md"
+  ]
+}
