@@ -62,7 +62,6 @@ Os romances históricos de Emmanuel são notáveis por descrever, em paralelo, t
 ### Outras Obras
 
 - *Vida e Sexo* (1970) — questões sobre sexualidade à luz do Espiritismo
-- *Santa Marina* — romance histórico com provável continuação da série
 
 ---
 

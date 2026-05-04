@@ -10,6 +10,50 @@ grep "^## \[" log.md | tail -10
 
 ---
 
+## [2026-05-04] criação | Obras Emmanuel sem página + Desobsessão como obra
+
+**Operação**: Criação de 5 novas páginas de obras Emmanuel até então sem entrada no wiki, e criação da página de *Desobsessão* como obra (separada da página de conceito já existente).
+
+**Páginas criadas** (5 novas):
+- `wiki/obras/Emmanuel/Emmanuel.md` — fontes:1; dissertações filosófico-morais; prefácio "Pedro Leopoldo, 16 set. 1937"; apresentação de Emmanuel como padre católico no Brasil; lugar inaugural na série
+- `wiki/obras/Emmanuel/Fonte Viva.md` — fontes:1; mensagens de moral e orientação espiritual; nota sobre extração parcial do PDF
+- `wiki/obras/Emmanuel/Boa Nova.md` — fontes:1; mensagens evangélicas; o *euangélion* na perspectiva espírita
+- `wiki/obras/André Luiz/Desobsessão.md` — fontes:1; manual prático; 73 caps.; bimediunidade Xavier (pares) + Waldo Vieira (ímpares); estrutura em 5 blocos; método de desobsessão; prefácio Emmanuel; cena de Gádara (Lc 8:30)
+
+**Páginas atualizadas**:
+- `index.md` — 5 novas linhas; contador 54→59
+- `wiki/overview.md` — contador 54→59 páginas; 38→42 enriquecidas; lista Emmanuel expandida; prioridades atualizadas
+
+**Critério fontes**:
+- `fontes: 1` — PDF lido na sessão de ingestão de 2026-05-03; conteúdo identificado mesmo que extração parcial
+- `fontes: 0` — PDF digitalizado (imagem); extração de texto mínima; conteúdo não verificável sem OCR
+
+---
+
+## [2026-05-04] manutenção | Indexação romances Emmanuel + enriquecimento Chico Xavier
+
+**Operação**: Retomada da sessão anterior — indexação das 5 páginas de romances históricos de Emmanuel que existiam mas estavam ausentes do índice; enriquecimento substantivo da página de Chico Xavier.
+
+**Páginas atualizadas**:
+- `index.md` — 5 novas linhas (romances históricos Emmanuel); contador 49→54; data 2026-05-04
+- `wiki/overview.md` — contador páginas 50→54; enriquecidas 34→38; prioridades atualizadas; lista Emmanuel expandida; data 2026-05-04
+- `wiki/entidades/Chico Xavier.md` — reescrita completa (fontes:0→2): cronologia Pedro Leopoldo/Uberaba com datas dos prefácios; tabela dos 13 volumes com anos e locais; bimediunidade com Waldo Vieira; relação com FEB; séries Emmanuel filosófica e histórica; controvérsias detalhadas
+
+**Páginas já existentes confirmadas como completas** (fontes: 1, não estavam no índice):
+- `wiki/obras/Emmanuel/Há Dois Mil Anos.md` — índice dos 20 caps. em 2 partes; Públio Lentulus; Galileia até Pompeia
+- `wiki/obras/Emmanuel/50 Anos Depois.md` — Nestório; Célia; 14 caps.; carta ao leitor
+- `wiki/obras/Emmanuel/Paulo e Estêvão.md` — 20 caps.; Estêvão protomártir + Paulo de Tarso; Damasco
+- `wiki/obras/Emmanuel/Ave, Cristo!.md` — 14 caps.; cena pré-encarnação; Quinto Varro; mártires séc. III
+- `wiki/obras/Emmanuel/Renúncia.md` — 14 caps.; Alcione e Pólux; karma afetivo; véu da memória
+
+**Próximas prioridades** (atualizadas no overview):
+1. Enriquecer Divaldo Franco (fontes: 0)
+2. Criar páginas obras Emmanuel sem página: *Emmanuel* (1937), *Fonte Viva*, *Boa Nova*, *Santa Marina*
+3. Criar página *Desobsessão* como obra (separado do conceito)
+4. Enriquecer stubs: Carma, Passes, Pluralidade dos Mundos, Evolucionismo Espiritual, FEB
+
+---
+
 ## [2026-05-03] criação | Páginas individuais volumes 2–13 da Série André Luiz
 
 **Operação**: Criação de 12 páginas individuais para os volumes 2–13 da *Coleção A Vida no Mundo Espiritual*, a partir dos textos extraídos anteriormente em `/tmp/al_02_*` a `/tmp/al_13_*`.

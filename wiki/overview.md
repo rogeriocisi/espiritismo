@@ -3,7 +3,7 @@ title: "Overview — Wiki Espírita"
 type: overview
 tags: [espiritismo, doutrina, síntese]
 fontes: 37
-atualizado: 2026-05-03
+atualizado: 2026-05-04
 ---
 
 # Overview — Wiki Espírita
@@ -80,11 +80,11 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 ## Estado do Wiki
 
-- **Fontes ingeridas**: 38 (8 Kardec + 18 André Luiz + 12 Emmanuel)
+- **Fontes ingeridas**: 37 (7 Kardec + 1 Revistas + 18 André Luiz + 11 Emmanuel)
 - **Fontes pendentes**: 0
-- **Páginas criadas**: 50
-- **Páginas enriquecidas com fontes reais**: 34
-- **Última atualização**: 2026-05-03
+- **Páginas criadas**: 58
+- **Páginas enriquecidas com fontes reais**: 42
+- **Última atualização**: 2026-05-04
 
 ### Páginas com conteúdo substancial (fontes ingeridas)
 
@@ -126,6 +126,15 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 - [[wiki/entidades/Emmanuel]] — identidade (padre católico, Nóbrega?), missão, obras filosóficas e históricas
 - [[wiki/obras/Emmanuel/A Caminho da Luz]] — 25 caps.; Jesus como Divino Escultor; Kardec na história universal
 - [[wiki/obras/Emmanuel/O Consolador]] — estrutura Q&A; Ciência/Filosofia/Religião; diálogo com *O Livro dos Espíritos*
+- [[wiki/obras/Emmanuel/Há Dois Mil Anos]] — Públio Lentulus; Galileia, Roma, Pompeia; a confissão de Emmanuel (1939)
+- [[wiki/obras/Emmanuel/50 Anos Depois]] — Nestório; Célia; reencarnação como reparação; Roma séc. II (1989)
+- [[wiki/obras/Emmanuel/Paulo e Estêvão]] — Estêvão protomártir; Paulo de Tarso; Damasco; missão apostólica (1941)
+- [[wiki/obras/Emmanuel/Ave, Cristo!]] — cena pré-encarnação; Quinto Varro; mártires; Roma séc. III (1953)
+- [[wiki/obras/Emmanuel/Renúncia]] — Alcione e Pólux; karma afetivo; véu da memória; Espanha, América (1942)
+- [[wiki/obras/Emmanuel/Emmanuel]] — dissertações filosófico-morais; apresentação de Emmanuel (1937)
+- [[wiki/obras/Emmanuel/Fonte Viva]] — mensagens de moral e orientação espiritual
+- [[wiki/obras/Emmanuel/Boa Nova]] — mensagens evangélicas
+- [[wiki/obras/André Luiz/Desobsessão]] — manual prático; 73 caps.; bimediunidade Xavier + Waldo Vieira (1964)
 
 #### Revistas Espíritas (Kardec)
 - [[wiki/obras/Allan Kardec/Revistas Espíritas]] — periódico 1858–1869; 12 vols.; caso Morzine; número memorial 1869
@@ -133,7 +142,8 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 - [[wiki/temas/Espiritismo e Ciência]] — enriquecida: Flammarion no túmulo; posição científica de Kardec
 
 ### Próximas prioridades
-1. Enriquecer páginas de entidades brasileiras (Chico Xavier, Divaldo Franco)
-2. Criar páginas para romances históricos de Emmanuel (*Há Dois Mil Anos*, *Paulo e Estêvão*, *Ave, Cristo!*)
-3. Criar página individual para *Desobsessão* como obra separada
+1. Enriquecer Divaldo Franco (fontes: 0)
+2. Enriquecer stubs doutrinários: Carma, Passes, Pluralidade dos Mundos, Evolucionismo Espiritual
+4. Enriquecer centros: FEB, União das Sociedades Espíritas
+5. Criar página *Vida e Sexo* (Emmanuel/Chico Xavier; PDF digitalizado — requer OCR)
 

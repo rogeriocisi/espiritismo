@@ -1,5 +1,5 @@
 ﻿---
-atualizado: 2026-05-03
+atualizado: 2026-05-04
 ---
 
 # Índice do Wiki Espírita
@@ -94,6 +94,15 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 | [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]] | 1 | Índice dos 13 vols. + complementares; arco evolutivo completo; Waldo Vieira — ingerida |
 | [[wiki/obras/Emmanuel/A Caminho da Luz]] | 1 | História da civilização à luz do Espiritismo; 25 caps.; Emmanuel (1938) — ingerida |
 | [[wiki/obras/Emmanuel/O Consolador]] | 1 | Q&A Ciência/Filosofia/Religião; Emmanuel (1940); diálogo com O Livro dos Espíritos — ingerida |
+| [[wiki/obras/Emmanuel/Há Dois Mil Anos]] | 1 | Romance histórico; Públio Lentulus; Galileia, Roma, Pompeia; séc. I (1939) — ingerida |
+| [[wiki/obras/Emmanuel/50 Anos Depois]] | 1 | Continuação; Nestório (Lentulus reencarnado); Célia; Roma séc. II (1989) — ingerida |
+| [[wiki/obras/Emmanuel/Paulo e Estêvão]] | 1 | Estêvão protomártir e Paulo de Tarso; Damasco; missão apostólica (1941) — ingerida |
+| [[wiki/obras/Emmanuel/Ave, Cristo!]] | 1 | Roma séc. III; Septímio Severo; cena pré-encarnação; mártires cristãos (1953) — ingerida |
+| [[wiki/obras/Emmanuel/Renúncia]] | 1 | Karma afetivo; Alcione e Pólux; Espanha, Paris, América (1942) — ingerida |
+| [[wiki/obras/Emmanuel/Emmanuel]] | 1 | Dissertações filosófico-morais; apresentação de Emmanuel; FEB (1937) — ingerida |
+| [[wiki/obras/Emmanuel/Fonte Viva]] | 1 | Mensagens de moral e orientação espiritual — ingerida (extração parcial) |
+| [[wiki/obras/Emmanuel/Boa Nova]] | 1 | Mensagens evangélicas — ingerida (extração parcial) |
+| [[wiki/obras/André Luiz/Desobsessão]] | 1 | Manual prático; 73 caps.; bimediunidade Xavier + Waldo Vieira (1964) — ingerida |
 
 ---
 
@@ -161,5 +170,5 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 
 ---
 
-*Páginas: 49 | Fontes ingeridas: 37/37 | Última atualização: 2026-05-03*
+*Páginas: 58 | Fontes ingeridas: 37/37 | Última atualização: 2026-05-04*
 
