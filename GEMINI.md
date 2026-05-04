@@ -1,3 +1,5 @@
+@IA.md
+
 # Instruções para o Gemini
 
 Este repositório utiliza um conjunto centralizado de diretrizes para agentes de IA.
