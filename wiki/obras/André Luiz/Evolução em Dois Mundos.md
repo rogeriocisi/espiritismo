@@ -1,4 +1,4 @@
----
+﻿---
 title: "Evolução em Dois Mundos"
 type: obra
 tags: [André-Luiz, Chico-Xavier, Waldo-Vieira, FEB, série-andré-luiz, perispírito, evolução, 1958]
@@ -83,9 +83,10 @@ Em formato de perguntas e respostas, a Parte 2 responde questões práticas sobr
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Ação e Reação]]
-- [[wiki/obras/Mecanismos da Mediunidade]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Ação e Reação]]
+- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Mediunidade]]
+

@@ -63,5 +63,5 @@ O evolucionismo espiritual de Kardec difere do darwinismo em pontos importantes:
 - [[wiki/conceitos/Escala Espírita]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/temas/Caridade como Lei]]
-- [[wiki/obras/A Gênese]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carma e Lei de Causa e Efeito"
 type: conceito
 tags: [doutrina, justiça-divina, expiação, reparação, evolução]
@@ -57,5 +57,6 @@ A Lei de Causa e Efeito tem implicações delicadas:
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/temas/Evolucionismo Espiritual]]
 - [[wiki/temas/Caridade como Lei]]
-- [[wiki/obras/O Céu e o Inferno]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+

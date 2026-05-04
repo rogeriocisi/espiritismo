@@ -1,4 +1,4 @@
----
+﻿---
 title: "No Mundo Maior"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, zonas-intermediárias, psiquiatria-espiritual, 1947]
@@ -69,8 +69,9 @@ Eusébio abre a assembleia com uma oração em versos — um dos momentos mais p
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Obreiros da Vida Eterna]]
-- [[wiki/obras/Libertação]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Obreiros da Vida Eterna]]
+- [[wiki/obras/André Luiz/Libertação]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
+

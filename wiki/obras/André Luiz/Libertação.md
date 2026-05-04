@@ -1,4 +1,4 @@
----
+﻿---
 title: "Libertação"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, obsessão, libertação, perseguição-espiritual]
@@ -66,8 +66,9 @@ Capítulo paradigmático onde André Luiz acompanha um grupo de espíritos benev
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/No Mundo Maior]]
-- [[wiki/obras/Entre a Terra e o Céu]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/No Mundo Maior]]
+- [[wiki/obras/André Luiz/Entre a Terra e o Céu]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Mediunidade]]
+

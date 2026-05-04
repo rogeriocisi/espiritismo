@@ -1,4 +1,4 @@
----
+﻿---
 title: "E a Vida Continua..."
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, vida-post-mortem, reencarnação, 1968]
@@ -83,8 +83,9 @@ O capítulo final (*"E a vida continua..."*) ecoa o título como conclusão filo
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Sexo e Destino]]
-- [[wiki/obras/Nosso Lar]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Sexo e Destino]]
+- [[wiki/obras/André Luiz/Nosso Lar]]
 - [[wiki/conceitos/Reencarnação]]
-- [[wiki/obras/A Gênese]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+

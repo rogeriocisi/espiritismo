@@ -1,4 +1,4 @@
----
+﻿---
 atualizado: 2026-05-03
 ---
 
@@ -65,34 +65,34 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 
 | Página | Fontes | Descrição |
 |--------|--------|-----------|
-| [[wiki/obras/O Livro dos Espíritos]] | 1 | Obra fundadora; 1019 Q&As sobre a doutrina (1857) — ingerida |
-| [[wiki/obras/O Livro dos Médiuns]] | 1 | Guia prático da mediunidade com classificação completa (1861) — ingerida |
-| [[wiki/obras/O Evangelho Segundo o Espiritismo]] | 1 | Três revelações; "Fora da Caridade não há salvação" (1864) — ingerida |
-| [[wiki/obras/O Céu e o Inferno]] | 1 | Penas eternas refutadas; exemplos mediúnicos (1865) — ingerida |
-| [[wiki/obras/A Gênese]] | 1 | Teoria dos fluidos; cosmogonia; milagres (1868) — ingerida |
-| [[wiki/obras/Obras Póstumas]] | 1 | Biografia de Kardec; Discurso de Flammarion; comunicações da missão — ingerida |
-| [[wiki/obras/Revistas Espíritas]] | 1 | Periódico mensal (1858–1869); 12 vols.; fonte primária da codificação — ingerida |
+| [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] | 1 | Obra fundadora; 1019 Q&As sobre a doutrina (1857) — ingerida |
+| [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] | 1 | Guia prático da mediunidade com classificação completa (1861) — ingerida |
+| [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]] | 1 | Três revelações; "Fora da Caridade não há salvação" (1864) — ingerida |
+| [[wiki/obras/Allan Kardec/O Céu e o Inferno]] | 1 | Penas eternas refutadas; exemplos mediúnicos (1865) — ingerida |
+| [[wiki/obras/Allan Kardec/A Gênese]] | 1 | Teoria dos fluidos; cosmogonia; milagres (1868) — ingerida |
+| [[wiki/obras/Allan Kardec/Obras Póstumas]] | 1 | Biografia de Kardec; Discurso de Flammarion; comunicações da missão — ingerida |
+| [[wiki/obras/Allan Kardec/Revistas Espíritas]] | 1 | Periódico mensal (1858–1869); 12 vols.; fonte primária da codificação — ingerida |
 
 ### Literatura Mediúnica Brasileira
 
 | Página | Fontes | Descrição |
 |--------|--------|-----------|
-| [[wiki/obras/Nosso Lar]] | 1 | Vol. 1 — colônia espiritual, umbrais, Emmanuel (1944) — ingerida |
-| [[wiki/obras/Os Mensageiros]] | 1 | Vol. 2 — mensageiros espirituais; Aniceto; obsessão; prece (1944) — ingerida |
-| [[wiki/obras/Missionários da Luz]] | 1 | Vol. 3 — psicógrafo, epífise, mediunidade técnica, reencarnação (1945) — ingerida |
-| [[wiki/obras/Obreiros da Vida Eterna]] | 1 | Vol. 4 — zonas de erraticidade; trabalho nas trevas (1946) — ingerida |
-| [[wiki/obras/No Mundo Maior]] | 1 | Vol. 5 — zonas intermediárias; Instrutor Eusébio; psiquiatria espiritual (1947) — ingerida |
-| [[wiki/obras/Libertação]] | 1 | Vol. 6 — perseguidores invisíveis; parábola do peixinho vermelho — ingerida |
-| [[wiki/obras/Entre a Terra e o Céu]] | 1 | Vol. 7 — obsessão; reencarnação; laços afetivos pós-morte (1954) — ingerida |
-| [[wiki/obras/Nos Domínios da Mediunidade]] | 1 | Vol. 8 — Áulus; psicofonia; possessão; fascinação; psicometria (1954) — ingerida |
-| [[wiki/obras/Ação e Reação]] | 1 | Vol. 9 — karma; Mansão Paz; centenário do Espiritismo (1957) — ingerida |
-| [[wiki/obras/Evolução em Dois Mundos]] | 1 | Vol. 10 — perispírito sistemático; 2 partes; Chico Xavier + Waldo Vieira (1958) — ingerida |
-| [[wiki/obras/Mecanismos da Mediunidade]] | 1 | Vol. 11 — física ondulatória; circuitos mediúnicos; Chico Xavier + Waldo Vieira — ingerida |
-| [[wiki/obras/Sexo e Destino]] | 1 | Vol. 12 — sexualidade, karma, redenção; Waldo Vieira + Chico Xavier (1963) — ingerida |
-| [[wiki/obras/E a Vida Continua]] | 1 | Vol. 13 — planos personalizados; Evelina Serpa; centenário de A Gênese (1968) — ingerida |
-| [[Coleção A Vida no Mundo Espiritual]] | 1 | Índice dos 13 vols. + complementares; arco evolutivo completo; Waldo Vieira — ingerida |
-| [[wiki/obras/A Caminho da Luz]] | 1 | História da civilização à luz do Espiritismo; 25 caps.; Emmanuel (1938) — ingerida |
-| [[wiki/obras/O Consolador]] | 1 | Q&A Ciência/Filosofia/Religião; Emmanuel (1940); diálogo com O Livro dos Espíritos — ingerida |
+| [[wiki/obras/André Luiz/Nosso Lar]] | 1 | Vol. 1 — colônia espiritual, umbrais, Emmanuel (1944) — ingerida |
+| [[wiki/obras/André Luiz/Os Mensageiros]] | 1 | Vol. 2 — mensageiros espirituais; Aniceto; obsessão; prece (1944) — ingerida |
+| [[wiki/obras/André Luiz/Missionários da Luz]] | 1 | Vol. 3 — psicógrafo, epífise, mediunidade técnica, reencarnação (1945) — ingerida |
+| [[wiki/obras/André Luiz/Obreiros da Vida Eterna]] | 1 | Vol. 4 — zonas de erraticidade; trabalho nas trevas (1946) — ingerida |
+| [[wiki/obras/André Luiz/No Mundo Maior]] | 1 | Vol. 5 — zonas intermediárias; Instrutor Eusébio; psiquiatria espiritual (1947) — ingerida |
+| [[wiki/obras/André Luiz/Libertação]] | 1 | Vol. 6 — perseguidores invisíveis; parábola do peixinho vermelho — ingerida |
+| [[wiki/obras/André Luiz/Entre a Terra e o Céu]] | 1 | Vol. 7 — obsessão; reencarnação; laços afetivos pós-morte (1954) — ingerida |
+| [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]] | 1 | Vol. 8 — Áulus; psicofonia; possessão; fascinação; psicometria (1954) — ingerida |
+| [[wiki/obras/André Luiz/Ação e Reação]] | 1 | Vol. 9 — karma; Mansão Paz; centenário do Espiritismo (1957) — ingerida |
+| [[wiki/obras/André Luiz/Evolução em Dois Mundos]] | 1 | Vol. 10 — perispírito sistemático; 2 partes; Chico Xavier + Waldo Vieira (1958) — ingerida |
+| [[wiki/obras/André Luiz/Mecanismos da Mediunidade]] | 1 | Vol. 11 — física ondulatória; circuitos mediúnicos; Chico Xavier + Waldo Vieira — ingerida |
+| [[wiki/obras/André Luiz/Sexo e Destino]] | 1 | Vol. 12 — sexualidade, karma, redenção; Waldo Vieira + Chico Xavier (1963) — ingerida |
+| [[wiki/obras/André Luiz/E a Vida Continua]] | 1 | Vol. 13 — planos personalizados; Evelina Serpa; centenário de A Gênese (1968) — ingerida |
+| [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]] | 1 | Índice dos 13 vols. + complementares; arco evolutivo completo; Waldo Vieira — ingerida |
+| [[wiki/obras/Emmanuel/A Caminho da Luz]] | 1 | História da civilização à luz do Espiritismo; 25 caps.; Emmanuel (1938) — ingerida |
+| [[wiki/obras/Emmanuel/O Consolador]] | 1 | Q&A Ciência/Filosofia/Religião; Emmanuel (1940); diálogo com O Livro dos Espíritos — ingerida |
 
 ---
 
@@ -161,3 +161,4 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 ---
 
 *Páginas: 49 | Fontes ingeridas: 37/37 | Última atualização: 2026-05-03*
+

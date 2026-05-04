@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Céu e o Inferno"
 type: obra
 tags: [Kardec, obra-básica, vida-futura, penas-eternas, 1865]
@@ -117,5 +117,6 @@ PDF: *Allan Kardec — o-ceu-e-o-inferno.pdf* (edição brasileira)
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/conceitos/Escala Espírita]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/A Gênese]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+

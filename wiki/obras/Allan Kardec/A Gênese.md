@@ -1,4 +1,4 @@
----
+﻿---
 title: "A Gênese"
 type: obra
 tags: [Kardec, obra-básica, cosmologia, milagres, fluidos, 1868]
@@ -39,7 +39,7 @@ atualizado: 2026-05-03
 
 ## O Espiritismo como Terceira Revelação
 
-Kardec reafirma aqui (em alinhamento com [[wiki/obras/O Evangelho Segundo o Espiritismo]]) o caráter de terceira revelação:
+Kardec reafirma aqui (em alinhamento com [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]) o caráter de terceira revelação:
 
 > *"O Espiritismo não foi personificado em nenhum indivíduo, pois ele é o produto do ensinamento dado, não por um homem, mas pelos Espíritos, que são as vozes do Céu, em todos os pontos da Terra."*
 
@@ -93,4 +93,5 @@ PDF: *Allan Kardec — gen_br.pdf* (edição brasileira)
 - [[wiki/conceitos/Passes]]
 - [[wiki/temas/Espiritismo e Ciência]]
 - [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chico Xavier"
 type: entidade
 tags: [médium, Brasil, psicografia, Minas Gerais, século-XX]
@@ -32,7 +32,7 @@ A obra de Chico Xavier abrange poesia, romance, filosofia, ciência espírita e 
 | Mecanismos da Mediunidade | André Luiz | Aspectos técnicos da mediunidade |
 
 ### Obras mais conhecidas
-- *Nosso Lar* (1944) — [[wiki/obras/Nosso Lar]]
+- *Nosso Lar* (1944) — [[wiki/obras/André Luiz/Nosso Lar]]
 - *Parnaso de Além-Túmulo* (1932) — poesias assinadas por poetas mortos
 - *Caminho, Verdade e Vida* (1938) — comentários evangélicos por Emmanuel
 
@@ -63,7 +63,8 @@ Em 2012, uma pesquisa do Instituto Datafolha o elegeu o **maior brasileiro de to
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/André Luiz]]
-- [[wiki/obras/Nosso Lar]]
-- [[Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Nosso Lar]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
 - [[wiki/temas/Espiritismo no Brasil]]
 - [[wiki/conceitos/Mediunidade]]
+

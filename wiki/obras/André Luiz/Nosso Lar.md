@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Nosso Lar
 
-**Nosso Lar** (1944) é o primeiro livro da [[Coleção A Vida no Mundo Espiritual]], psicografado por [[wiki/entidades/Chico Xavier]] e ditado pelo espírito [[wiki/entidades/André Luiz]]. É um relato em primeira pessoa da morte, do sofrimento nos "umbrais" e da chegada a uma colônia espiritual organizada. Tornou-se a obra mediúnica brasileira mais lida e influente do século XX.
+**Nosso Lar** (1944) é o primeiro livro da [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]], psicografado por [[wiki/entidades/Chico Xavier]] e ditado pelo espírito [[wiki/entidades/André Luiz]]. É um relato em primeira pessoa da morte, do sofrimento nos "umbrais" e da chegada a uma colônia espiritual organizada. Tornou-se a obra mediúnica brasileira mais lida e influente do século XX.
 
 ---
 
@@ -107,7 +107,7 @@ E propõe a distinção entre "Espiritismo", "Espiritualismo" e — muito mais n
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
 - [[wiki/entidades/Emmanuel]]
-- [[Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/conceitos/Desobsessão]]

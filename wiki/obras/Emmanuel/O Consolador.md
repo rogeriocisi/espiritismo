@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Consolador"
 type: obra
 tags: [Emmanuel, Chico-Xavier, Q&A, ciência, filosofia, religião, 1940]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # O Consolador
 
-**O Consolador** é uma obra de [[wiki/entidades/Emmanuel]] psicografada por [[wiki/entidades/Chico Xavier]], organizada no formato de perguntas e respostas à semelhança do [[wiki/obras/O Livro dos Espíritos]] de Kardec. As questões foram formuladas pelos membros do Grupo Espírita "Luis Gonzaga" de Pedro Leopoldo, MG, a partir de outubro de 1939; o livro foi publicado em 1940.
+**O Consolador** é uma obra de [[wiki/entidades/Emmanuel]] psicografada por [[wiki/entidades/Chico Xavier]], organizada no formato de perguntas e respostas à semelhança do [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] de Kardec. As questões foram formuladas pelos membros do Grupo Espírita "Luis Gonzaga" de Pedro Leopoldo, MG, a partir de outubro de 1939; o livro foi publicado em 1940.
 
 ---
 
@@ -93,7 +93,7 @@ Emmanuel responde:
 
 ## Comparação com O Livro dos Espíritos
 
-*O Consolador* dialoga diretamente com [[wiki/obras/O Livro dos Espíritos]] de Kardec, mas aprofunda temas científicos à luz do conhecimento do século XX (átomos, elétrons, radioatividade, fisica ondulatória) e amplia as questões filosóficas sobre arte, família espiritual e apostolado mediúnico. Ambas as obras usam o formato Q&A como método pedagógico para o ensino doutrinário sistemático.
+*O Consolador* dialoga diretamente com [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] de Kardec, mas aprofunda temas científicos à luz do conhecimento do século XX (átomos, elétrons, radioatividade, fisica ondulatória) e amplia as questões filosóficas sobre arte, família espiritual e apostolado mediúnico. Ambas as obras usam o formato Q&A como método pedagógico para o ensino doutrinário sistemático.
 
 Diferença central: onde Kardec confronta materialismo e espiritualismo com questões metafísicas (O que é Deus? O que é o espírito?), Emmanuel parte da ciência positiva contemporânea para mostrar como cada disciplina aponta para a realidade espiritual.
 
@@ -103,8 +103,9 @@ Diferença central: onde Kardec confronta materialismo e espiritualismo com ques
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/A Caminho da Luz]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Emmanuel/A Caminho da Luz]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/temas/Espiritismo e Ciência]]
+

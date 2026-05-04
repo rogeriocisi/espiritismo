@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ave, Cristo!"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, romance-histórico, série-histórica, Roma-século-III, reencarnação, mártires, 1953]
@@ -96,7 +96,7 @@ O mentor espiritual que autoriza a reencarnação de Varro. Representa a hierarq
 Os cristãos que morrem no anfiteatro são recebidos por legions de espíritos que cantam vitória. O martírio é apresentado não como derrota mas como *"semente da glória futura"* — os mártires se desprendem do corpo em êxtase e são acolhidos no plano espiritual.
 
 ### A Paternidade que Transcende Encarnações
-O amor de Varro por Taciano persiste de encarnação em encarnação. O pai que retorna ao plano físico para ajudar o filho é um dos motivos recorrentes na série histórica de Emmanuel — ecoando o tema de *[[wiki/obras/50 Anos Depois]]*.
+O amor de Varro por Taciano persiste de encarnação em encarnação. O pai que retorna ao plano físico para ajudar o filho é um dos motivos recorrentes na série histórica de Emmanuel — ecoando o tema de *[[wiki/obras/Emmanuel/50 Anos Depois]]*.
 
 ---
 
@@ -104,9 +104,10 @@ O amor de Varro por Taciano persiste de encarnação em encarnação. O pai que 
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Há Dois Mil Anos]]
-- [[wiki/obras/50 Anos Depois]]
-- [[wiki/obras/Paulo e Estêvão]]
-- [[wiki/obras/Renúncia]]
+- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
+- [[wiki/obras/Emmanuel/50 Anos Depois]]
+- [[wiki/obras/Emmanuel/Paulo e Estêvão]]
+- [[wiki/obras/Emmanuel/Renúncia]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/temas/Caridade como Lei]]
+

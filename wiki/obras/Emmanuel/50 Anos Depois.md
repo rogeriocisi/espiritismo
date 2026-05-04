@@ -1,4 +1,4 @@
----
+﻿---
 title: "50 Anos Depois"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, romance-histórico, série-histórica, cristianismo-primitivo, Roma, século-II, reencarnação, 1989]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # 50 Anos Depois
 
-**50 Anos Depois** é a continuação direta de *[[wiki/obras/Há Dois Mil Anos]]*, ditada pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]]. Cinquenta anos após a destruição de Pompeia, o espírito de Públio Lentulus — o senador orgulhoso do livro anterior — reencarna como o escravo **Nestório**, iniciando o caminho de reparação de suas faltas do século I. O livro é também, fundamentalmente, a história de **Célia** — alma santificada pelo sacrifício, figura central da narrativa.
+**50 Anos Depois** é a continuação direta de *[[wiki/obras/Emmanuel/Há Dois Mil Anos]]*, ditada pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]]. Cinquenta anos após a destruição de Pompeia, o espírito de Públio Lentulus — o senador orgulhoso do livro anterior — reencarna como o escravo **Nestório**, iniciando o caminho de reparação de suas faltas do século I. O livro é também, fundamentalmente, a história de **Célia** — alma santificada pelo sacrifício, figura central da narrativa.
 
 ---
 
@@ -93,8 +93,9 @@ Célia não é mártir espetacular — é santidade encarnada no cotidiano famil
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Há Dois Mil Anos]]
-- [[wiki/obras/Paulo e Estêvão]]
-- [[wiki/obras/Ave, Cristo!]]
+- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
+- [[wiki/obras/Emmanuel/Paulo e Estêvão]]
+- [[wiki/obras/Emmanuel/Ave, Cristo!]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
+

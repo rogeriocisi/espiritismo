@@ -17,18 +17,18 @@ grep "^## \[" log.md | tail -10
 **Fontes consultadas**: textos extraídos via pdftotext de todos os 13 PDFs da série André Luiz (já ingeridos em sessão anterior). Leitura de índices completos, prefácios de Emmanuel, capítulo 1, temas centrais.
 
 **Páginas criadas** (12 novas):
-- `wiki/obras/Os Mensageiros.md` — vol. 2; 51 caps.; prefácio Emmanuel (Pedro Leopoldo, 26 fev. 1944); Aniceto; obsessão; prece
+- `wiki/obras/André Luiz/Os Mensageiros.md` — vol. 2; 51 caps.; prefácio Emmanuel (Pedro Leopoldo, 26 fev. 1944); Aniceto; obsessão; prece
 - `wiki/obras/Missionários da Luz.md` — vol. 3; 20 caps.; prefácio (13 mai. 1945); psicógrafo, epífise, vampirismo, obsessão, passes
-- `wiki/obras/Obreiros da Vida Eterna.md` — vol. 4; 20 caps.; prefácio (25 mar. 1946); zonas de erraticidade; Jerônimo
-- `wiki/obras/No Mundo Maior.md` — vol. 5; 20 caps.; prefácio (25 mar. 1947); Eusébio; psiquiatria iluminada; Calderaro
+- `wiki/obras/André Luiz/Obreiros da Vida Eterna.md` — vol. 4; 20 caps.; prefácio (25 mar. 1946); zonas de erraticidade; Jerônimo
+- `wiki/obras/André Luiz/No Mundo Maior.md` — vol. 5; 20 caps.; prefácio (25 mar. 1947); Eusébio; psiquiatria iluminada; Calderaro
 - `wiki/obras/Libertação.md` — vol. 6; 20 caps.; parábola do peixinho vermelho; perseguidores invisíveis
 - `wiki/obras/Entre a Terra e o Céu.md` — vol. 7; 40 caps.; prefácio (23 jan. 1954); Irmã Clara; reencarnação (caps. 29–31)
 - `wiki/obras/Nos Domínios da Mediunidade.md` — vol. 8; 30 caps.; prefácio (3 out. 1954); Áulus; psicofonia; possessão; fascinação
 - `wiki/obras/Ação e Reação.md` — vol. 9; 20 caps.; prefácio (1 jan. 1957); karma; Mansão Paz; Druso
 - `wiki/obras/Evolução em Dois Mundos.md` — vol. 10; 40 itens em 2 partes; prefácio (21 jul. 1958); Chico Xavier + Waldo Vieira; perispírito
-- `wiki/obras/Mecanismos da Mediunidade.md` — vol. 11; Chico Xavier + Waldo Vieira; física quântica e ondulatória aplicada à mediunidade
-- `wiki/obras/Sexo e Destino.md` — vol. 12; 28 caps. em 2 partes; prefácio (4 jul. 1963 Uberaba); Waldo Vieira (pt.1) + Chico Xavier (pt.2)
-- `wiki/obras/E a Vida Continua.md` — vol. 13; 26 caps.; prefácio (18 abr. 1968 Uberaba); Evelina Serpa; centenário de A Gênese
+- `wiki/obras/André Luiz/Mecanismos da Mediunidade.md` — vol. 11; Chico Xavier + Waldo Vieira; física quântica e ondulatória aplicada à mediunidade
+- `wiki/obras/André Luiz/Sexo e Destino.md` — vol. 12; 28 caps. em 2 partes; prefácio (4 jul. 1963 Uberaba); Waldo Vieira (pt.1) + Chico Xavier (pt.2)
+- `wiki/obras/André Luiz/E a Vida Continua.md` — vol. 13; 26 caps.; prefácio (18 abr. 1968 Uberaba); Evelina Serpa; centenário de A Gênese
 
 **Páginas atualizadas**:
 - `wiki/obras/Coleção A Vida no Mundo Espiritual.md` — links internos adicionados a todos os 13 volumes
@@ -69,8 +69,8 @@ grep "^## \[" log.md | tail -10
 
 **Páginas atualizadas/criadas**:
 - `wiki/entidades/Emmanuel.md` — reescrita: identidade, obras filosóficas e históricas, estilo e perspectiva, citação do prefácio de 1937
-- `wiki/obras/A Caminho da Luz.md` — NOVA: tabela de dados, índice completo de 25 caps., tese central, Jesus como Divino Escultor, Kardec na história universal, papel da América
-- `wiki/obras/O Consolador.md` — NOVA: tabela de dados, estrutura em 2 partes, questão inicial (3 aspectos), Q&As selecionados (Q.1, Q.2, Q.9, Q.20, Q.21), comparação com *O Livro dos Espíritos*
+- `wiki/obras/Emmanuel/A Caminho da Luz.md` — NOVA: tabela de dados, índice completo de 25 caps., tese central, Jesus como Divino Escultor, Kardec na história universal, papel da América
+- `wiki/obras/Emmanuel/O Consolador.md` — NOVA: tabela de dados, estrutura em 2 partes, questão inicial (3 aspectos), Q&As selecionados (Q.1, Q.2, Q.9, Q.20, Q.21), comparação com *O Livro dos Espíritos*
 
 **Arquivos copiados para raw/**: todos os 12 PDFs
 
@@ -87,7 +87,7 @@ grep "^## \[" log.md | tail -10
 **Método**: Extração com pdftotext -enc UTF-8 → /tmp/andreluiz_txt/ (43.497 linhas total). Leitura de prefácios, índices e seções-chave de: Nosso Lar, Os Mensageiros, Missionários da Luz, Desobsessão, Mecanismos da Mediunidade, Nos Domínios da Mediunidade.
 
 **Páginas atualizadas/criadas**:
-- `wiki/obras/Nosso Lar.md` — enriquecida: cap.1 (umbrais), prefácio Emmanuel, mensagem André Luiz, tabela de capítulos, temas
+- `wiki/obras/André Luiz/Nosso Lar.md` — enriquecida: cap.1 (umbrais), prefácio Emmanuel, mensagem André Luiz, tabela de capítulos, temas
 - `wiki/obras/Série André Luiz.md` — reescrita: tabela corrigida com obras complementares, arco narrativo, volumes Waldo Vieira
 - `wiki/entidades/André Luiz.md` — enriquecida: identidade, narrativa do personagem, citações diretas
 - `wiki/conceitos/Desobsessão.md` — enriquecida: fundamento evangélico, estrutura do livro (73 caps.), citações de André Luiz
@@ -114,7 +114,7 @@ grep "^## \[" log.md | tail -10
 
 **Páginas atualizadas com conteúdo real das fontes**:
 - `wiki/obras/O Livro dos Espíritos.md` — estrutura completa, Q.1, Q.76–95, Q.97–101, Q.166–196, Q.873–889
-- `wiki/obras/O Evangelho Segundo o Espiritismo.md` — Três Revelações, pluralidade dos mundos, a caridade
+- `wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo.md` — Três Revelações, pluralidade dos mundos, a caridade
 - `wiki/obras/O Livro dos Médiuns.md` — estrutura completa dos 32 capítulos, classificação dos médiuns, obsessão
 - `wiki/obras/O Céu e o Inferno.md` — doutrina vs. penas eternas; "o porvir e o nada"; exemplos mediúnicos
 - `wiki/obras/A Gênese.md` — teoria dos fluidos, cosmogonia, milagres

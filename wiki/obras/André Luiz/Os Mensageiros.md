@@ -1,4 +1,4 @@
----
+﻿---
 title: "Os Mensageiros"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, mensageiros, obsessão, mediunidade, 1944]
@@ -87,8 +87,9 @@ Capítulo 1 — André Luiz narra sua própria transformação: após deixar os 
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Nosso Lar]]
-- [[wiki/obras/Missionários da Luz]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Nosso Lar]]
+- [[wiki/obras/André Luiz/Missionários da Luz]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Mediunidade]]
+

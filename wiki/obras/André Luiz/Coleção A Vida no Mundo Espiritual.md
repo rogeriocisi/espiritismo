@@ -1,4 +1,4 @@
----
+﻿---
 title: "Série André Luiz"
 type: obra
 tags: [André-Luiz, Chico-Xavier, série, além-túmulo, mediunidade, Waldo-Vieira]
@@ -16,19 +16,19 @@ A **Série André Luiz** é o conjunto de 13 livros psicografados por [[wiki/ent
 
 | # | Título | Ano | Co-médium | Tema central |
 |---|--------|-----|-----------|-------------|
-| 1 | [[wiki/obras/Nosso Lar\|Nosso Lar]] | 1944 | — | Chegada à colônia espiritual; os umbrais |
-| 2 | [[wiki/obras/Os Mensageiros\|Os Mensageiros]] | 1944 | — | Trabalho de mensageiros espirituais junto aos encarnados |
-| 3 | [[wiki/obras/Missionários da Luz\|Missionários da Luz]] | 1945 | — | Missão espiritual; mediunidade; reencarnação |
-| 4 | [[wiki/obras/Obreiros da Vida Eterna\|Obreiros da Vida Eterna]] | 1946 | — | Trabalho nos planos de serviço espiritual |
-| 5 | [[wiki/obras/No Mundo Maior\|No Mundo Maior]] | 1947 | — | Planos espirituais mais elevados; evolução |
-| 6 | [[wiki/obras/Libertação\|Libertação]] | 1949 | — | Libertação de vínculos terrenos; evolução |
-| 7 | [[wiki/obras/Entre a Terra e o Céu\|Entre a Terra e o Céu]] | 1954 | — | Intercâmbio entre planos físico e espiritual |
-| 8 | [[wiki/obras/Nos Domínios da Mediunidade\|Nos Domínios da Mediunidade]] | 1954 | — | Mediunidade técnica; ondas e percepções; psicofonia |
-| 9 | [[wiki/obras/Ação e Reação\|Ação e Reação]] | 1957 | — | Lei de Causa e Efeito; carma em ação |
-| 10 | [[wiki/obras/Evolução em Dois Mundos\|Evolução em Dois Mundos]] | 1958 | Waldo Vieira | Parapsicologia; aspectos científicos da evolução |
-| 11 | [[wiki/obras/Mecanismos da Mediunidade\|Mecanismos da Mediunidade]] | 1960 | Waldo Vieira | Física ondulatória; microfísica; mecanismos mediúnicos |
-| 12 | [[wiki/obras/Sexo e Destino\|Sexo e Destino]] | 1963 | Waldo Vieira | Sexualidade, destino e evolução espiritual |
-| 13 | [[wiki/obras/E a Vida Continua\|E a Vida Continua...]] | 1968 | — | Continuação da jornada evolutiva |
+| 1 | [[wiki/obras/André Luiz/Nosso Lar\|Nosso Lar]] | 1944 | — | Chegada à colônia espiritual; os umbrais |
+| 2 | [[wiki/obras/André Luiz/Os Mensageiros\|Os Mensageiros]] | 1944 | — | Trabalho de mensageiros espirituais junto aos encarnados |
+| 3 | [[wiki/obras/André Luiz/Missionários da Luz\|Missionários da Luz]] | 1945 | — | Missão espiritual; mediunidade; reencarnação |
+| 4 | [[wiki/obras/André Luiz/Obreiros da Vida Eterna\|Obreiros da Vida Eterna]] | 1946 | — | Trabalho nos planos de serviço espiritual |
+| 5 | [[wiki/obras/André Luiz/No Mundo Maior\|No Mundo Maior]] | 1947 | — | Planos espirituais mais elevados; evolução |
+| 6 | [[wiki/obras/André Luiz/Libertação\|Libertação]] | 1949 | — | Libertação de vínculos terrenos; evolução |
+| 7 | [[wiki/obras/André Luiz/Entre a Terra e o Céu\|Entre a Terra e o Céu]] | 1954 | — | Intercâmbio entre planos físico e espiritual |
+| 8 | [[wiki/obras/André Luiz/Nos Domínios da Mediunidade\|Nos Domínios da Mediunidade]] | 1954 | — | Mediunidade técnica; ondas e percepções; psicofonia |
+| 9 | [[wiki/obras/André Luiz/Ação e Reação\|Ação e Reação]] | 1957 | — | Lei de Causa e Efeito; carma em ação |
+| 10 | [[wiki/obras/André Luiz/Evolução em Dois Mundos\|Evolução em Dois Mundos]] | 1958 | Waldo Vieira | Parapsicologia; aspectos científicos da evolução |
+| 11 | [[wiki/obras/André Luiz/Mecanismos da Mediunidade\|Mecanismos da Mediunidade]] | 1960 | Waldo Vieira | Física ondulatória; microfísica; mecanismos mediúnicos |
+| 12 | [[wiki/obras/André Luiz/Sexo e Destino\|Sexo e Destino]] | 1963 | Waldo Vieira | Sexualidade, destino e evolução espiritual |
+| 13 | [[wiki/obras/André Luiz/E a Vida Continua\|E a Vida Continua...]] | 1968 | — | Continuação da jornada evolutiva |
 
 ---
 
@@ -80,8 +80,9 @@ Os capítulos de *Nos Domínios da Mediunidade* (v. 8) analisam psicofonia consc
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Nosso Lar]]
+- [[wiki/obras/André Luiz/Nosso Lar]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/conceitos/Reencarnação]]
+

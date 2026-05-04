@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ação e Reação"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, karma, expiação, lei-de-causa-e-efeito, 1957]
@@ -70,9 +70,10 @@ Quando grupos de espíritos estão interligados por dívidas mútuas, o resgate 
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Nos Domínios da Mediunidade]]
-- [[wiki/obras/Evolução em Dois Mundos]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
+- [[wiki/obras/André Luiz/Evolução em Dois Mundos]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/conceitos/Reencarnação]]
-- [[wiki/obras/Nosso Lar]]
+- [[wiki/obras/André Luiz/Nosso Lar]]
+

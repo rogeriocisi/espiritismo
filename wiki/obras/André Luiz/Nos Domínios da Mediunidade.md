@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nos Domínios da Mediunidade"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, mediunidade, psicofonia, possessão, 1954]
@@ -77,9 +77,10 @@ O capítulo 21 analisa as manifestações mediúnicas naturais que ocorrem na tr
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Entre a Terra e o Céu]]
-- [[wiki/obras/Ação e Reação]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Entre a Terra e o Céu]]
+- [[wiki/obras/André Luiz/Ação e Reação]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/obras/Mecanismos da Mediunidade]]
+- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
+

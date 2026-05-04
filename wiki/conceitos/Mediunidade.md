@@ -14,7 +14,7 @@ A **mediunidade** é a faculdade que permite a certos indivíduos — os **médi
 
 ## Classificação de Kardec
 
-[[wiki/entidades/Allan Kardec]], em [[wiki/obras/O Livro dos Médiuns]], propôs a primeira classificação sistemática dos tipos mediúnicos:
+[[wiki/entidades/Allan Kardec]], em [[wiki/obras/Allan Kardec/O Livro dos Médiuns]], propôs a primeira classificação sistemática dos tipos mediúnicos:
 
 ### Por fenômeno físico
 - **Médium de efeitos físicos**: produz fenômenos observáveis (levitação, apportes, materialização)
@@ -34,7 +34,7 @@ A **mediunidade** é a faculdade que permite a certos indivíduos — os **médi
 
 ## Os Mecanismos — André Luiz e Waldo Vieira
 
-Dois livros da [[Coleção A Vida no Mundo Espiritual]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
+Dois livros da [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
 
 ### A Teoria das Ondas
 
@@ -112,8 +112,8 @@ Essa posição é controversa no diálogo com a psiquiatria e psicologia moderna
 - [[wiki/conceitos/Passes]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Perispírito]]
-- [[wiki/obras/O Livro dos Médiuns]]
-- [[Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
 - [[wiki/entidades/Chico Xavier]]
 - [[wiki/entidades/André Luiz]]
 - [[wiki/temas/Espiritismo e Ciência]]

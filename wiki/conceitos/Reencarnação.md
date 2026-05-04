@@ -1,4 +1,4 @@
----
+﻿---
 title: "Reencarnação"
 type: conceito
 tags: [doutrina, pluralidade-existências, evolução, carma, mundos]
@@ -14,7 +14,7 @@ A **reencarnação** — ou **pluralidade das existências** na terminologia de 
 
 ## Definição Doutrinária
 
-Segundo [[wiki/obras/O Livro dos Espíritos]] (Q.166):
+Segundo [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] (Q.166):
 
 > **Q.166** — Como a alma, que não alcançou a perfeição durante a vida corporal, pode acabar de se depurar?
 > *"Submetendo-se à prova de uma nova existência."*
@@ -104,6 +104,7 @@ O Evangelho Segundo o Espiritismo (Cap. 4) reúne passagens onde Jesus é identi
 - [[wiki/conceitos/Escala Espírita]]
 - [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
 - [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/O Livro dos Espíritos]]
-- [[wiki/obras/O Céu e o Inferno]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+

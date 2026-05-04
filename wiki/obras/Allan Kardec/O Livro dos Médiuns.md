@@ -127,4 +127,4 @@ PDF: *Allan Kardec — lmed_br.pdf* (edição brasileira)
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Passes]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]

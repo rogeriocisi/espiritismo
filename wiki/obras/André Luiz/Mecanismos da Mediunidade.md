@@ -65,9 +65,9 @@ Enquanto o vol. 8 apresenta a mediunidade em contexto narrativo, este volume for
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Evolução em Dois Mundos]]
-- [[wiki/obras/Nos Domínios da Mediunidade]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Evolução em Dois Mundos]]
+- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/temas/Espiritismo e Ciência]]

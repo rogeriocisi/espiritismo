@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sexo e Destino"
 type: obra
 tags: [André-Luiz, Chico-Xavier, Waldo-Vieira, FEB, série-andré-luiz, sexualidade, karma, família, 1963]
@@ -62,8 +62,9 @@ A divisão em duas partes psicografadas por médiuns distintos — Waldo Vieira 
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Mecanismos da Mediunidade]]
-- [[wiki/obras/E a Vida Continua]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
+- [[wiki/obras/André Luiz/E a Vida Continua]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/conceitos/Reencarnação]]
+

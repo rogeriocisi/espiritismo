@@ -1,4 +1,4 @@
----
+﻿---
 title: "Paulo e Estêvão"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, romance-histórico, série-histórica, Paulo-de-Tarso, Estêvão, Damasco, 1941]
@@ -88,7 +88,8 @@ Ao longo de toda a obra, Paulo é a figura do *"homem transformado por Jesus Cri
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Há Dois Mil Anos]]
-- [[wiki/obras/50 Anos Depois]]
-- [[wiki/obras/Ave, Cristo!]]
+- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
+- [[wiki/obras/Emmanuel/50 Anos Depois]]
+- [[wiki/obras/Emmanuel/Ave, Cristo!]]
 - [[wiki/temas/Espiritismo e Ciência]]
+

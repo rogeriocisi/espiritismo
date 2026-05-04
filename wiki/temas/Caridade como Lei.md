@@ -1,4 +1,4 @@
----
+﻿---
 title: "Caridade como Lei"
 type: tema
 tags: [moral, prática, princípio-fundamental, amor, solidariedade, Jesus]
@@ -10,7 +10,7 @@ atualizado: 2026-05-03
 
 > *"Fora da caridade não há salvação."*
 
-Esta frase, síntese dos princípios morais do Espiritismo, oriundos das comunicações mediúnicas compiladas em [[wiki/obras/O Evangelho Segundo o Espiritismo]], é o princípio mais citado e praticado no movimento espírita brasileiro. A caridade é entendida não como ato ocasional, mas como **lei fundamental** da vida espiritual.
+Esta frase, síntese dos princípios morais do Espiritismo, oriundos das comunicações mediúnicas compiladas em [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]], é o princípio mais citado e praticado no movimento espírita brasileiro. A caridade é entendida não como ato ocasional, mas como **lei fundamental** da vida espiritual.
 
 ---
 
@@ -70,7 +70,7 @@ A caridade espírita é **gratuita por definição** — cobrar por passes ou co
 
 ## O Lema Espírita
 
-Nas [[wiki/obras/Obras Póstumas]], a biografia de Kardec registra a contraposição ao dogma religioso:
+Nas [[wiki/obras/Allan Kardec/Obras Póstumas]], a biografia de Kardec registra a contraposição ao dogma religioso:
 
 > *"Em vez do postulado 'Fora da Igreja não há salvação', que alimenta a separação e a inimizade entre as diferentes seitas religiosas e que há feito correr tanto sangue, o Espiritismo tem como divisa: 'Fora da Caridade não há salvação', isto é, a igualdade entre os homens perante Deus, a tolerância, a liberdade de consciência e a benevolência mútua."*
 
@@ -97,10 +97,11 @@ Uma das mensagens mais citadas nos centros espíritas, atribuída a São Vicente
 
 ## Links
 
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/O Livro dos Espíritos]]
-- [[wiki/obras/Obras Póstumas]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/Obras Póstumas]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/temas/Evolucionismo Espiritual]]
 - [[wiki/entidades/Bezerra de Menezes]]
 - [[wiki/centros/Federação Espírita Brasileira]]
+

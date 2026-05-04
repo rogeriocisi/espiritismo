@@ -1,4 +1,4 @@
----
+﻿---
 title: "Missionários da Luz"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, mediunidade, obsessão, reencarnação, 1945]
@@ -70,9 +70,10 @@ Os caps. 17–18 abordam o processo de doutrinação de espíritos obsessores e 
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Os Mensageiros]]
-- [[wiki/obras/Obreiros da Vida Eterna]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Os Mensageiros]]
+- [[wiki/obras/André Luiz/Obreiros da Vida Eterna]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Perispírito]]
+

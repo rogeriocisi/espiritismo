@@ -1,4 +1,4 @@
----
+﻿---
 title: "Revistas Espíritas"
 type: obra
 tags: [Kardec, periódico, história-do-espiritismo, França, 1858-1869, Sociedade-Parisiense, Gentile]
@@ -142,11 +142,12 @@ A Revista é irreplaceable por dois motivos:
 ## Links
 
 - [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/O Livro dos Espíritos]]
-- [[wiki/obras/O Livro dos Médiuns]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/A Gênese]]
-- [[wiki/obras/Obras Póstumas]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[wiki/obras/Allan Kardec/Obras Póstumas]]
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/temas/Espiritismo e Ciência]]
+

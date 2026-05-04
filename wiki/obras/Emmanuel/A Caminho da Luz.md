@@ -1,4 +1,4 @@
----
+﻿---
 title: "A Caminho da Luz"
 type: obra
 tags: [Emmanuel, Chico-Xavier, história-da-civilização, 1938, cosmogonia, Jesus]
@@ -84,7 +84,7 @@ Nos capítulos finais (XXII–XXIII), Emmanuel apresenta **Allan Kardec** não c
 
 > *"Allan Kardec e os seus colaboradores — As ciências sociais — A tarefa do missionário — Provações coletivas na França."*
 
-Isso integra a codificação kardecista à grande narrativa da Terceira Revelação — após Moisés (1ª) e Jesus (2ª), o Espiritismo seria a 3ª revelação divina à humanidade terrestre. Ver [[wiki/obras/O Evangelho Segundo o Espiritismo]].
+Isso integra a codificação kardecista à grande narrativa da Terceira Revelação — após Moisés (1ª) e Jesus (2ª), o Espiritismo seria a 3ª revelação divina à humanidade terrestre. Ver [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]].
 
 ---
 
@@ -105,7 +105,8 @@ Isso dialoga com o tema desenvolvido por Humberto de Campos em *Brasil, Coraçã
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
 - [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/O Consolador]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Emmanuel/O Consolador]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
 - [[wiki/temas/Evolucionismo Espiritual]]
 - [[wiki/temas/Espiritismo no Brasil]]
+

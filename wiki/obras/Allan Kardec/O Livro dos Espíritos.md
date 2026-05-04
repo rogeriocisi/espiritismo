@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Livro dos Espíritos"
 type: obra
 tags: [Kardec, obra-básica, fundacional, 1857, Q&A]
@@ -140,5 +140,6 @@ PDF: *Allan Kardec — o-livro-dos-espiritos.pdf* (edição brasileira, traduç�
 - [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
 - [[wiki/temas/Caridade como Lei]]
 - [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/O Livro dos Médiuns]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+

@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Escala Espírita
 
-A **escala espírita** é a classificação dos espíritos segundo seu grau de evolução moral e intelectual, proposta por [[wiki/entidades/Allan Kardec]] em [[wiki/obras/O Livro dos Espíritos]] (Q.96–100). Não é uma hierarquia rígida, mas uma descrição de estágios progressivos — *"a transição de um grau a outro é insensível"*.
+A **escala espírita** é a classificação dos espíritos segundo seu grau de evolução moral e intelectual, proposta por [[wiki/entidades/Allan Kardec]] em [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] (Q.96–100). Não é uma hierarquia rígida, mas uma descrição de estágios progressivos — *"a transição de um grau a outro é insensível"*.
 
 ---
 
@@ -102,4 +102,4 @@ A escala espírita é fundamental para:
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]

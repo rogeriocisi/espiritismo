@@ -82,6 +82,6 @@ PDF: *Allan Kardec — Obras Póstumas.pdf*
 ## Links
 
 - [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
 - [[wiki/temas/Espiritismo e Ciência]]
 - [[wiki/temas/Caridade como Lei]]

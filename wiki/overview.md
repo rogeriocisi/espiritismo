@@ -1,4 +1,4 @@
----
+﻿---
 title: "Overview — Wiki Espírita"
 type: overview
 tags: [espiritismo, doutrina, síntese]
@@ -30,7 +30,7 @@ Estuda os fenômenos mediúnicos como fatos observáveis. A investigação dos f
 Oferece respostas às grandes questões da existência: origem do universo, sentido da vida, natureza do bem e do mal, destino após a morte. Articula uma cosmologia baseada na [[wiki/conceitos/Pluralidade dos Mundos Habitados|pluralidade dos mundos]] e no [[wiki/temas/Evolucionismo Espiritual|evolucionismo espiritual]].
 
 ### Religioso
-Tem no [[wiki/temas/Caridade como Lei|amor e na caridade]] sua prática central, alinhada ao ensinamento de Jesus conforme interpretado em [[wiki/obras/O Evangelho Segundo o Espiritismo]]. No Brasil, o aspecto religioso ganhou proeminência, tornando o país com maior número de espíritas do mundo.
+Tem no [[wiki/temas/Caridade como Lei|amor e na caridade]] sua prática central, alinhada ao ensinamento de Jesus conforme interpretado em [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]. No Brasil, o aspecto religioso ganhou proeminência, tornando o país com maior número de espíritas do mundo.
 
 ---
 
@@ -90,12 +90,12 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 #### Kardec
 - [[wiki/entidades/Allan Kardec]] — biografia completa das Obras Póstumas
-- [[wiki/obras/O Livro dos Espíritos]] — estrutura, Q&As fundamentais com citações
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]] — Três Revelações, pluralidade dos mundos
-- [[wiki/obras/O Livro dos Médiuns]] — classificação completa dos médiuns, obsessão
-- [[wiki/obras/O Céu e o Inferno]] — argumento contra penas eternas; o nada
-- [[wiki/obras/A Gênese]] — teoria dos fluidos, cosmogonia
-- [[wiki/obras/Obras Póstumas]] — criada
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] — estrutura, Q&As fundamentais com citações
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]] — Três Revelações, pluralidade dos mundos
+- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] — classificação completa dos médiuns, obsessão
+- [[wiki/obras/Allan Kardec/O Céu e o Inferno]] — argumento contra penas eternas; o nada
+- [[wiki/obras/Allan Kardec/A Gênese]] — teoria dos fluidos, cosmogonia
+- [[wiki/obras/Allan Kardec/Obras Póstumas]] — criada
 - [[wiki/conceitos/Reencarnação]] — Q.166–196 completos
 - [[wiki/conceitos/Escala Espírita]] — Q.97–101 com subdivisões
 - [[wiki/conceitos/Perispírito]] — Q.93–95 + fluido universal
@@ -103,30 +103,30 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 #### André Luiz / Chico Xavier
 - [[wiki/entidades/André Luiz]] — identidade, narrativa do personagem, citações dos prefácios
-- [[wiki/obras/Nosso Lar]] — estrutura completa, umbrais, Emmanuel, temas
-- [[wiki/obras/Os Mensageiros]] — vol. 2; mensageiros do bem; Aniceto; prece e obsessão
-- [[wiki/obras/Missionários da Luz]] — vol. 3; psicógrafo, epífise, mediunidade técnica
-- [[wiki/obras/Obreiros da Vida Eterna]] — vol. 4; zonas de erraticidade; missões nas trevas
-- [[wiki/obras/No Mundo Maior]] — vol. 5; Instrutor Eusébio; psiquiatria iluminada
-- [[wiki/obras/Libertação]] — vol. 6; perseguidores invisíveis; parábola do peixinho
-- [[wiki/obras/Entre a Terra e o Céu]] — vol. 7; 40 caps.; reencarnação e laços afetivos
-- [[wiki/obras/Nos Domínios da Mediunidade]] — vol. 8; Áulus; psicofonia, possessão, fascinação
-- [[wiki/obras/Ação e Reação]] — vol. 9; karma; Mansão Paz; centenário do Espiritismo
-- [[wiki/obras/Evolução em Dois Mundos]] — vol. 10; perispírito sistemático; Chico Xavier + Waldo Vieira
-- [[wiki/obras/Mecanismos da Mediunidade]] — vol. 11; física ondulatória; circuitos mediúnicos
-- [[wiki/obras/Sexo e Destino]] — vol. 12; sexualidade e karma; Waldo Vieira + Chico Xavier
-- [[wiki/obras/E a Vida Continua]] — vol. 13; planos personalizados; centenário de A Gênese
-- [[Coleção A Vida no Mundo Espiritual]] — índice dos 13 vols. + complementares; arco narrativo
+- [[wiki/obras/André Luiz/Nosso Lar]] — estrutura completa, umbrais, Emmanuel, temas
+- [[wiki/obras/André Luiz/Os Mensageiros]] — vol. 2; mensageiros do bem; Aniceto; prece e obsessão
+- [[wiki/obras/André Luiz/Missionários da Luz]] — vol. 3; psicógrafo, epífise, mediunidade técnica
+- [[wiki/obras/André Luiz/Obreiros da Vida Eterna]] — vol. 4; zonas de erraticidade; missões nas trevas
+- [[wiki/obras/André Luiz/No Mundo Maior]] — vol. 5; Instrutor Eusébio; psiquiatria iluminada
+- [[wiki/obras/André Luiz/Libertação]] — vol. 6; perseguidores invisíveis; parábola do peixinho
+- [[wiki/obras/André Luiz/Entre a Terra e o Céu]] — vol. 7; 40 caps.; reencarnação e laços afetivos
+- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]] — vol. 8; Áulus; psicofonia, possessão, fascinação
+- [[wiki/obras/André Luiz/Ação e Reação]] — vol. 9; karma; Mansão Paz; centenário do Espiritismo
+- [[wiki/obras/André Luiz/Evolução em Dois Mundos]] — vol. 10; perispírito sistemático; Chico Xavier + Waldo Vieira
+- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]] — vol. 11; física ondulatória; circuitos mediúnicos
+- [[wiki/obras/André Luiz/Sexo e Destino]] — vol. 12; sexualidade e karma; Waldo Vieira + Chico Xavier
+- [[wiki/obras/André Luiz/E a Vida Continua]] — vol. 13; planos personalizados; centenário de A Gênese
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]] — índice dos 13 vols. + complementares; arco narrativo
 - [[wiki/conceitos/Desobsessão]] — fundamento evangélico; 73 caps. do manual; processo passo a passo
 - [[wiki/conceitos/Mediunidade]] — teoria das ondas; tipos de psicofonia; perspectiva histórica
 
 #### Emmanuel / Chico Xavier
 - [[wiki/entidades/Emmanuel]] — identidade (padre católico, Nóbrega?), missão, obras filosóficas e históricas
-- [[wiki/obras/A Caminho da Luz]] — 25 caps.; Jesus como Divino Escultor; Kardec na história universal
-- [[wiki/obras/O Consolador]] — estrutura Q&A; Ciência/Filosofia/Religião; diálogo com *O Livro dos Espíritos*
+- [[wiki/obras/Emmanuel/A Caminho da Luz]] — 25 caps.; Jesus como Divino Escultor; Kardec na história universal
+- [[wiki/obras/Emmanuel/O Consolador]] — estrutura Q&A; Ciência/Filosofia/Religião; diálogo com *O Livro dos Espíritos*
 
 #### Revistas Espíritas (Kardec)
-- [[wiki/obras/Revistas Espíritas]] — periódico 1858–1869; 12 vols.; caso Morzine; número memorial 1869
+- [[wiki/obras/Allan Kardec/Revistas Espíritas]] — periódico 1858–1869; 12 vols.; caso Morzine; número memorial 1869
 - [[wiki/entidades/Allan Kardec]] — atualizado: SPEE (1º abr. 1858), Revistas, comunicação póstumo, estatística 1869
 - [[wiki/temas/Espiritismo e Ciência]] — enriquecida: Flammarion no túmulo; posição científica de Kardec
 
@@ -134,3 +134,4 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 1. Enriquecer páginas de entidades brasileiras (Chico Xavier, Divaldo Franco)
 2. Criar páginas para romances históricos de Emmanuel (*Há Dois Mil Anos*, *Paulo e Estêvão*, *Ave, Cristo!*)
 3. Criar página individual para *Desobsessão* como obra separada
+

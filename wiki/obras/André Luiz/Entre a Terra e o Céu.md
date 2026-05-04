@@ -79,8 +79,8 @@ O capítulo 1 abre com o Ministro Clarêncio no *Templo do Socorro* dissertando 
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Libertação]]
-- [[wiki/obras/Nos Domínios da Mediunidade]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Libertação]]
+- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Desobsessão]]

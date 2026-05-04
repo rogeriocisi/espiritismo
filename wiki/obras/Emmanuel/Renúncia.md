@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renúncia"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, romance-histórico, karma-afetivo, sacerdócio, reencarnação, 1942]
@@ -104,7 +104,8 @@ Pólux representa a alma que aspira à consagração espiritual mas colapsa sob 
 
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Há Dois Mil Anos]]
-- [[wiki/obras/Ave, Cristo!]]
+- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
+- [[wiki/obras/Emmanuel/Ave, Cristo!]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
+

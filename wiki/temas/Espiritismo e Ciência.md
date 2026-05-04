@@ -19,7 +19,7 @@ Kardec afirmava que o Espiritismo era uma ciência porque:
 2. Usava método comparativo e de verificação
 3. Chegava a conclusões sistematizadas e coerentes
 
-Na introdução do primeiro número das [[wiki/obras/Revistas Espíritas]] (janeiro de 1858), Kardec formulou com precisão:
+Na introdução do primeiro número das [[wiki/obras/Allan Kardec/Revistas Espíritas]] (janeiro de 1858), Kardec formulou com precisão:
 
 > *"Toda ciência deve estar baseada sobre fatos; mas só os fatos não constituem a ciência; a ciência nasce da coordenação e da dedução lógica dos fatos: é o conjunto de leis que os regem."*
 
@@ -29,7 +29,7 @@ Esta afirmação foi e continua sendo contestada pela ciência convencional, que
 
 ## Flammarion no Túmulo de Kardec (1869)
 
-O astrônomo **Camille Flammarion** foi o orador principal no funeral de Kardec (abril de 1869) e era membro da SPEE. Seu discurso, publicado nas [[wiki/obras/Revistas Espíritas]] de maio de 1869, é um dos documentos mais significativos sobre a relação entre Espiritismo e ciência:
+O astrônomo **Camille Flammarion** foi o orador principal no funeral de Kardec (abril de 1869) e era membro da SPEE. Seu discurso, publicado nas [[wiki/obras/Allan Kardec/Revistas Espíritas]] de maio de 1869, é um dos documentos mais significativos sobre a relação entre Espiritismo e ciência:
 
 > *"Porque, senhores, o Espiritismo não é uma religião, mas uma ciência, ciência da qual conhecemos apenas o a b c. O tempo dos dogmas acabou. [...] O sobrenatural não existe. As manifestações obtidas por intermédio dos médiuns [...] são da ordem natural, e devem ser severamente submetidas ao controle da experiência. Não há mais milagres. Assistimos à aurora de uma ciência desconhecida."*
 
@@ -88,6 +88,6 @@ O Brasil tem pesquisadores acadêmicos sérios trabalhando na interface entre Es
 - [[wiki/conceitos/Mediunidade]]
 - [[wiki/entidades/Gabriel Delanne]]
 - [[wiki/conceitos/Passes]]
-- [[wiki/obras/A Gênese]]
-- [[wiki/obras/Revistas Espíritas]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[wiki/obras/Allan Kardec/Revistas Espíritas]]
 - [[wiki/temas/Espiritismo no Brasil]]

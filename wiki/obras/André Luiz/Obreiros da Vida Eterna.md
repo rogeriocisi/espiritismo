@@ -1,4 +1,4 @@
----
+﻿---
 title: "Obreiros da Vida Eterna"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, erraticidade, socorro-espiritual, 1946]
@@ -67,8 +67,9 @@ Capítulos como *"Fogo purificador"* (10) e *"Treva e sofrimento"* (8) descrevem
 
 - [[wiki/entidades/André Luiz]]
 - [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Série André Luiz]]
-- [[wiki/obras/Missionários da Luz]]
-- [[wiki/obras/No Mundo Maior]]
+- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
+- [[wiki/obras/André Luiz/Missionários da Luz]]
+- [[wiki/obras/André Luiz/No Mundo Maior]]
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Reencarnação]]
+

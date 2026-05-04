@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allan Kardec"
 type: entidade
 tags: [codificador, fundador, pedagogo, França, século-XIX, Lyon, Paris]
@@ -42,19 +42,19 @@ Em 1855, já com 51 anos, Kardec entrou em contato com os fenômenos das "mesas 
 
 Entre 1855 e 1857, Kardec coletou centenas de comunicações obtidas por médiuns em diferentes países. Aplicou um método rigoroso: **comparação e verificação** — só aceitava como doutrina o que fosse ensinado consistentemente por espíritos de diferentes médiuns, em locais diferentes, sem combinação prévia.
 
-Em 18 de abril de **1857** publicou [[wiki/obras/O Livro dos Espíritos]] — considerado a pedra angular do Espiritismo.
+Em 18 de abril de **1857** publicou [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] — considerado a pedra angular do Espiritismo.
 
-Em **1º de abril de 1858** fundou a **Sociedade Parisiense de Estudos Espíritas** (SPEE) e iniciou a *Revue Spirite* ([[wiki/obras/Revistas Espíritas]]), jornal mensal que manteve até a morte, totalizando 12 volumes (1858–1869). O periódico era ao mesmo tempo veículo de pesquisa, órgão da SPEE e tribuna doutrinária — a principal fonte primária para acompanhar o desenvolvimento iterativo da codificação.
+Em **1º de abril de 1858** fundou a **Sociedade Parisiense de Estudos Espíritas** (SPEE) e iniciou a *Revue Spirite* ([[wiki/obras/Allan Kardec/Revistas Espíritas]]), jornal mensal que manteve até a morte, totalizando 12 volumes (1858–1869). O periódico era ao mesmo tempo veículo de pesquisa, órgão da SPEE e tribuna doutrinária — a principal fonte primária para acompanhar o desenvolvimento iterativo da codificação.
 
 ### Cronologia das Obras Básicas
 
 | Ano | Obra |
 |-----|------|
-| 1857 | [[wiki/obras/O Livro dos Espíritos]] |
-| 1861 | [[wiki/obras/O Livro dos Médiuns]] |
-| 1864 | [[wiki/obras/O Evangelho Segundo o Espiritismo]] |
-| 1865 | [[wiki/obras/O Céu e o Inferno]] |
-| 1868 | [[wiki/obras/A Gênese]] |
+| 1857 | [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] |
+| 1861 | [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] |
+| 1864 | [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]] |
+| 1865 | [[wiki/obras/Allan Kardec/O Céu e o Inferno]] |
+| 1868 | [[wiki/obras/Allan Kardec/A Gênese]] |
 
 ---
 
@@ -74,7 +74,7 @@ Sobre a linguagem das obras:
 
 Kardec sofria há anos de uma enfermidade do coração, para a qual o repouso seria o remédio — mas recusava paralisar seu trabalho. Em 31 de março de 1869 sofreu um aneurisma enquanto trabalhava e morreu instantaneamente.
 
-Camille Flammarion — astrônomo e membro da SPEE — proferiu discurso no túmulo. A biografia oficial, publicada no número de maio de 1869 das [[wiki/obras/Revistas Espíritas]], registra que morreu *"no meio dos preparativos de uma mudança de local [...] Ele morreu como viveu, trabalhando."*
+Camille Flammarion — astrônomo e membro da SPEE — proferiu discurso no túmulo. A biografia oficial, publicada no número de maio de 1869 das [[wiki/obras/Allan Kardec/Revistas Espíritas]], registra que morreu *"no meio dos preparativos de uma mudança de local [...] Ele morreu como viveu, trabalhando."*
 
 O espírito de Kardec comunicou-se em abril de 1869 pela Sociedade de Paris:
 
@@ -92,14 +92,15 @@ As obras de Kardec encontraram no Brasil solo fértil, especialmente após a fun
 
 ## Links
 
-- [[wiki/obras/O Livro dos Espíritos]]
-- [[wiki/obras/O Livro dos Médiuns]]
-- [[wiki/obras/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/O Céu e o Inferno]]
-- [[wiki/obras/A Gênese]]
-- [[wiki/obras/Obras Póstumas]]
+- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
+- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
+- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[wiki/obras/Allan Kardec/Obras Póstumas]]
 - [[wiki/entidades/Leon Denis]]
 - [[wiki/entidades/Gabriel Delanne]]
 - [[wiki/temas/Espiritismo e Ciência]]
-- [[wiki/obras/Revistas Espíritas]]
+- [[wiki/obras/Allan Kardec/Revistas Espíritas]]
 - [[wiki/temas/Espiritismo no Brasil]]
+

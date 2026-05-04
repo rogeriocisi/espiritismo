@@ -1,6 +1,6 @@
 # Schema do Wiki Espírita
 
-Este arquivo define como o Claude ou Gemini devem operar e manter este wiki. Leia-o integralmente no início de cada sessão.
+Este arquivo define como o Claude ou Gemini deve operar e manter este wiki. Leia-o integralmente no início de cada sessão.
 
 ## Propósito
 
@@ -114,10 +114,10 @@ Quando o usuário pedir `/lint` ou revisão de saúde do wiki:
 - *A Gênese* — Allan Kardec (1868)
 
 ### Obras mediúnicas brasileiras de destaque
-- Série *Nosso Lar* / André Luiz — psicografadas por Chico Xavier
+- Série *Nosso Lar* / A Vida no Mundo Espiritual / André Luiz — psicografadas por Chico Xavier
 - Série Emmanuel — psicografadas por Chico Xavier
 - Série *Humberto de Campos* — Chico Xavier
-- Série *Joanna de Ângelis* — Divaldo Franco
+- Série *Joanna de Angelis* — Divaldo Franco
 
 ## Notas de estilo
 - Escrever sempre em **português brasileiro**
