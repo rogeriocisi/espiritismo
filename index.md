@@ -67,6 +67,7 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 |--------|--------|-----------|
 | [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] | 1 | Obra fundadora; 1019 Q&As sobre a doutrina (1857) — ingerida |
 | [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] | 1 | Guia prático da mediunidade com classificação completa (1861) — ingerida |
+| [[wiki/obras/Allan Kardec/O Que é o Espiritismo]] | 1 | Introdução sintética e diálogos com críticos (1859) — ingerida |
 | [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]] | 1 | Três revelações; "Fora da Caridade não há salvação" (1864) — ingerida |
 | [[wiki/obras/Allan Kardec/O Céu e o Inferno]] | 1 | Penas eternas refutadas; exemplos mediúnicos (1865) — ingerida |
 | [[wiki/obras/Allan Kardec/A Gênese]] | 1 | Teoria dos fluidos; cosmogonia; milagres (1868) — ingerida |

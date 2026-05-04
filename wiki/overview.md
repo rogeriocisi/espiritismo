@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Overview — Wiki Espírita"
 type: overview
 tags: [espiritismo, doutrina, síntese]
@@ -80,10 +80,10 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 ## Estado do Wiki
 
-- **Fontes ingeridas**: 37 (7 Kardec + 18 André Luiz + 12 Emmanuel) — **COMPLETO**
+- **Fontes ingeridas**: 38 (8 Kardec + 18 André Luiz + 12 Emmanuel)
 - **Fontes pendentes**: 0
-- **Páginas criadas**: 49
-- **Páginas enriquecidas com fontes reais**: 33
+- **Páginas criadas**: 50
+- **Páginas enriquecidas com fontes reais**: 34
 - **Última atualização**: 2026-05-03
 
 ### Páginas com conteúdo substancial (fontes ingeridas)
@@ -91,11 +91,13 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 #### Kardec
 - [[wiki/entidades/Allan Kardec]] — biografia completa das Obras Póstumas
 - [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] — estrutura, Q&As fundamentais com citações
+- [[wiki/obras/Allan Kardec/O Que é o Espiritismo]] — introdução sintética, diálogos com críticos (1859)
 - [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]] — Três Revelações, pluralidade dos mundos
 - [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] — classificação completa dos médiuns, obsessão
 - [[wiki/obras/Allan Kardec/O Céu e o Inferno]] — argumento contra penas eternas; o nada
 - [[wiki/obras/Allan Kardec/A Gênese]] — teoria dos fluidos, cosmogonia
-- [[wiki/obras/Allan Kardec/Obras Póstumas]] — criada
+- [[wiki/obras/Allan Kardec/Obras Póstumas]] — biografia e comunicações da missão
+- [[wiki/obras/Allan Kardec/Revistas Espíritas]] — periódico 1858–1869; 12 vols.
 - [[wiki/conceitos/Reencarnação]] — Q.166–196 completos
 - [[wiki/conceitos/Escala Espírita]] — Q.97–101 com subdivisões
 - [[wiki/conceitos/Perispírito]] — Q.93–95 + fluido universal
