@@ -94,5 +94,4 @@ A posição doutrinária equilibrada reconhece que muitos casos são puramente o
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
 - [[wiki/entidades/André Luiz]]
-- [[wiki/obras/Série André Luiz]]
 - [[wiki/temas/Espiritismo e Ciência]]

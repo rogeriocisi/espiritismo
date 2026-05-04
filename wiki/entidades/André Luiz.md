@@ -38,7 +38,7 @@ Resgatado por **Clarêncio**, é conduzido à colônia espiritual *Nosso Lar*, o
 
 ## A Série
 
-A [[wiki/obras/Série André Luiz]] compõe um retrato sistemático e narrativo da vida espiritual. O arco evolutivo vai do médico materialista recém-desencarnado à figura de missionário espiritual com conhecimento aprofundado de mediunidade, obsessão, reencarnação e das leis que governam os planos espirituais.
+A [[Coleção A Vida no Mundo Espiritual]] compõe um retrato sistemático e narrativo da vida espiritual. O arco evolutivo vai do médico materialista recém-desencarnado à figura de missionário espiritual com conhecimento aprofundado de mediunidade, obsessão, reencarnação e das leis que governam os planos espirituais.
 
 | # | Título | Ano |
 |---|--------|-----|
@@ -86,7 +86,7 @@ A mensagem central que atravessa a série: a morte física não resolve nada —
 - [[wiki/entidades/Chico Xavier]]
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/obras/Nosso Lar]]
-- [[wiki/obras/Série André Luiz]]
+- [[Coleção A Vida no Mundo Espiritual]]
 - [[wiki/conceitos/Reencarnação]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/conceitos/Mediunidade]]

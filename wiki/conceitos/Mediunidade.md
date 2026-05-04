@@ -34,7 +34,7 @@ A **mediunidade** é a faculdade que permite a certos indivíduos — os **médi
 
 ## Os Mecanismos — André Luiz e Waldo Vieira
 
-Dois livros da [[wiki/obras/Série André Luiz]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
+Dois livros da [[Coleção A Vida no Mundo Espiritual]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
 
 ### A Teoria das Ondas
 
@@ -113,7 +113,7 @@ Essa posição é controversa no diálogo com a psiquiatria e psicologia moderna
 - [[wiki/conceitos/Desobsessão]]
 - [[wiki/conceitos/Perispírito]]
 - [[wiki/obras/O Livro dos Médiuns]]
-- [[wiki/obras/Série André Luiz]]
+- [[Coleção A Vida no Mundo Espiritual]]
 - [[wiki/entidades/Chico Xavier]]
 - [[wiki/entidades/André Luiz]]
 - [[wiki/temas/Espiritismo e Ciência]]

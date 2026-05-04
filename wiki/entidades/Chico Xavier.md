@@ -64,6 +64,6 @@ Em 2012, uma pesquisa do Instituto Datafolha o elegeu o **maior brasileiro de to
 - [[wiki/entidades/Emmanuel]]
 - [[wiki/entidades/André Luiz]]
 - [[wiki/obras/Nosso Lar]]
-- [[wiki/obras/Série André Luiz]]
+- [[Coleção A Vida no Mundo Espiritual]]
 - [[wiki/temas/Espiritismo no Brasil]]
 - [[wiki/conceitos/Mediunidade]]

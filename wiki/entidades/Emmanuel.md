@@ -30,7 +30,7 @@ Chico Xavier o viu pela primeira vez em 1931. A partir de 1933, Emmanuel passou 
 Emmanuel é descrito como o **coordenador espiritual** de toda a obra de Chico Xavier. Ele:
 - Dita obras próprias (filosóficas, históricas, de moral espírita)
 - Apresenta ao médium outros espíritos que ditam suas próprias obras — incluindo [[wiki/entidades/André Luiz]] e toda a série da vida espiritual
-- Escreve prefácios para obras ditadas por outros espíritos (como os prefácios dos livros da [[wiki/obras/Série André Luiz]])
+- Escreve prefácios para obras ditadas por outros espíritos (como os prefácios dos livros da [[Coleção A Vida no Mundo Espiritual]])
 - Responde a questões doutrinárias colocadas pelos grupos espíritas
 
 ---

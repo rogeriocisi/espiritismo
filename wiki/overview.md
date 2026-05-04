@@ -82,8 +82,8 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 - **Fontes ingeridas**: 37 (7 Kardec + 18 André Luiz + 12 Emmanuel) — **COMPLETO**
 - **Fontes pendentes**: 0
-- **Páginas criadas**: 37
-- **Páginas enriquecidas com fontes reais**: 21
+- **Páginas criadas**: 49
+- **Páginas enriquecidas com fontes reais**: 33
 - **Última atualização**: 2026-05-03
 
 ### Páginas com conteúdo substancial (fontes ingeridas)
@@ -104,7 +104,19 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 #### André Luiz / Chico Xavier
 - [[wiki/entidades/André Luiz]] — identidade, narrativa do personagem, citações dos prefácios
 - [[wiki/obras/Nosso Lar]] — estrutura completa, umbrais, Emmanuel, temas
-- [[wiki/obras/Série André Luiz]] — tabela corrigida com 13 volumes + obras complementares; arco narrativo
+- [[wiki/obras/Os Mensageiros]] — vol. 2; mensageiros do bem; Aniceto; prece e obsessão
+- [[wiki/obras/Missionários da Luz]] — vol. 3; psicógrafo, epífise, mediunidade técnica
+- [[wiki/obras/Obreiros da Vida Eterna]] — vol. 4; zonas de erraticidade; missões nas trevas
+- [[wiki/obras/No Mundo Maior]] — vol. 5; Instrutor Eusébio; psiquiatria iluminada
+- [[wiki/obras/Libertação]] — vol. 6; perseguidores invisíveis; parábola do peixinho
+- [[wiki/obras/Entre a Terra e o Céu]] — vol. 7; 40 caps.; reencarnação e laços afetivos
+- [[wiki/obras/Nos Domínios da Mediunidade]] — vol. 8; Áulus; psicofonia, possessão, fascinação
+- [[wiki/obras/Ação e Reação]] — vol. 9; karma; Mansão Paz; centenário do Espiritismo
+- [[wiki/obras/Evolução em Dois Mundos]] — vol. 10; perispírito sistemático; Chico Xavier + Waldo Vieira
+- [[wiki/obras/Mecanismos da Mediunidade]] — vol. 11; física ondulatória; circuitos mediúnicos
+- [[wiki/obras/Sexo e Destino]] — vol. 12; sexualidade e karma; Waldo Vieira + Chico Xavier
+- [[wiki/obras/E a Vida Continua]] — vol. 13; planos personalizados; centenário de A Gênese
+- [[Coleção A Vida no Mundo Espiritual]] — índice dos 13 vols. + complementares; arco narrativo
 - [[wiki/conceitos/Desobsessão]] — fundamento evangélico; 73 caps. do manual; processo passo a passo
 - [[wiki/conceitos/Mediunidade]] — teoria das ondas; tipos de psicofonia; perspectiva histórica
 
@@ -120,5 +132,5 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 ### Próximas prioridades
 1. Enriquecer páginas de entidades brasileiras (Chico Xavier, Divaldo Franco)
-2. Criar páginas para obras individuais da série André Luiz (Missionários da Luz, Desobsessão como obra)
-3. Criar páginas para romances históricos de Emmanuel (*Há Dois Mil Anos*, *Paulo e Estêvão*, *Ave, Cristo!*)
+2. Criar páginas para romances históricos de Emmanuel (*Há Dois Mil Anos*, *Paulo e Estêvão*, *Ave, Cristo!*)
+3. Criar página individual para *Desobsessão* como obra separada

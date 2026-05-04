@@ -10,6 +10,33 @@ grep "^## \[" log.md | tail -10
 
 ---
 
+## [2026-05-03] criação | Páginas individuais volumes 2–13 da Série André Luiz
+
+**Operação**: Criação de 12 páginas individuais para os volumes 2–13 da *Coleção A Vida no Mundo Espiritual*, a partir dos textos extraídos anteriormente em `/tmp/al_02_*` a `/tmp/al_13_*`.
+
+**Fontes consultadas**: textos extraídos via pdftotext de todos os 13 PDFs da série André Luiz (já ingeridos em sessão anterior). Leitura de índices completos, prefácios de Emmanuel, capítulo 1, temas centrais.
+
+**Páginas criadas** (12 novas):
+- `wiki/obras/Os Mensageiros.md` — vol. 2; 51 caps.; prefácio Emmanuel (Pedro Leopoldo, 26 fev. 1944); Aniceto; obsessão; prece
+- `wiki/obras/Missionários da Luz.md` — vol. 3; 20 caps.; prefácio (13 mai. 1945); psicógrafo, epífise, vampirismo, obsessão, passes
+- `wiki/obras/Obreiros da Vida Eterna.md` — vol. 4; 20 caps.; prefácio (25 mar. 1946); zonas de erraticidade; Jerônimo
+- `wiki/obras/No Mundo Maior.md` — vol. 5; 20 caps.; prefácio (25 mar. 1947); Eusébio; psiquiatria iluminada; Calderaro
+- `wiki/obras/Libertação.md` — vol. 6; 20 caps.; parábola do peixinho vermelho; perseguidores invisíveis
+- `wiki/obras/Entre a Terra e o Céu.md` — vol. 7; 40 caps.; prefácio (23 jan. 1954); Irmã Clara; reencarnação (caps. 29–31)
+- `wiki/obras/Nos Domínios da Mediunidade.md` — vol. 8; 30 caps.; prefácio (3 out. 1954); Áulus; psicofonia; possessão; fascinação
+- `wiki/obras/Ação e Reação.md` — vol. 9; 20 caps.; prefácio (1 jan. 1957); karma; Mansão Paz; Druso
+- `wiki/obras/Evolução em Dois Mundos.md` — vol. 10; 40 itens em 2 partes; prefácio (21 jul. 1958); Chico Xavier + Waldo Vieira; perispírito
+- `wiki/obras/Mecanismos da Mediunidade.md` — vol. 11; Chico Xavier + Waldo Vieira; física quântica e ondulatória aplicada à mediunidade
+- `wiki/obras/Sexo e Destino.md` — vol. 12; 28 caps. em 2 partes; prefácio (4 jul. 1963 Uberaba); Waldo Vieira (pt.1) + Chico Xavier (pt.2)
+- `wiki/obras/E a Vida Continua.md` — vol. 13; 26 caps.; prefácio (18 abr. 1968 Uberaba); Evelina Serpa; centenário de A Gênese
+
+**Páginas atualizadas**:
+- `wiki/obras/Coleção A Vida no Mundo Espiritual.md` — links internos adicionados a todos os 13 volumes
+- `index.md` — 12 novas linhas na seção Literatura Mediúnica Brasileira; contador 37→49 páginas
+- `wiki/overview.md` — páginas 37→49; enriquecidas 21→33; lista André Luiz expandida
+
+---
+
 ## [2026-05-03] ingestão | Revistas Espíritas — Tradutor Salvador Gentile (G:\Meu Drive\_Espiritismo\Kardec)
 
 **Operação**: Ingestão do periódico mensal de Kardec, 12 anos completos (1858–1869).

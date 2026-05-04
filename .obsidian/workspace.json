@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d5e4431df50e443",
+        "id": "739ab6aed4cf36a5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f800f51499ce3d3",
+            "id": "e19714510856408f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/obras/Coleção A Vida no Mundo Espiritual.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Coleção A Vida no Mundo Espiritual"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "right": {
     "id": "fdb784928c9cf5ca",
@@ -188,43 +192,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8f800f51499ce3d3",
+  "active": "e19714510856408f",
   "lastOpenFiles": [
-    "log.md",
-    "index.md",
-    "CLAUDE.md",
-    "wiki/obras/A Gênese.md",
-    "wiki/overview.md",
-    "wiki/temas/Espiritismo no Brasil.md",
-    "wiki/obras/Nosso Lar.md",
-    "wiki/conceitos/Pluralidade dos Mundos Habitados.md",
-    "index.md.tmp.20012.1777843697870",
-    "raw/Andre Luiz - Sinal Verde.pdf",
-    "raw/Andre Luiz - Respostas da Vida.pdf",
-    "raw/Andre Luiz - Obreiros da Vida Eterna.pdf",
-    "raw/Andre Luiz - Nosso Lar (Chico Xavier).pdf",
-    "raw/Andre Luiz - Missionarios da Luz.pdf",
-    "raw/Andre Luiz - Mecanismos da Mediunidade.pdf",
-    "raw/Andre Luiz - Desobsessao.pdf",
-    "raw/Andre Luiz - Conduta Espírita.pdf",
-    "raw/Andre Luiz - Agenda Crista.pdf",
-    "wiki/conceitos/Mediunidade.md",
-    "wiki/conceitos/Desobsessão.md",
-    "wiki/conceitos/Carma e Lei de Causa e Efeito.md",
-    "wiki/entidades/Allan Kardec.md",
-    "wiki/entidades/Joanna de Ângelis.md",
-    "wiki/temas/Evolucionismo Espiritual.md",
-    "wiki/obras/O Céu e o Inferno.md",
-    "wiki/obras/Obras Póstumas.md",
-    "wiki/temas/Espiritismo e Ciência.md",
-    "wiki/temas/Caridade como Lei.md",
-    "wiki/obras/O Livro dos Espíritos.md",
-    "wiki/conceitos/Perispírito.md",
-    "wiki/obras/O Evangelho Segundo o Espiritismo.md",
-    "wiki/obras/O Livro dos Médiuns.md",
+    "wiki/obras/Renúncia.md",
+    "wiki/obras/Ave, Cristo!.md",
+    "wiki/obras/Ave, Cristo!.md.tmp.20012.1777860543338",
+    "wiki/obras/Paulo e Estêvão.md",
+    "wiki/obras/Paulo e Estêvão.md.tmp.20012.1777860513841",
+    "wiki/obras/50 Anos Depois.md",
+    "wiki/obras/50 Anos Depois.md.tmp.20012.1777860490426",
+    "wiki/obras/Há Dois Mil Anos.md",
+    "wiki/obras/Há Dois Mil Anos.md.tmp.20012.1777860462670",
+    "wiki/overview.md.tmp.20012.1777860080857",
+    "index.md.tmp.20012.1777860058282",
+    "wiki/entidades/André Luiz.md",
+    "wiki/obras/Coleção A Vida no Mundo Espiritual.md.tmp.20012.1777860015507",
+    "wiki/obras/E a Vida Continua.md",
+    "wiki/obras/E a Vida Continua.md.tmp.20012.1777859957262",
     "wiki/obras/Série André Luiz.md",
-    "wiki/centros/União das Sociedades Espíritas.md",
-    "wiki/centros/Federação Espírita Brasileira.md",
-    "wiki/entidades/Leon Denis.md"
+    "wiki/obras/Ação e Reação.md",
+    "wiki/obras/Sexo e Destino.md",
+    "wiki/obras/Mecanismos da Mediunidade.md",
+    "wiki/obras/A Gênese.md",
+    "wiki/obras/O Livro dos Espíritos.md",
+    "wiki/obras/Evolução em Dois Mundos.md",
+    "wiki/obras/Nos Domínios da Mediunidade.md",
+    "wiki/obras/Entre a Terra e o Céu.md",
+    "wiki/obras/Libertação.md",
+    "wiki/obras/Libertação.md.tmp.20012.1777859787952",
+    "wiki/obras/No Mundo Maior.md",
+    "wiki/obras/No Mundo Maior.md.tmp.20012.1777859769764",
+    "wiki/obras/Obreiros da Vida Eterna.md",
+    "wiki/obras/Missionários da Luz.md",
+    "wiki/obras/Coleção A Vida no Mundo Espiritual.md",
+    "wiki/obras/Os Mensageiros.md",
+    "README.md",
+    "wiki/conceitos/Reencarnação.md",
+    "wiki/conceitos/Escala Espírita.md",
+    "wiki/temas/Espiritismo no Brasil.md"
   ]
 }
