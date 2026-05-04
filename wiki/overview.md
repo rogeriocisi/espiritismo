@@ -2,7 +2,7 @@
 title: "Overview — Wiki Espírita"
 type: overview
 tags: [espiritismo, doutrina, síntese]
-fontes: 24
+fontes: 37
 atualizado: 2026-05-03
 ---
 
@@ -80,10 +80,10 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 
 ## Estado do Wiki
 
-- **Fontes ingeridas**: 24 (6 obras Kardec + 18 obras André Luiz)
-- **Fontes pendentes**: 1 (Revistas Espíritas — Tradutor Salvador Gentile, 12 MB)
-- **Páginas criadas**: 33
-- **Páginas enriquecidas com fontes reais**: 16
+- **Fontes ingeridas**: 37 (7 Kardec + 18 André Luiz + 12 Emmanuel) — **COMPLETO**
+- **Fontes pendentes**: 0
+- **Páginas criadas**: 37
+- **Páginas enriquecidas com fontes reais**: 21
 - **Última atualização**: 2026-05-03
 
 ### Páginas com conteúdo substancial (fontes ingeridas)
@@ -108,7 +108,17 @@ Ver [[wiki/temas/Espiritismo no Brasil]] para detalhes.
 - [[wiki/conceitos/Desobsessão]] — fundamento evangélico; 73 caps. do manual; processo passo a passo
 - [[wiki/conceitos/Mediunidade]] — teoria das ondas; tipos de psicofonia; perspectiva histórica
 
+#### Emmanuel / Chico Xavier
+- [[wiki/entidades/Emmanuel]] — identidade (padre católico, Nóbrega?), missão, obras filosóficas e históricas
+- [[wiki/obras/A Caminho da Luz]] — 25 caps.; Jesus como Divino Escultor; Kardec na história universal
+- [[wiki/obras/O Consolador]] — estrutura Q&A; Ciência/Filosofia/Religião; diálogo com *O Livro dos Espíritos*
+
+#### Revistas Espíritas (Kardec)
+- [[wiki/obras/Revistas Espíritas]] — periódico 1858–1869; 12 vols.; caso Morzine; número memorial 1869
+- [[wiki/entidades/Allan Kardec]] — atualizado: SPEE (1º abr. 1858), Revistas, comunicação póstumo, estatística 1869
+- [[wiki/temas/Espiritismo e Ciência]] — enriquecida: Flammarion no túmulo; posição científica de Kardec
+
 ### Próximas prioridades
-1. Ingerir Revistas Espíritas (Gentile) — fonte rica para contexto histórico do movimento
-2. Enriquecer páginas de entidades brasileiras (Chico Xavier, Divaldo Franco)
-3. Criar páginas para obras individuais da série André Luiz (Missionários da Luz, Desobsessão como obra)
+1. Enriquecer páginas de entidades brasileiras (Chico Xavier, Divaldo Franco)
+2. Criar páginas para obras individuais da série André Luiz (Missionários da Luz, Desobsessão como obra)
+3. Criar páginas para romances históricos de Emmanuel (*Há Dois Mil Anos*, *Paulo e Estêvão*, *Ave, Cristo!*)

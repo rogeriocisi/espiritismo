@@ -10,6 +10,45 @@ grep "^## \[" log.md | tail -10
 
 ---
 
+## [2026-05-03] ingestão | Revistas Espíritas — Tradutor Salvador Gentile (G:\Meu Drive\_Espiritismo\Kardec)
+
+**Operação**: Ingestão do periódico mensal de Kardec, 12 anos completos (1858–1869).
+
+**Fonte processada** (1 PDF, 12 MB, 37.675 linhas extraídas):
+- *Revistas Espíritas — Jornal de Estudos Psicológicos*, tradução de Salvador Gentile, revisão Elias Barbosa, Instituto de Difusão Espírita (Araras, SP)
+- Cobre: volumes 1–12 (1858–1869); conteúdo: artigos doutrinários, boletins da SPEE, evocações, dissertações espíritas, correspondência internacional, bibliografias
+
+**Método**: Extração com pdftotext -enc UTF-8 → /tmp/revistas_espiritismo.txt. Leitura da Introdução (jan. 1858), índices anuais, estudo dos Possessos de Morzine (1862–1863), artigos de Flammarion, número memorial de maio de 1869 (biografia de Kardec, discurso de Flammarion, comunicação póstumo de Kardec, estatística do Espiritismo).
+
+**Páginas criadas/atualizadas**:
+- `wiki/obras/Revistas Espíritas.md` — NOVA: 12 volumes, tipos de conteúdo, caso Morzine, número memorial de 1869, discurso de Flammarion, comunicação de Kardec como espírito
+- `wiki/entidades/Allan Kardec.md` — enriquecida (fontes:2→3): SPEE fundada 1º abril 1858, link para Revistas, comunicação póstumo, estatística de 1869
+- `wiki/temas/Espiritismo e Ciência.md` — enriquecida (fontes:0→1): Flammarion no túmulo; citação do discurso; posição de Kardec sobre ciência x doutrina
+- `index.md` — nova linha para Revistas Espíritas; fontes: 37/37; 37 páginas
+
+**Arquivo copiado para raw/**: Revistas_Espíritas_-_Tradutor_SALVADOR_GENTILE.pdf
+
+---
+
+## [2026-05-03] ingestão | 12 obras de Emmanuel (G:\Meu Drive\_Espiritismo\Emmanuel)
+
+**Operação**: Ingestão da Série Emmanuel — romances históricos + obras filosófico-doutrinárias.
+
+**Fontes processadas** (12 PDFs):
+- Filosóficas/doutrinárias: *A Caminho da Luz* (1938), *O Consolador* (1940), *Emmanuel* (1937), *Fonte Viva*, *Boa Nova*, *Vida e Sexo*
+- Romances históricos: *Há Dois Mil Anos* (séc. I), *50 Anos Depois*, *Paulo e Estêvão*, *Ave, Cristo!*, *Renúncia*, *Santa Marina*
+
+**Método**: Extração com pdftotext -enc UTF-8 → /tmp/emmanuel_txt/. Leitura de prefácios, índices e seções-chave de: *A Caminho da Luz* (25 caps.), *O Consolador* (2 partes, Q&As selecionados), *Emmanuel* (dissertações), *Há Dois Mil Anos* (contexto romano séc. I). Nota: *Santa Marina* (23 MB) e *Vida e Sexo* extraídos com baixo volume de texto (provável PDF digitalizado).
+
+**Páginas atualizadas/criadas**:
+- `wiki/entidades/Emmanuel.md` — reescrita: identidade, obras filosóficas e históricas, estilo e perspectiva, citação do prefácio de 1937
+- `wiki/obras/A Caminho da Luz.md` — NOVA: tabela de dados, índice completo de 25 caps., tese central, Jesus como Divino Escultor, Kardec na história universal, papel da América
+- `wiki/obras/O Consolador.md` — NOVA: tabela de dados, estrutura em 2 partes, questão inicial (3 aspectos), Q&As selecionados (Q.1, Q.2, Q.9, Q.20, Q.21), comparação com *O Livro dos Espíritos*
+
+**Arquivos copiados para raw/**: todos os 12 PDFs
+
+---
+
 ## [2026-05-03] ingestão | 18 obras de André Luiz (G:\Meu Drive\_Espiritismo\Andre-Luiz)
 
 **Operação**: Ingestão da Série André Luiz completa + obras complementares.

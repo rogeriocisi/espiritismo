@@ -22,7 +22,7 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 
 | Página | Fontes | Descrição |
 |--------|--------|-----------|
-| [[wiki/entidades/Allan Kardec]] | 2 | Codificador do Espiritismo; sistematizou a doutrina em Paris (1857–1869) |
+| [[wiki/entidades/Allan Kardec]] | 3 | Codificador do Espiritismo; sistematizou a doutrina em Paris (1857–1869) |
 | [[wiki/entidades/Leon Denis]] | 0 | Continuador da obra de Kardec; filósofo e orador espírita francês |
 | [[wiki/entidades/Gabriel Delanne]] | 0 | Pesquisador e defensor científico do Espiritismo |
 
@@ -37,8 +37,8 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 
 | Página | Fontes | Descrição |
 |--------|--------|-----------|
-| [[wiki/entidades/Emmanuel]] | 0 | Mentor espiritual de Chico Xavier; assina grande parte das obras psicografadas |
-| [[wiki/entidades/André Luiz]] | 0 | Espírito ditante da série sobre a vida no além; psicografado por Chico Xavier |
+| [[wiki/entidades/Emmanuel]] | 1 | Padre católico no Brasil; coordenador espiritual de Chico Xavier; série histórica e filosófica — ingerida |
+| [[wiki/entidades/André Luiz]] | 1 | Espírito ditante da série; médico materialista; jornada evolutiva — ingerida |
 | [[wiki/entidades/Joanna de Ângelis]] | 0 | Espírito ditante das obras de Divaldo Franco; foco em psicologia espiritual |
 | [[wiki/entidades/Bezerra de Menezes]] | 0 | Médico e espírita do século XIX; patrono da cura espiritual no Brasil |
 
@@ -71,6 +71,7 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 | [[wiki/obras/O Céu e o Inferno]] | 1 | Penas eternas refutadas; exemplos mediúnicos (1865) — ingerida |
 | [[wiki/obras/A Gênese]] | 1 | Teoria dos fluidos; cosmogonia; milagres (1868) — ingerida |
 | [[wiki/obras/Obras Póstumas]] | 1 | Biografia de Kardec; Discurso de Flammarion; comunicações da missão — ingerida |
+| [[wiki/obras/Revistas Espíritas]] | 1 | Periódico mensal (1858–1869); 12 vols.; fonte primária da codificação — ingerida |
 
 ### Literatura Mediúnica Brasileira
 
@@ -78,6 +79,8 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 |--------|--------|-----------|
 | [[wiki/obras/Nosso Lar]] | 1 | Primeiro livro da série André Luiz; umbrais, colônia espiritual, Emmanuel (1944) — ingerida |
 | [[wiki/obras/Série André Luiz]] | 1 | 13 obras + complementares; arco evolutivo completo; Waldo Vieira — ingerida |
+| [[wiki/obras/A Caminho da Luz]] | 1 | História da civilização à luz do Espiritismo; 25 caps.; Emmanuel (1938) — ingerida |
+| [[wiki/obras/O Consolador]] | 1 | Q&A Ciência/Filosofia/Religião; Emmanuel (1940); diálogo com O Livro dos Espíritos — ingerida |
 
 ---
 
@@ -85,7 +88,7 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 
 | Página | Fontes | Descrição |
 |--------|--------|-----------|
-| [[wiki/temas/Espiritismo e Ciência]] | 0 | Relação entre a doutrina espírita e a investigação científica |
+| [[wiki/temas/Espiritismo e Ciência]] | 1 | Relação entre a doutrina espírita e a investigação científica; Flammarion — ingerida |
 | [[wiki/temas/Espiritismo no Brasil]] | 0 | História e particularidades do movimento espírita brasileiro |
 | [[wiki/temas/Caridade como Lei]] | 2 | "Fora da caridade não há salvação"; Q.886–893; São Vicente de Paulo |
 | [[wiki/temas/Evolucionismo Espiritual]] | 0 | Progressão contínua dos espíritos como lei universal |
@@ -111,7 +114,7 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 | Allan Kardec - o-ceu-e-o-inferno.pdf | ✅ Ingerido |
 | Allan Kardec - gen_br.pdf | ✅ Ingerido |
 | Allan Kardec - Obras Póstumas.pdf | ✅ Ingerido |
-| Revistas_Espíritas_-_Tradutor_SALVADOR_GENTILE.pdf | ⏳ Pendente |
+| Revistas_Espíritas_-_Tradutor_SALVADOR_GENTILE.pdf | ✅ Ingerido |
 | Andre Luiz - Nosso Lar (Chico Xavier).pdf | ✅ Ingerido |
 | Andre Luiz - Os Mensageiros (Chico Xavier).pdf | ✅ Ingerido |
 | Andre Luiz - Missionarios da Luz.pdf | ✅ Ingerido |
@@ -130,7 +133,19 @@ Catálogo de todas as páginas do wiki, organizado por categoria. Atualizado a c
 | Andre Luiz - Sinal Verde.pdf | ✅ Ingerido |
 | Andre Luiz - Conduta Espírita.pdf | ✅ Ingerido |
 | Andre Luiz - Respostas da Vida.pdf | ✅ Ingerido |
+| Emmanuel - a-caminho-da-luz.pdf | ✅ Ingerido |
+| Emmanuel - oconsolador.pdf | ✅ Ingerido |
+| Emmanuel - Emmanuel-Emmanuel.pdf | ✅ Ingerido |
+| Emmanuel - ha_dois-mil_anos.pdf | ✅ Ingerido |
+| Emmanuel - Paulo-e-Estevao.pdf | ✅ Ingerido |
+| Emmanuel - Ave-Cristo.pdf | ✅ Ingerido |
+| Emmanuel - 50_Anos_Depois.pdf | ✅ Ingerido |
+| Emmanuel - Renuncia.pdf | ✅ Ingerido |
+| Emmanuel - FONTE_VIVA.pdf | ✅ Ingerido |
+| Emmanuel - Boa-Nova.pdf | ✅ Ingerido |
+| Emmanuel - Santa-Marina.pdf | ✅ Ingerido |
+| Emmanuel - Vida_e_Sexo.pdf | ✅ Ingerido |
 
 ---
 
-*Páginas: 33 | Fontes ingeridas: 24/26 | Última atualização: 2026-05-03*
+*Páginas: 37 | Fontes ingeridas: 37/37 | Última atualização: 2026-05-03*
