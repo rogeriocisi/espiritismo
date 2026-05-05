@@ -1,4 +1,4 @@
----
+﻿---
 title: "Desobsessão"
 type: conceito
 tags: [prática, obsessão-espiritual, cura, tratamento-espiritual, André-Luiz]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Desobsessão
 
-A **desobsessão** é o trabalho espiritual voltado a libertar uma pessoa da influência perturbadora de espíritos que, por ódio, ignorância ou vínculos kármicos do passado, exercem ação obsessiva sobre ela. É uma das práticas mais específicas do Espiritismo e tema de obra dedicada de [[wiki/entidades/André Luiz]].
+A **desobsessão** é o trabalho espiritual voltado a libertar uma pessoa da influência perturbadora de espíritos que, por ódio, ignorância ou vínculos kármicos do passado, exercem ação obsessiva sobre ela. É uma das práticas mais específicas do Espiritismo e tema de obra dedicada de [[André Luiz]].
 
 ---
 
@@ -62,7 +62,7 @@ A desobsessão é sempre um processo de **evangelização do espírito perturbad
 3. Os membros do grupo conversam com o espírito — identificam sua história, sofrimento e razões de sua conduta
 4. Oferecem orientação moral, prece e amor fraterno
 5. Espíritos benfeitores assistem à sessão e conduzem o espírito perturbador a um plano mais adequado
-6. O obsidiado recebe [[wiki/conceitos/Passes|passes]] e orientação para romper os vínculos de atração
+6. O obsidiado recebe [[Passes|passes]] e orientação para romper os vínculos de atração
 
 A equipe precisa de **paciência e compreensão análogas às dos enfermeiros dedicados ao socorro dos irmãos segregados nos meandros da psicose**.
 
@@ -70,7 +70,7 @@ A equipe precisa de **paciência e compreensão análogas às dos enfermeiros de
 
 ## Fundamento Doutrinário
 
-A justificativa doutrinária está na [[wiki/conceitos/Carma e Lei de Causa e Efeito|Lei de Causa e Efeito]]: o espírito obsessor geralmente tem vínculo kármico com o obsidiado — é alguém que prejudicou ou foi prejudicado em encarnações anteriores. A desobsessão é oportunidade de reparação para ambos.
+A justificativa doutrinária está na [[Carma e Lei de Causa e Efeito|Lei de Causa e Efeito]]: o espírito obsessor geralmente tem vínculo kármico com o obsidiado — é alguém que prejudicou ou foi prejudicado em encarnações anteriores. A desobsessão é oportunidade de reparação para ambos.
 
 André Luiz acrescenta que cada centro espírita deve ter sua equipe de desobsessão **não somente para socorrer as vítimas, mas para defesa e conservação de si mesma** — pois um centro sem esse trabalho fica vulnerável.
 
@@ -89,9 +89,9 @@ A posição doutrinária equilibrada reconhece que muitos casos são puramente o
 
 ## Links
 
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/conceitos/Passes]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/entidades/André Luiz]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Mediunidade]]
+- [[Passes]]
+- [[Perispírito]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[André Luiz]]
+- [[Espiritismo e Ciência]]

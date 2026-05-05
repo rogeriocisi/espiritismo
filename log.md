@@ -1,4 +1,4 @@
-# Log do Wiki Espírita
+﻿# Log do Wiki Espírita
 
 Log cronológico de todas as operações: ingestões, queries arquivadas e revisões de saúde.
 Formato de cada entrada: `## [YYYY-MM-DD] tipo | Descrição`
@@ -7,6 +7,48 @@ Para listar as últimas entradas rapidamente:
 ```
 grep "^## \[" log.md | tail -10
 ```
+
+---
+
+## [2026-05-04] criação | Ingestão em lote — 41 novas páginas (raw/ completo)
+
+**Operação**: Geração de páginas wiki para todas as obras adicionadas ao diretório raw/ desde a última sessão. Abrangeu entidades, obras de múltiplos autores e atualizações do índice.
+
+**Páginas de entidades criadas** (4):
+- `wiki/autores/Manoel Philomeno de Miranda.md` — fontes:2; mentor de Divaldo Franco; psiquiatria espiritual; obras: Transtornos, Transição, Loucura
+- `wiki/autores/Yvonne Pereira.md` — fontes:1; médium vidente/auditiva; *Memórias de um Suicida* (FEB, 1955)
+- `wiki/autores/Herculano Pires.md` — fontes:1; filósofo; PAIDEIA; *O Espírito e o Tempo* (7° melhor livro espírita séc. XX)
+- `wiki/autores/Humberto de Campos.md` — fontes:1; escritor ABL (†1934); ditou obras a Chico Xavier; processo com herdeiros; pseudônimo "Irmão X"
+
+**Páginas de obras criadas** (37):
+- Léon Denis: *No Invisível*, *O Problema do Ser*, *O Porquê da Vida*, *Espíritos e Médiuns*, *Socialismo e Espiritismo*
+- Divaldo Franco: *O Homem Integral*, *Jesus e Atualidade*, *Em Busca da Verdade*, *Calvário de Libertação*, *Transtornos Psiquiátricos e Obsessivos*, *Transição Planetária*
+- André Luiz: *Entre Irmãos de Outras Terras* (bimediunidade Waldo/Chico, 1965)
+- Humberto de Campos: *Brasil Coração do Mundo Pátria do Evangelho*, *Boa Nova*
+- Manoel Philomeno: *Loucura e Obsessão*
+- Bezerra de Menezes: *A Loucura sob um Novo Prisma* (pseudônimo MAX)
+- Emmanuel: *Vida e Sexo*
+- Chico Xavier: *Parnaso de Além-Túmulo*
+- Yvonne Pereira: *Memórias de um Suicida*
+- Herculano Pires: *O Espírito e o Tempo*, *Vampirismo*, *Espiritismo Dialético*
+- Allan Kardec: *Discursos Pronunciados*
+- Gabriel Delanne: *O Espiritismo perante a Ciência*
+- Alexandre Aksakof: *Animismo e Espiritismo*
+- Gustave Geley: *Do Inconsciente ao Consciente*
+- Albert de Rochas: *Exteriorização da Sensibilidade*
+- Paul Gibier e Ernesto Bozzano: *Materializações de Espíritos*
+- Henri Sausse: *Biografia de Allan Kardec*
+- Arthur Conan Doyle: *História do Espiritismo*
+- Dora Incontri: *Pedagogia Espírita*
+- Marcel Souto Maior: *As Vidas de Chico Xavier*
+- Francisco Valdomiro Lorenz: *O Esperanto como Revelação*
+- André Luiz: *Agenda Cristã*, *Sinal Verde*, *Conduta Espírita*, *Respostas da Vida* (indexadas)
+
+**Atualizações**:
+- `index.md` — reescrito: 58→99 páginas; 37→65 fontes; novas seções por autor/tema; raw/ atualizado
+- `wiki/overview.md` — contadores atualizados; prioridades revisadas
+
+**Método**: pdftotext extraindo páginas 1–12 de cada PDF; leitura de índice, prefácio, abertura, temas; página criada em seguida.
 
 ---
 
@@ -37,7 +79,7 @@ grep "^## \[" log.md | tail -10
 **Páginas atualizadas**:
 - `index.md` — 5 novas linhas (romances históricos Emmanuel); contador 49→54; data 2026-05-04
 - `wiki/overview.md` — contador páginas 50→54; enriquecidas 34→38; prioridades atualizadas; lista Emmanuel expandida; data 2026-05-04
-- `wiki/entidades/Chico Xavier.md` — reescrita completa (fontes:0→2): cronologia Pedro Leopoldo/Uberaba com datas dos prefácios; tabela dos 13 volumes com anos e locais; bimediunidade com Waldo Vieira; relação com FEB; séries Emmanuel filosófica e histórica; controvérsias detalhadas
+- `wiki/autores/Chico Xavier.md` — reescrita completa (fontes:0→2): cronologia Pedro Leopoldo/Uberaba com datas dos prefácios; tabela dos 13 volumes com anos e locais; bimediunidade com Waldo Vieira; relação com FEB; séries Emmanuel filosófica e histórica; controvérsias detalhadas
 
 **Páginas já existentes confirmadas como completas** (fontes: 1, não estavam no índice):
 - `wiki/obras/Emmanuel/Há Dois Mil Anos.md` — índice dos 20 caps. em 2 partes; Públio Lentulus; Galileia até Pompeia
@@ -93,7 +135,7 @@ grep "^## \[" log.md | tail -10
 
 **Páginas criadas/atualizadas**:
 - `wiki/obras/Revistas Espíritas.md` — NOVA: 12 volumes, tipos de conteúdo, caso Morzine, número memorial de 1869, discurso de Flammarion, comunicação de Kardec como espírito
-- `wiki/entidades/Allan Kardec.md` — enriquecida (fontes:2→3): SPEE fundada 1º abril 1858, link para Revistas, comunicação póstumo, estatística de 1869
+- `wiki/autores/Allan Kardec.md` — enriquecida (fontes:2→3): SPEE fundada 1º abril 1858, link para Revistas, comunicação póstumo, estatística de 1869
 - `wiki/temas/Espiritismo e Ciência.md` — enriquecida (fontes:0→1): Flammarion no túmulo; citação do discurso; posição de Kardec sobre ciência x doutrina
 - `index.md` — nova linha para Revistas Espíritas; fontes: 37/37; 37 páginas
 
@@ -112,7 +154,7 @@ grep "^## \[" log.md | tail -10
 **Método**: Extração com pdftotext -enc UTF-8 → /tmp/emmanuel_txt/. Leitura de prefácios, índices e seções-chave de: *A Caminho da Luz* (25 caps.), *O Consolador* (2 partes, Q&As selecionados), *Emmanuel* (dissertações), *Há Dois Mil Anos* (contexto romano séc. I). Nota: *Santa Marina* (23 MB) e *Vida e Sexo* extraídos com baixo volume de texto (provável PDF digitalizado).
 
 **Páginas atualizadas/criadas**:
-- `wiki/entidades/Emmanuel.md` — reescrita: identidade, obras filosóficas e históricas, estilo e perspectiva, citação do prefácio de 1937
+- `wiki/autores/Emmanuel.md` — reescrita: identidade, obras filosóficas e históricas, estilo e perspectiva, citação do prefácio de 1937
 - `wiki/obras/Emmanuel/A Caminho da Luz.md` — NOVA: tabela de dados, índice completo de 25 caps., tese central, Jesus como Divino Escultor, Kardec na história universal, papel da América
 - `wiki/obras/Emmanuel/O Consolador.md` — NOVA: tabela de dados, estrutura em 2 partes, questão inicial (3 aspectos), Q&As selecionados (Q.1, Q.2, Q.9, Q.20, Q.21), comparação com *O Livro dos Espíritos*
 
@@ -133,7 +175,7 @@ grep "^## \[" log.md | tail -10
 **Páginas atualizadas/criadas**:
 - `wiki/obras/André Luiz/Nosso Lar.md` — enriquecida: cap.1 (umbrais), prefácio Emmanuel, mensagem André Luiz, tabela de capítulos, temas
 - `wiki/obras/Série André Luiz.md` — reescrita: tabela corrigida com obras complementares, arco narrativo, volumes Waldo Vieira
-- `wiki/entidades/André Luiz.md` — enriquecida: identidade, narrativa do personagem, citações diretas
+- `wiki/autores/André Luiz.md` — enriquecida: identidade, narrativa do personagem, citações diretas
 - `wiki/conceitos/Desobsessão.md` — enriquecida: fundamento evangélico, estrutura do livro (73 caps.), citações de André Luiz
 - `wiki/conceitos/Mediunidade.md` — enriquecida: teoria das ondas (André Luiz/Waldo Vieira), tipos de psicofonia, perspectiva histórica
 
@@ -163,7 +205,7 @@ grep "^## \[" log.md | tail -10
 - `wiki/obras/O Céu e o Inferno.md` — doutrina vs. penas eternas; "o porvir e o nada"; exemplos mediúnicos
 - `wiki/obras/A Gênese.md` — teoria dos fluidos, cosmogonia, milagres
 - `wiki/obras/Obras Póstumas.md` — criada (nova); biografia, Flammarion, comunicações da missão
-- `wiki/entidades/Allan Kardec.md` — enriquecida com dados biográficos das Obras Póstumas
+- `wiki/autores/Allan Kardec.md` — enriquecida com dados biográficos das Obras Póstumas
 - `wiki/conceitos/Reencarnação.md` — Q.166–196 completos com citações diretas
 - `wiki/conceitos/Escala Espírita.md` — Q.97–101 completos com subdivisões
 - `wiki/conceitos/Perispírito.md` — Q.93–95 completos + fluido universal (A Gênese)
@@ -182,7 +224,7 @@ grep "^## \[" log.md | tail -10
 - `index.md` — índice de páginas
 - `log.md` — este arquivo
 - `wiki/overview.md` — síntese geral inicial
-- Estrutura de diretórios: `wiki/entidades/`, `wiki/conceitos/`, `wiki/obras/`, `wiki/temas/`, `wiki/centros/`
+- Estrutura de diretórios: `wiki/autores/`, `wiki/conceitos/`, `wiki/obras/`, `wiki/temas/`, `wiki/centros/`
 - Páginas stub para todas as entidades, conceitos, obras, temas e centros listados no índice
 
 **Estado**: Wiki inicializado com estrutura base. Nenhuma fonte externa ingerida ainda. Todas as páginas são stubs com conteúdo inicial baseado no conhecimento do modelo.

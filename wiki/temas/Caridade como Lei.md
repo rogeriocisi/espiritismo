@@ -10,7 +10,7 @@ atualizado: 2026-05-03
 
 > *"Fora da caridade não há salvação."*
 
-Esta frase, síntese dos princípios morais do Espiritismo, oriundos das comunicações mediúnicas compiladas em [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]], é o princípio mais citado e praticado no movimento espírita brasileiro. A caridade é entendida não como ato ocasional, mas como **lei fundamental** da vida espiritual.
+Esta frase, síntese dos princípios morais do Espiritismo, oriundos das comunicações mediúnicas compiladas em [[O Evangelho Segundo o Espiritismo]], é o princípio mais citado e praticado no movimento espírita brasileiro. A caridade é entendida não como ato ocasional, mas como **lei fundamental** da vida espiritual.
 
 ---
 
@@ -62,7 +62,7 @@ O Espiritismo identifica no **egoísmo** o maior obstáculo à evolução espiri
 |----------|-----------|
 | **Material** | Auxílio concreto — alimentos, remédios, abrigo |
 | **Moral** | Paciência, perdão, compreensão, ausência de julgamento |
-| **Espiritual** | Prece, [[wiki/conceitos/Passes\|passes]], [[wiki/conceitos/Desobsessão\|desobsessão]], orientação mediúnica |
+| **Espiritual** | Prece, [[Passes\|passes]], [[Desobsessão\|desobsessão]], orientação mediúnica |
 
 A caridade espírita é **gratuita por definição** — cobrar por passes ou consultas mediúnicas é considerado desvio grave.
 
@@ -70,7 +70,7 @@ A caridade espírita é **gratuita por definição** — cobrar por passes ou co
 
 ## O Lema Espírita
 
-Nas [[wiki/obras/Allan Kardec/Obras Póstumas]], a biografia de Kardec registra a contraposição ao dogma religioso:
+Nas [[Obras Póstumas]], a biografia de Kardec registra a contraposição ao dogma religioso:
 
 > *"Em vez do postulado 'Fora da Igreja não há salvação', que alimenta a separação e a inimizade entre as diferentes seitas religiosas e que há feito correr tanto sangue, o Espiritismo tem como divisa: 'Fora da Caridade não há salvação', isto é, a igualdade entre os homens perante Deus, a tolerância, a liberdade de consciência e a benevolência mútua."*
 
@@ -97,11 +97,11 @@ Uma das mensagens mais citadas nos centros espíritas, atribuída a São Vicente
 
 ## Links
 
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/Obras Póstumas]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/entidades/Bezerra de Menezes]]
-- [[wiki/centros/Federação Espírita Brasileira]]
+- [[O Evangelho Segundo o Espiritismo]]
+- [[O Livro dos Espíritos]]
+- [[Obras Póstumas]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Evolucionismo Espiritual]]
+- [[Bezerra de Menezes]]
+-Federação Espírita Brasileira]
 

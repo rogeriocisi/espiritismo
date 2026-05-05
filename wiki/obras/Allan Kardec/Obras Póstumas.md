@@ -1,4 +1,4 @@
----
+﻿---
 title: "Obras Póstumas"
 type: obra
 tags: [Kardec, póstumo, biografia, missão, Revue-Spirite, 1869]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Obras Póstumas
 
-**Obras Póstumas** é uma coletânea de escritos de [[wiki/entidades/Allan Kardec]] compilados pelos dirigentes da Sociedade Parisiense de Estudos Espíritas — com destaque para Pierre-Gaëtan Leymarie e Amélie-Gabrielle Boudet (viúva de Kardec) — publicada logo após o desencarne do Codificador, em 1869.
+**Obras Póstumas** é uma coletânea de escritos de [[Allan Kardec]] compilados pelos dirigentes da Sociedade Parisiense de Estudos Espíritas — com destaque para Pierre-Gaëtan Leymarie e Amélie-Gabrielle Boudet (viúva de Kardec) — publicada logo após o desencarne do Codificador, em 1869.
 
 ---
 
@@ -81,7 +81,7 @@ PDF: *Allan Kardec — Obras Póstumas.pdf*
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/temas/Espiritismo e Ciência]]
-- [[wiki/temas/Caridade como Lei]]
+- [[Allan Kardec]]
+- [[O Livro dos Espíritos]]
+- [[Espiritismo e Ciência]]
+- [[Caridade como Lei]]

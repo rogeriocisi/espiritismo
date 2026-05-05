@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95e9f970280ee60e",
+        "id": "3f64d89c9b3a4331",
         "type": "tabs",
         "children": [
           {
-            "id": "9e02012d0621f4c9",
+            "id": "c771cdf88729323d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/obras/Divaldo Franco/Em Busca da Verdade.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Em Busca da Verdade"
+              "title": "index"
             }
           }
         ]
@@ -192,43 +192,43 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9e02012d0621f4c9",
+  "active": "c771cdf88729323d",
   "lastOpenFiles": [
-    "wiki/obras/Divaldo Franco/O Homem Integral.md",
-    "wiki/obras/Leon Denis/Espíritos e Médiuns.md",
-    "wiki/obras/Divaldo Franco/Transição Planetária.md",
-    "wiki/obras/Divaldo Franco/Transtornos Psiquiátricos e Obsessivos.md",
-    "wiki/obras/Divaldo Franco/Calvário de Libertação.md",
-    "wiki/obras/Divaldo Franco/Em Busca da Verdade.md",
-    "wiki/obras/Divaldo Franco/Jesus e Atualidade.md",
-    "wiki/obras/Leon Denis/O Porquê da Vida.md",
-    "wiki/obras/Leon Denis/O Problema do Ser, do Destino e da Dor.md",
+    "wiki/obras/Emmanuel/A Caminho da Luz.md",
+    "wiki/obras/Dora Incontri/Pedagogia Espírita.md",
+    "wiki/autores/Léon Denis.md",
+    "wiki/autores/Joanna de Ângelis.md",
+    "wiki/autores/Humberto de Campos.md",
+    "wiki/autores/Herculano Pires.md",
+    "wiki/autores/Gabriel Delanne.md",
+    "wiki/autores/Emmanuel.md",
+    "wiki/autores/Divaldo Franco.md",
+    "wiki/autores/Chico Xavier.md",
+    "wiki/autores/Bezerra de Menezes.md",
+    "wiki/autores/André Luiz.md",
+    "wiki/autores/Allan Kardec.md",
+    "wiki/obras/Herculano Pires/O Espírito e o Tempo.md",
+    "wiki/obras/Gustave Geley/Do Inconsciente ao Consciente.md",
     "wiki/obras/Leon Denis/Socialismo e Espiritismo.md",
-    "wiki/obras/Leon Denis/No Invisível.md",
-    "wiki/obras/Divaldo Franco",
-    "wiki/obras/André Luiz/Desobsessão.md",
-    "wiki/obras/Leon Denis",
-    "wiki/entidades/Humberto de Campos.md",
-    "wiki/entidades/Herculano Pires.md",
-    "wiki/entidades/Yvonne Pereira.md",
-    "wiki/entidades/Manoel Philomeno de Miranda.md",
-    "raw/Souto Maior - As Vidas de Chico Xavier.pdf",
-    "raw/Paul Gibier e Ernesto Bozzano - Materializações de Espíritos.pdf",
-    "raw/Memorias_de_um_Suicida.pdf",
-    "raw/Manoel_Philomeno_de_Miranda__Transicao_Planetaria.pdf",
-    "raw/Manoel Philomeno de Miranda - Transtornos Psiquiátricos e Obsessivos.pdf",
-    "raw/Manoel Philomeno de Miranda - Loucura e Obsessão.pdf",
-    "raw/Leon Denis - Socialismo e Espiritismo.pdf",
-    "raw/Leon Denis - O Problema do Ser do Destino e da Dor.pdf",
-    "wiki/obras/Emmanuel/Santa Marina.md",
-    "AI.md",
-    "wiki/obras/Emmanuel/Boa Nova.md",
-    "wiki/obras/Emmanuel/Fonte Viva.md",
-    "wiki/obras/Emmanuel/Emmanuel.md",
+    "wiki/obras/Joanna de Ângelis/Em Busca da Verdade.md",
+    "wiki/obras/Joanna de Ângelis/Jesus e Atualidade.md",
+    "wiki/obras/Joanna de Ângelis/O Homem Integral.md",
+    "wiki/obras/Manoel Philomeno de Miranda/Transição Planetária.md",
+    "wiki/obras/Manoel Philomeno de Miranda/Transtornos Psiquiátricos e Obsessivos.md",
+    "wiki/obras/Manoel Philomeno de Miranda/Loucura e Obsessão.md",
     "README.md",
+    "log.md",
+    "index.md",
     "GEMINI.md",
-    "CLAUDE.md",
-    "wiki/obras/Allan Kardec/O Que é o Espiritismo.md",
-    "log.md"
+    "index.md.tmp.7076.1777921500469",
+    "wiki/obras/Espíritos Diversos",
+    "wiki/obras/Victor Hugo",
+    "wiki/obras/Joanna de Ângelis",
+    "wiki/autores",
+    "log.md.tmp.7076.1777914118074",
+    "wiki/overview.md.tmp.7076.1777914087716",
+    "wiki/overview.md.tmp.7076.1777914082348",
+    "wiki/obras/Marcel Souto Maior/As Vidas de Chico Xavier.md.tmp.7076.1777913868869",
+    "wiki/obras/Marcel Souto Maior"
   ]
 }

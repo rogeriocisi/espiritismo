@@ -1,4 +1,4 @@
----
+﻿---
 title: "Passes"
 type: conceito
 tags: [prática, cura-espiritual, fluidos, mediunidade-curadora]
@@ -14,7 +14,7 @@ O **passe** é uma prática espírita de transmissão de fluidos vitais e espiri
 
 ## Fundamento Doutrinário
 
-O passe se baseia no conceito de [[wiki/conceitos/Perispírito|perispírito]] e de fluidos espirituais: toda pessoa irradia e absorve fluidos que influenciam seu estado físico, emocional e espiritual. O médium curador serve de canal para que espíritos benevolentes transmitam fluidos equilibradores ao paciente.
+O passe se baseia no conceito de [[Perispírito|perispírito]] e de fluidos espirituais: toda pessoa irradia e absorve fluidos que influenciam seu estado físico, emocional e espiritual. O médium curador serve de canal para que espíritos benevolentes transmitam fluidos equilibradores ao paciente.
 
 ---
 
@@ -47,8 +47,8 @@ A eficácia dos passes é afirmada na doutrina e relatada por muitos praticantes
 
 ## Links
 
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Perispírito]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/entidades/Bezerra de Menezes]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Bezerra de Menezes]]
+- [[Espiritismo e Ciência]]

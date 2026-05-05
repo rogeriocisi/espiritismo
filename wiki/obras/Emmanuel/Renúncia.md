@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Renúncia
 
-**Renúncia** é romance ditado pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]]. Ao contrário dos outros romances históricos de Emmanuel ambientados no Cristianismo primitivo, *Renúncia* é uma história de época moderna — com cenários em Espanha, Paris e América — e narra a jornada de **Alcione**, uma alma de luz extraordinária, e **Pólux**, o espírito que tenta e falha repetidas vezes em cumprir sua vocação ao sacerdócio. O livro é também sobre karma afetivo entre almas que se acompanham ao longo de séculos.
+**Renúncia** é romance ditado pelo espírito [[wiki/autores/Emmanuel]] ao médium [[Chico Xavier]]. Ao contrário dos outros romances históricos de Emmanuel ambientados no Cristianismo primitivo, *Renúncia* é uma história de época moderna — com cenários em Espanha, Paris e América — e narra a jornada de **Alcione**, uma alma de luz extraordinária, e **Pólux**, o espírito que tenta e falha repetidas vezes em cumprir sua vocação ao sacerdócio. O livro é também sobre karma afetivo entre almas que se acompanham ao longo de séculos.
 
 ---
 
@@ -102,10 +102,10 @@ Pólux representa a alma que aspira à consagração espiritual mas colapsa sob 
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
-- [[wiki/obras/Emmanuel/Ave, Cristo!]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[Há Dois Mil Anos]]
+- [[Ave, Cristo!]]
+- [[Reencarnação]]
+- [[Carma e Lei de Causa e Efeito]]
 

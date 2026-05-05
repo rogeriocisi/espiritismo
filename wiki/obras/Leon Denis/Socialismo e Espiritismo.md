@@ -1,4 +1,4 @@
----
+﻿---
 title: "Socialismo e Espiritismo"
 type: obra
 tags: [Leon-Denis, questão-social, política, moral, França, 1924, Revue-Spirite]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # Socialismo e Espiritismo
 
-**Socialismo e Espiritismo** é a **última obra** de [[wiki/entidades/Leon Denis]], compilada a partir de artigos publicados na *Revue Spirite* (dirigida por Jean Meyer) entre **fevereiro e outubro de 1924**, com dois artigos complementares sobre Jaurès (*Jaurès espiritualista*, novembro–dezembro de 1924). A obra aplica a doutrina espírita à questão social do início do século XX.
+**Socialismo e Espiritismo** é a **última obra** de [[Léon Denis]], compilada a partir de artigos publicados na *Revue Spirite* (dirigida por Jean Meyer) entre **fevereiro e outubro de 1924**, com dois artigos complementares sobre Jaurès (*Jaurès espiritualista*, novembro–dezembro de 1924). A obra aplica a doutrina espírita à questão social do início do século XX.
 
 ---
 
@@ -27,7 +27,7 @@ A tradução brasileira citada é de **Ery Lopes** (versão 1.2, agosto de 2022,
 
 Denis define o "socialismo" no sentido de sua época — reforma moral e social, não marxismo. A distinção é essencial: no início do século XX, *socialismo* significava genericamente "reforma da sociedade", e havia correntes espiritualistas e não-materialistas que também se diziam socialistas. Denis distingue entre:
 
-- **Socialismo espiritualista**: reforma interior que gera reform exterior — compatível com o Espiritismo
+- **Socialismo espiritualista**: reforma interior que gera reforma exterior — compatível com o Espiritismo
 - **Socialismo marxista**: materialismo que nega a alma e recorre a meios violentos — incompatível com o Espiritismo
 
 Sua tese central:
@@ -54,6 +54,6 @@ Os dois capítulos finais examinam o político socialista francês **Jean Jaurè
 
 ## Links
 
-- [[wiki/entidades/Leon Denis]]
-- [[wiki/obras/Leon Denis/O Problema do Ser, do Destino e da Dor]]
-- [[wiki/temas/Evolucionismo Espiritual]]
+- [[Léon Denis]]
+- [[O Problema do Ser, do Destino e da Dor]]
+- [[Evolucionismo Espiritual]]

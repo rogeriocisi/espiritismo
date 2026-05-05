@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Ação e Reação
 
-**Ação e Reação** é o nono volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. Escrito em homenagem ao **Primeiro Centenário do Espiritismo** (18 de abril de 1957 — centenário de *O Livro dos Espíritos*), o livro estuda a lei de causa e efeito — o *karma* — nas regiões espirituais inferiores onde espíritos culpados cumprem suas consequências.
+**Ação e Reação** é o nono volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. Escrito em homenagem ao **Primeiro Centenário do Espiritismo** (18 de abril de 1957 — centenário de *O Livro dos Espíritos*), o livro estuda a lei de causa e efeito — o *karma* — nas regiões espirituais inferiores onde espíritos culpados cumprem suas consequências.
 
 ---
 
@@ -68,12 +68,12 @@ Quando grupos de espíritos estão interligados por dívidas mútuas, o resgate 
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
-- [[wiki/obras/André Luiz/Evolução em Dois Mundos]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/obras/André Luiz/Nosso Lar]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Nos Domínios da Mediunidade]]
+- [[Evolução em Dois Mundos]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Reencarnação]]
+- [[Nosso Lar]]
 

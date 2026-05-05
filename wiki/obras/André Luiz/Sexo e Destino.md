@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Sexo e Destino
 
-**Sexo e Destino** é o décimo segundo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] em colaboração com dois médiuns: **Waldo Vieira** (Parte 1) e [[wiki/entidades/Chico Xavier]] (Parte 2). Trata das relações entre sexualidade, karma, amor conjugal e destino espiritual — com personagens reais cujos nomes foram modificados.
+**Sexo e Destino** é o décimo segundo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] em colaboração com dois médiuns: **Waldo Vieira** (Parte 1) e [[Chico Xavier]] (Parte 2). Trata das relações entre sexualidade, karma, amor conjugal e destino espiritual — com personagens reais cujos nomes foram modificados.
 
 ---
 
@@ -60,11 +60,11 @@ A divisão em duas partes psicografadas por médiuns distintos — Waldo Vieira 
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
-- [[wiki/obras/André Luiz/E a Vida Continua]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/conceitos/Reencarnação]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Mecanismos da Mediunidade]]
+- [[E a Vida Continua]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Reencarnação]]
 

@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # O Livro dos Espíritos
 
-**O Livro dos Espíritos** (*Le Livre des Esprits*, 1857) é a obra fundadora do Espiritismo, escrita por [[wiki/entidades/Allan Kardec]] a partir de comunicações mediúnicas recolhidas e sistematizadas por ele entre 1855 e 1857. Contém 1.019 perguntas e respostas sobre a natureza dos espíritos, a origem da alma, a vida após a morte, a moral e a cosmologia espírita.
+**O Livro dos Espíritos** (*Le Livre des Esprits*, 1857) é a obra fundadora do Espiritismo, escrita por [[Allan Kardec]] a partir de comunicações mediúnicas recolhidas e sistematizadas por ele entre 1855 e 1857. Contém 1.019 perguntas e respostas sobre a natureza dos espíritos, a origem da alma, a vida após a morte, a moral e a cosmologia espírita.
 
 > *"O Espiritismo tem por princípio a relação do mundo material com os Espíritos ou seres do mundo espiritual. Os adeptos do Espiritismo serão os espíritas."*
 > — Introdução, §1
@@ -59,16 +59,16 @@ Kardec também examina o panteísmo (Q.14–16) e o rejeita: *"A inteligência d
 > *"Imaterial não é bem a palavra, incorpóreo seria mais exato. É uma matéria puríssima, mas sem comparação ou semelhança para vós."*
 
 > **Q.93** — O Espírito não tem nenhuma cobertura?
-> *"O Espírito é envolvido por uma substância vaporosa para vós, mas ainda bem grosseira para nós."* (Definição do [[wiki/conceitos/Perispírito|perispírito]])
+> *"O Espírito é envolvido por uma substância vaporosa para vós, mas ainda bem grosseira para nós."* (Definição do [[Perispírito|perispírito]])
 
-### Sobre a [[wiki/conceitos/Escala Espírita|Escala Espírita]] (Q.96–100)
+### Sobre a [[Escala Espírita|Escala Espírita]] (Q.96–100)
 
 Os espíritos dividem-se em três ordens principais (Q.97):
 - **1ª Ordem** — Espíritos Puros (perfeição atingida)
 - **2ª Ordem** — Espíritos Bons (desejo do bem, ainda em provas)
 - **3ª Ordem** — Espíritos Imperfeitos (ignorância, propensão ao mal)
 
-### Sobre a [[wiki/conceitos/Reencarnação|Reencarnação]] (Q.166–196)
+### Sobre a [[Reencarnação|Reencarnação]] (Q.166–196)
 
 > **Q.166b** — A alma tem que passar por muitas existências corporais?
 > *"Sim, todos nós temos muitas existências. Os que dizem o contrário querem vos manter na ignorância em que eles próprios se encontram."*
@@ -85,7 +85,7 @@ Os espíritos dividem-se em três ordens principais (Q.97):
 > **Q.194** — A alma de um homem de bem pode, numa nova encarnação, animar o corpo de um perverso?
 > *"Não. Ela não pode regredir."*
 
-### Sobre a [[wiki/temas/Caridade como Lei|Caridade]] (Q.873–889)
+### Sobre a [[Caridade como Lei|Caridade]] (Q.873–889)
 
 > **Q.876** — Qual é a base da justiça fundada sobre a lei natural?
 > *"O Cristo disse: 'Não façais aos outros o que não quereis que vos façam'. Deus colocou no coração do homem a regra de toda a verdadeira justiça."*
@@ -133,13 +133,13 @@ PDF: *Allan Kardec — o-livro-dos-espiritos.pdf* (edição brasileira, traduç�
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Escala Espírita]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
-- [[wiki/temas/Caridade como Lei]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[Allan Kardec]]
+- [[Reencarnação]]
+- [[Escala Espírita]]
+- [[Perispírito]]
+- [[Pluralidade dos Mundos Habitados]]
+- [[Caridade como Lei]]
+- [[Evolucionismo Espiritual]]
+- [[O Livro dos Médiuns]]
+- [[O Evangelho Segundo o Espiritismo]]
 

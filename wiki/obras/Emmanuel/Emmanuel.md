@@ -1,4 +1,4 @@
----
+﻿---
 title: "Emmanuel"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, filosofia-moral, dissertações, 1937]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # Emmanuel
 
-***Emmanuel*** é a obra que inaugurou publicamente a parceria entre o espírito [[wiki/entidades/Emmanuel]] e o médium [[wiki/entidades/Chico Xavier]]. Publicada em 1937 pela Federação Espírita Brasileira — um ano antes de *A Caminho da Luz* —, é o livro em que Emmanuel se apresenta pela primeira vez ao público espírita, sem ainda revelar completamente sua identidade, e expõe sua perspectiva sobre as grandes questões que afligem a humanidade.
+***Emmanuel*** é a obra que inaugurou publicamente a parceria entre o espírito [[wiki/autores/Emmanuel]] e o médium [[Chico Xavier]]. Publicada em 1937 pela Federação Espírita Brasileira — um ano antes de *A Caminho da Luz* —, é o livro em que Emmanuel se apresenta pela primeira vez ao público espírita, sem ainda revelar completamente sua identidade, e expõe sua perspectiva sobre as grandes questões que afligem a humanidade.
 
 ---
 
@@ -69,16 +69,16 @@ Os temas recorrentes são característicos da voz de Emmanuel em toda a sua obra
 A pergunta que *Emmanuel* deixou em aberto — quem foi esse padre católico no Brasil? — foi respondida de forma não oficial décadas depois. A hipótese mais aceita no movimento espírita é que se trata do **Padre Manoel da Nóbrega** (1517–1570), primeiro provincial da Companhia de Jesus no Brasil, responsável pela fundação de São Paulo (1554) e pela organização da missão jesuítica na colônia. A correspondência entre o perfil histórico de Nóbrega (padre jesuíta, intelectual, voltado à ação social e ao Novo Mundo) e a personalidade de Emmanuel na obra é frequentemente citada como evidência.
 
 > [!question] Lacuna
-> A hipótese Nóbrega não foi confirmada pelo próprio Emmanuel de forma inequívoca. A [[wiki/entidades/Emmanuel|página de Emmanuel]] detalha as evidências e controvérsias.
+> A hipótese Nóbrega não foi confirmada pelo próprio Emmanuel de forma inequívoca. A [[Emmanuel|página de Emmanuel]] detalha as evidências e controvérsias.
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/A Caminho da Luz]]
-- [[wiki/obras/Emmanuel/O Consolador]]
-- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
-- [[wiki/temas/Espiritismo e Ciência]]
-- [[wiki/temas/Caridade como Lei]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[A Caminho da Luz]]
+- [[O Consolador]]
+- [[Há Dois Mil Anos]]
+- [[Espiritismo e Ciência]]
+- [[Caridade como Lei]]

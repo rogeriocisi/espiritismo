@@ -1,4 +1,4 @@
----
+﻿---
 title: "Escala Espírita"
 type: conceito
 tags: [classificação, hierarquia-espiritual, evolução, terceira-ordem, segunda-ordem, primeira-ordem]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Escala Espírita
 
-A **escala espírita** é a classificação dos espíritos segundo seu grau de evolução moral e intelectual, proposta por [[wiki/entidades/Allan Kardec]] em [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] (Q.96–100). Não é uma hierarquia rígida, mas uma descrição de estágios progressivos — *"a transição de um grau a outro é insensível"*.
+A **escala espírita** é a classificação dos espíritos segundo seu grau de evolução moral e intelectual, proposta por [[Allan Kardec]] em [[O Livro dos Espíritos]] (Q.96–100). Não é uma hierarquia rígida, mas uma descrição de estágios progressivos — *"a transição de um grau a outro é insensível"*.
 
 ---
 
@@ -90,16 +90,16 @@ Esta posição distingue o Espiritismo das doutrinas cristãs tradicionais sobre
 
 A escala espírita é fundamental para:
 - Avaliar a qualidade das comunicações mediúnicas (espíritos inferiores enganam)
-- Compreender a [[wiki/conceitos/Desobsessão|obsessão espiritual]]
-- Orientar o [[wiki/conceitos/Mediunidade|desenvolvimento mediúnico]]
+- Compreender a [[Desobsessão|obsessão espiritual]]
+- Orientar o [[Mediunidade|desenvolvimento mediúnico]]
 - Interpretar o comportamento de espíritos manifestantes em sessões
 
 ---
 
 ## Links
 
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Reencarnação]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[Evolucionismo Espiritual]]
+- [[O Livro dos Espíritos]]

@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # No Mundo Maior
 
-**No Mundo Maior** é o quinto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. Apresenta as *zonas intermediárias* — esferas habitadas por espíritos entre as regiões inferiores e as superiores — e a *"psiquiatria iluminada"*: o tratamento espiritual de doenças mentais e perturbações afetivas.
+**No Mundo Maior** é o quinto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. Apresenta as *zonas intermediárias* — esferas habitadas por espíritos entre as regiões inferiores e as superiores — e a *"psiquiatria iluminada"*: o tratamento espiritual de doenças mentais e perturbações afetivas.
 
 ---
 
@@ -67,11 +67,11 @@ Eusébio abre a assembleia com uma oração em versos — um dos momentos mais p
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Obreiros da Vida Eterna]]
-- [[wiki/obras/André Luiz/Libertação]]
-- [[wiki/conceitos/Mediunidade]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Obreiros da Vida Eterna]]
+- [[Libertação]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
 

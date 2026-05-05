@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Evangelho Segundo o Espiritismo"
 type: obra
 tags: [Kardec, obra-básica, moral, evangelhos, Jesus, 1864, três-revelações]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # O Evangelho Segundo o Espiritismo
 
-**O Evangelho Segundo o Espiritismo** (*L'Évangile selon le Spiritisme*, 1864) é a terceira das Obras Básicas de [[wiki/entidades/Allan Kardec]]. É a obra de moral espírita por excelência — apresenta comentários de espíritos sobre passagens dos Evangelhos, mostrando a coerência entre o ensinamento de Jesus e os princípios espíritas.
+**O Evangelho Segundo o Espiritismo** (*L'Évangile selon le Spiritisme*, 1864) é a terceira das Obras Básicas de [[Allan Kardec]]. É a obra de moral espírita por excelência — apresenta comentários de espíritos sobre passagens dos Evangelhos, mostrando a coerência entre o ensinamento de Jesus e os princípios espíritas.
 
 ---
 
@@ -75,7 +75,7 @@ Os mundos são classificados em cinco categorias:
 
 Esta síntese moral do Espiritismo brasileiro não está literalmente nos Evangelhos mas emergiu nas comunicações mediúnicas organizadas por Kardec nesta obra. O Espiritismo a substituiu ao postulado religioso *"Fora da Igreja não há salvação"*, propondo em seu lugar a igualdade entre os homens perante Deus, a tolerância e a benevolência mútua.
 
-Ver [[wiki/temas/Caridade como Lei]] para o desenvolvimento deste princípio.
+Ver [[Caridade como Lei]] para o desenvolvimento deste princípio.
 
 ---
 
@@ -106,9 +106,9 @@ PDF: *Allan Kardec — o-evangelho-segundo-o-espiritismo.pdf* (edição brasilei
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/temas/Caridade como Lei]]
-- [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[Allan Kardec]]
+- [[Caridade como Lei]]
+- [[Pluralidade dos Mundos Habitados]]
+- [[O Livro dos Espíritos]]
+- [[O Céu e o Inferno]]
+- [[A Gênese]]

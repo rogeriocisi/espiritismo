@@ -1,4 +1,4 @@
----
+﻿---
 title: "Espiritismo no Brasil"
 type: tema
 tags: [Brasil, história, movimento-espírita, FEB, cultura]
@@ -20,7 +20,7 @@ Desde o início houve tensão entre duas correntes:
 - **Científica** (influência de Delanne): enfatizava os fenômenos e a investigação
 - **Religiosa** (influência da FEB): enfatizava a prática evangélica e caritativa
 
-Esta tensão foi resolvida, na prática, pela hegemonia da vertente religiosa no movimento brasileiro — resultado parcialmente da influência de [[wiki/entidades/Chico Xavier]] e [[wiki/entidades/Divaldo Franco]].
+Esta tensão foi resolvida, na prática, pela hegemonia da vertente religiosa no movimento brasileiro — resultado parcialmente da influência de [[Chico Xavier]] e [[Divaldo Franco]].
 
 ---
 
@@ -30,7 +30,7 @@ Esta tensão foi resolvida, na prática, pela hegemonia da vertente religiosa no
 |-----|--------|
 | 1865 | Primeiros grupos espíritas no Rio de Janeiro |
 | 1873 | Fundação do Grupo Confúcio, um dos primeiros centros organizados |
-| 1884 | Fundação da [[wiki/centros/Federação Espírita Brasileira]] |
+| 1884 | Fundação daFederação Espírita Brasileira] |
 | 1927 | Primeira psicografia de Chico Xavier |
 | 1944 | Publicação de *Nosso Lar* — marco da literatura mediúnica |
 | 1959 | Chico Xavier se muda para Uberaba |
@@ -68,8 +68,8 @@ O Espiritismo permeia a cultura brasileira muito além dos praticantes declarado
 
 ## Links
 
-- [[wiki/centros/Federação Espírita Brasileira]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/entidades/Divaldo Franco]]
-- [[wiki/entidades/Bezerra de Menezes]]
-- [[wiki/temas/Caridade como Lei]]
+-Federação Espírita Brasileira]
+- [[Chico Xavier]]
+- [[Divaldo Franco]]
+- [[Bezerra de Menezes]]
+- [[Caridade como Lei]]

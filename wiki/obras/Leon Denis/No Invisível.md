@@ -1,4 +1,4 @@
----
+﻿---
 title: "No Invisível"
 type: obra
 tags: [Leon-Denis, mediunidade, espiritismo-experimental, grupos, médiuns, França]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # No Invisível
 
-**No Invisível** (*Dans l'Invisible*, c. 1904; edição citada de 1911) é a principal obra de [[wiki/entidades/Leon Denis]] sobre **Espiritismo experimental** — o estudo científico e prático da mediunidade, das leis de comunicação espírita e da organização de grupos mediúnicos. É considerada complementar a *Depois da Morte* (filosofia) e *O Problema do Ser* (teodiceia): enquanto aquelas tratam do *porquê*, esta trata do *como*.
+**No Invisível** (*Dans l'Invisible*, c. 1904; edição citada de 1911) é a principal obra de [[Léon Denis]] sobre **Espiritismo experimental** — o estudo científico e prático da mediunidade, das leis de comunicação espírita e da organização de grupos mediúnicos. É considerada complementar a *Depois da Morte* (filosofia) e *O Problema do Ser* (teodiceia): enquanto aquelas tratam do *porquê*, esta trata do *como*.
 
 ---
 
@@ -53,7 +53,7 @@ A obra é organizada em **uma única parte com 11 capítulos**, precedida de pre
 
 ## Links
 
-- [[wiki/entidades/Leon Denis]]
-- [[wiki/obras/Leon Denis/O Problema do Ser, do Destino e da Dor]]
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Léon Denis]]
+- [[O Problema do Ser, do Destino e da Dor]]
+- [[Mediunidade]]
+- [[Espiritismo e Ciência]]

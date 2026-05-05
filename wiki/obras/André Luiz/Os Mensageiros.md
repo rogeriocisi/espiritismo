@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Os Mensageiros
 
-**Os Mensageiros** é o segundo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]] e publicado pela Federação Espírita Brasileira em 1944.
+**Os Mensageiros** é o segundo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]] e publicado pela Federação Espírita Brasileira em 1944.
 
 ---
 
@@ -85,11 +85,11 @@ Capítulo 1 — André Luiz narra sua própria transformação: após deixar os 
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Nosso Lar]]
-- [[wiki/obras/André Luiz/Missionários da Luz]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Nosso Lar]]
+- [[Missionários da Luz]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Mediunidade]]
 

@@ -9,11 +9,11 @@ O objetivo principal deste projeto é acumular e interligar o conhecimento de fo
 O projeto está organizado da seguinte forma:
 
 *   **`wiki/`**: O coração do repositório, contendo as páginas de conteúdo organizadas por categoria:
-    *   `entidades/`: Biografias de codificadores, médiuns, pesquisadores e espíritos mentores.
+    *   `autores/`: Biografias de codificadores, médiuns, pesquisadores e espíritos mentores.
     *   `conceitos/`: Princípios doutrinários, fenômenos e terminologia espírita.
     *   `obras/`: Resumos e análises de livros e séries mediúnicas.
     *   `temas/`: Discussões sobre temas transversais (ex: Reencarnação, Ciência, Caridade).
-    *   `centros/`: Informações sobre organizações e federações relevantes.
+    *   `organizações/`: Informações sobre organizações e federações relevantes.
     *   `overview.md`: Uma síntese geral do estado atual do wiki.
 *   **`raw/`**: Repositório de fontes brutas (PDFs e documentos originais) que servem de base para a construção do wiki.
     *   `assets/`: Imagens e mídias utilizadas nas notas.

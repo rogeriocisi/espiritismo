@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Missionários da Luz
 
-**Missionários da Luz** é o terceiro volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]] e publicado pela Federação Espírita Brasileira. É o volume mais técnico da trilogia inicial, dedicado à teoria e prática da mediunidade vista do plano espiritual.
+**Missionários da Luz** é o terceiro volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]] e publicado pela Federação Espírita Brasileira. É o volume mais técnico da trilogia inicial, dedicado à teoria e prática da mediunidade vista do plano espiritual.
 
 ---
 
@@ -68,12 +68,12 @@ Os caps. 17–18 abordam o processo de doutrinação de espíritos obsessores e 
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Os Mensageiros]]
-- [[wiki/obras/André Luiz/Obreiros da Vida Eterna]]
-- [[wiki/conceitos/Mediunidade]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Os Mensageiros]]
+- [[Obreiros da Vida Eterna]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Perispírito]]
+- [[Perispírito]]
 

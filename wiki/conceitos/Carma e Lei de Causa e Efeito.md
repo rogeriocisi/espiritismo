@@ -35,7 +35,7 @@ Kardec apresenta essa lei como expressão da **justiça divina**: Deus não pune
 O Espiritismo rejeita o determinismo absoluto. A Lei de Causa e Efeito não implica que o destino do espírito seja fixo:
 
 - O espírito pode, em qualquer momento, mudar de direção pelo esforço moral
-- A [[wiki/temas/Caridade como Lei|caridade]], o trabalho espiritual e a prece podem acelerar a evolução e aliviar sofrimentos
+- A [[Caridade como Lei|caridade]], o trabalho espiritual e a prece podem acelerar a evolução e aliviar sofrimentos
 - Espíritos protetores podem interceder para suavizar provas, mas não eliminá-las completamente
 
 ---
@@ -54,9 +54,9 @@ A Lei de Causa e Efeito tem implicações delicadas:
 
 ## Links
 
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/temas/Caridade como Lei]]
-- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[Reencarnação]]
+- [[Evolucionismo Espiritual]]
+- [[Caridade como Lei]]
+- [[O Céu e o Inferno]]
+- [[O Evangelho Segundo o Espiritismo]]
 

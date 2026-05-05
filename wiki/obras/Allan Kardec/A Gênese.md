@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # A Gênese
 
-**A Gênese** (*La Genèse*, 1868) é a quinta e última das Obras Básicas de [[wiki/entidades/Allan Kardec]], publicada um ano antes de sua morte. Trata da cosmogonia espírita, dos milagres e das predições segundo o Espiritismo.
+**A Gênese** (*La Genèse*, 1868) é a quinta e última das Obras Básicas de [[Allan Kardec]], publicada um ano antes de sua morte. Trata da cosmogonia espírita, dos milagres e das predições segundo o Espiritismo.
 
 ---
 
@@ -39,7 +39,7 @@ atualizado: 2026-05-03
 
 ## O Espiritismo como Terceira Revelação
 
-Kardec reafirma aqui (em alinhamento com [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]) o caráter de terceira revelação:
+Kardec reafirma aqui (em alinhamento com [[O Evangelho Segundo o Espiritismo]]) o caráter de terceira revelação:
 
 > *"O Espiritismo não foi personificado em nenhum indivíduo, pois ele é o produto do ensinamento dado, não por um homem, mas pelos Espíritos, que são as vozes do Céu, em todos os pontos da Terra."*
 
@@ -49,7 +49,7 @@ Kardec reafirma aqui (em alinhamento com [[wiki/obras/Allan Kardec/O Evangelho S
 
 Kardec apresenta uma cosmologia baseada no evolucionismo científico de seu tempo, harmonizando-o com a perspectiva espírita. Dialoga explicitamente com Darwin, Lamarck e as ciências geológicas e astronômicas.
 
-A visão espírita: o universo foi criado progressivamente, com a matéria evoluindo de formas simples às complexas. O Espírito habita e anima os mundos em diferentes estágios de evolução — ver [[wiki/conceitos/Pluralidade dos Mundos Habitados]].
+A visão espírita: o universo foi criado progressivamente, com a matéria evoluindo de formas simples às complexas. O Espírito habita e anima os mundos em diferentes estágios de evolução — ver [[Pluralidade dos Mundos Habitados]].
 
 ---
 
@@ -59,8 +59,8 @@ O capítulo sobre os fluidos é fundamental para a compreensão física dos fen�
 
 Este fluido universal se diferencia em:
 - **Fluido vital** — anima os corpos orgânicos
-- **Fluido perispiritual** — constitui o [[wiki/conceitos/Perispírito|perispírito]] dos espíritos
-- **Fluido magnético / elétrico animalizado** — base dos fenômenos mediúnicos, dos [[wiki/conceitos/Passes|passes]] e das curas espirituais
+- **Fluido perispiritual** — constitui o [[Perispírito|perispírito]] dos espíritos
+- **Fluido magnético / elétrico animalizado** — base dos fenômenos mediúnicos, dos [[Passes|passes]] e das curas espirituais
 
 > *"O fluido vital se transmite de um indivíduo para outro. Aquele que tem mais pode dar para quem tem menos e, em alguns casos, restabelecer a vida prestes a se extinguir."*
 > — O Livro dos Espíritos, Q.70 (retomado em A Gênese)
@@ -87,11 +87,11 @@ PDF: *Allan Kardec — gen_br.pdf* (edição brasileira)
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
-- [[wiki/conceitos/Passes]]
-- [[wiki/temas/Espiritismo e Ciência]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[Allan Kardec]]
+- [[Perispírito]]
+- [[Pluralidade dos Mundos Habitados]]
+- [[Passes]]
+- [[Espiritismo e Ciência]]
+- [[Evolucionismo Espiritual]]
+- [[O Livro dos Espíritos]]
 

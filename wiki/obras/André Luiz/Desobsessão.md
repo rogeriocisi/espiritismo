@@ -1,4 +1,4 @@
----
+﻿---
 title: "Desobsessão"
 type: obra
 tags: [André-Luiz, Chico-Xavier, Waldo-Vieira, FEB, desobsessão, manual-prático, 1964, bimediunidade]
@@ -8,9 +8,9 @@ atualizado: 2026-05-04
 
 # Desobsessão
 
-***Desobsessão*** é obra ditada pelo espírito [[wiki/entidades/André Luiz]], psicografada em **bimediunidade** por [[wiki/entidades/Chico Xavier]] e **Waldo Vieira**, publicada pela Federação Espírita Brasileira em 1964. É o único livro da série André Luiz que não tem caráter narrativo: não é romance nem diálogo filosófico, mas um **manual prático** em 73 capítulos objetivos, destinado às equipes de centros espíritas que conduzem sessões de desobsessão.
+***Desobsessão*** é obra ditada pelo espírito [[André Luiz]], psicografada em **bimediunidade** por [[Chico Xavier]] e **Waldo Vieira**, publicada pela Federação Espírita Brasileira em 1964. É o único livro da série André Luiz que não tem caráter narrativo: não é romance nem diálogo filosófico, mas um **manual prático** em 73 capítulos objetivos, destinado às equipes de centros espíritas que conduzem sessões de desobsessão.
 
-Não deve ser confundido com o [[wiki/conceitos/Desobsessão|conceito de desobsessão]] — que trata do fenômeno em termos doutrinários. Esta página cobre a obra como livro: sua estrutura, método e lugar na série André Luiz.
+Não deve ser confundido com o [[Desobsessão|conceito de desobsessão]] — que trata do fenômeno em termos doutrinários. Esta página cobre a obra como livro: sua estrutura, método e lugar na série André Luiz.
 
 ---
 
@@ -32,7 +32,7 @@ Não deve ser confundido com o [[wiki/conceitos/Desobsessão|conceito de desobse
 
 *Desobsessão* é o resultado de um experimento de bimediunidade: os 73 capítulos foram divididos entre os dois médiuns, com Chico Xavier recebendo os capítulos pares e Waldo Vieira os capítulos ímpares. O trabalho foi realizado em sessões separadas, com os textos produzidos de forma independente — e depois confrontados para verificar coerência.
 
-Este método é distinto de *[[wiki/obras/André Luiz/Evolução em Dois Mundos]]* (vol. 10) e *[[wiki/obras/André Luiz/Mecanismos da Mediunidade]]* (vol. 11), em que a bimediunidade operava com os dois médiuns presentes simultaneamente. Em *Desobsessão*, a independência das sessões reforça a tese de que a fonte ditante era única.
+Este método é distinto de *[[Evolução em Dois Mundos]]* (vol. 10) e *[[Mecanismos da Mediunidade]]* (vol. 11), em que a bimediunidade operava com os dois médiuns presentes simultaneamente. Em *Desobsessão*, a independência das sessões reforça a tese de que a fonte ditante era única.
 
 ---
 
@@ -81,7 +81,7 @@ O método espírita, conforme *Desobsessão*, não é exorcismo — é **evangel
 3. A equipe dialoga: identifica a história do espírito, seu sofrimento, suas razões
 4. Oferecem orientação moral, prece e amor fraterno — não confronto
 5. Espíritos benfeitores presentes na sessão conduzem o perturbador a um ambiente mais adequado
-6. O obsidiado recebe [[wiki/conceitos/Passes|passes]] e orientação para romper os vínculos de atração
+6. O obsidiado recebe [[Passes|passes]] e orientação para romper os vínculos de atração
 
 André Luiz insiste que cada centro espírita deve ter equipe de desobsessão **também para sua própria defesa**: um centro sem esse trabalho fica vulnerável às influências que atrai pelo próprio trabalho mediúnico.
 
@@ -89,7 +89,7 @@ André Luiz insiste que cada centro espírita deve ter equipe de desobsessão **
 
 ## Lugar na Obra de André Luiz
 
-*Desobsessão* (1964) é uma das obras complementares da [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual|série André Luiz]], publicada paralelamente ao vol. 12 (*Sexo e Destino*, 1963). Enquanto os volumes da série principal têm caráter narrativo-filosófico, as obras complementares são mais didáticas:
+*Desobsessão* (1964) é uma das obras complementares da [[Coleção A Vida no Mundo Espiritual|série André Luiz]], publicada paralelamente ao vol. 12 (*Sexo e Destino*, 1963). Enquanto os volumes da série principal têm caráter narrativo-filosófico, as obras complementares são mais didáticas:
 
 | Obra complementar | Caráter |
 |-------------------|---------|
@@ -104,12 +104,12 @@ André Luiz insiste que cada centro espírita deve ter equipe de desobsessão **
 ## Links
 
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
-- [[wiki/obras/André Luiz/Entre a Terra e o Céu]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/conceitos/Passes]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[wiki/autores/Emmanuel]]
+- [[Nos Domínios da Mediunidade]]
+- [[Entre a Terra e o Céu]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Mediunidade]]
+- [[Passes]]
+- [[Carma e Lei de Causa e Efeito]]

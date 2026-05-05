@@ -1,4 +1,4 @@
----
+﻿---
 title: "Espíritos e Médiuns"
 type: obra
 tags: [Leon-Denis, mediunidade, espiritismo-experimental, França, 1921, CELD]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # Espíritos e Médiuns
 
-**Espíritos e Médiuns** (*Esprits et Médiums*, 1921) é um opúsculo de [[wiki/entidades/Leon Denis]] sobre mediunidade — descrito por seu editor como *"excelente resumo dos estudos que Léon Denis fez sobre a mediunidade"* e recomendado especialmente para iniciantes. Em 70 páginas, condensa a teoria e a prática mediúnica com a clareza característica de Denis.
+**Espíritos e Médiuns** (*Esprits et Médiums*, 1921) é um opúsculo de [[Léon Denis]] sobre mediunidade — descrito por seu editor como *"excelente resumo dos estudos que Léon Denis fez sobre a mediunidade"* e recomendado especialmente para iniciantes. Em 70 páginas, condensa a teoria e a prática mediúnica com a clareza característica de Denis.
 
 ---
 
@@ -55,13 +55,13 @@ Apresenta o contexto científico: testemunhos de Crookes, Oliver Lodge, Myers, L
 
 ## Relação com *No Invisível*
 
-O editor recomenda comparar o cap. III de *Espíritos e Médiuns* com o cap. 22 de *[[wiki/obras/Leon Denis/No Invisível]]* para análise comparativa da natureza da mediunidade nas duas obras.
+O editor recomenda comparar o cap. III de *Espíritos e Médiuns* com o cap. 22 de *[[No Invisível]]* para análise comparativa da natureza da mediunidade nas duas obras.
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Leon Denis]]
-- [[wiki/obras/Leon Denis/No Invisível]]
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Léon Denis]]
+- [[No Invisível]]
+- [[Mediunidade]]
+- [[Espiritismo e Ciência]]

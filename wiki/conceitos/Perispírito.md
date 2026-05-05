@@ -1,4 +1,4 @@
----
+﻿---
 title: "Perispírito"
 type: conceito
 tags: [corpo-fluídico, anatomia-espiritual, fenomenologia, fluido-universal]
@@ -49,7 +49,7 @@ Nos mundos mais evoluídos, o perispírito torna-se progressivamente mais etére
 2. **Corpo do espírito desencarnado** — após a morte, o espírito mantém forma humanóide pelo perispírito
 3. **Veículo da mediunidade** — as comunicações e fenômenos mediúnicos ocorrem por interação entre o perispírito do espírito comunicante e o do médium
 4. **Transmissor de saúde e doença** — influências espirituais afetam o organismo físico via perispírito
-5. **Base dos fluidos vitais** — os [[wiki/conceitos/Passes|passes]] atuam transmitindo fluidos perispirituais
+5. **Base dos fluidos vitais** — os [[Passes|passes]] atuam transmitindo fluidos perispirituais
 
 ---
 
@@ -80,9 +80,9 @@ O fluido universal se diferencia em:
 
 ## Links
 
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/conceitos/Passes]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
+- [[Mediunidade]]
+- [[Passes]]
+- [[Reencarnação]]
+- [[A Gênese]]
+- [[O Livro dos Espíritos]]
+- [[O Livro dos Médiuns]]

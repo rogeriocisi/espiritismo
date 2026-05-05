@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mediunidade"
 type: conceito
 tags: [fenomenologia, comunicação, espíritos, prática, ondas, André-Luiz]
@@ -14,7 +14,7 @@ A **mediunidade** é a faculdade que permite a certos indivíduos — os **médi
 
 ## Classificação de Kardec
 
-[[wiki/entidades/Allan Kardec]], em [[wiki/obras/Allan Kardec/O Livro dos Médiuns]], propôs a primeira classificação sistemática dos tipos mediúnicos:
+[[Allan Kardec]], em [[O Livro dos Médiuns]], propôs a primeira classificação sistemática dos tipos mediúnicos:
 
 ### Por fenômeno físico
 - **Médium de efeitos físicos**: produz fenômenos observáveis (levitação, apportes, materialização)
@@ -27,14 +27,14 @@ A **mediunidade** é a faculdade que permite a certos indivíduos — os **médi
 | Psicofônico | Fala em nome de espíritos |
 | Vidente | Percebe espíritos visualmente |
 | Audiente | Ouve vozes espirituais |
-| Sensitivo / Curador | Transmite fluidos para cura (ver [[wiki/conceitos/Passes]]) |
+| Sensitivo / Curador | Transmite fluidos para cura (ver [[Passes]]) |
 | Incorporação | Espírito atua diretamente pelo corpo do médium |
 
 ---
 
 ## Os Mecanismos — André Luiz e Waldo Vieira
 
-Dois livros da [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
+Dois livros da [[Coleção A Vida no Mundo Espiritual]] aprofundam os mecanismos técnicos da mediunidade com linguagem científica: *Nos Domínios da Mediunidade* (1955) e *Mecanismos da Mediunidade* (1960), ambos co-ditados com Waldo Vieira.
 
 ### A Teoria das Ondas
 
@@ -42,7 +42,7 @@ André Luiz propõe que a mediunidade é um fenômeno de **conjugação de ondas
 
 > *"Todos somos médiuns, dentro do campo mental que nos é próprio, associando-nos às energias edificantes, se o nosso pensamento flui na direção da vida superior, ou às forças perturbadoras e deprimentes, se ainda nos escravizamos às sombras da vida primitivista."*
 
-O [[wiki/conceitos/Perispírito]] funciona como o equipamento físico desse intercâmbio:
+O [[Perispírito]] funciona como o equipamento físico desse intercâmbio:
 
 > *"O perispírito não é um corpo de vaga neblina e sim organização viva a que se amoldam as células materiais."*
 
@@ -100,8 +100,8 @@ Essa posição é controversa no diálogo com a psiquiatria e psicologia moderna
 
 ## Médiuns Eminentes
 
-- [[wiki/entidades/Chico Xavier]] — psicógrafo (mais de 400 obras)
-- [[wiki/entidades/Divaldo Franco]] — psicógrafo e psicofônico
+- [[Chico Xavier]] — psicógrafo (mais de 400 obras)
+- [[Divaldo Franco]] — psicógrafo e psicofônico
 - Eusapia Palladino — efeitos físicos (investigada por Charles Richet, Cesare Lombroso)
 - Daniel Dunglas Home — efeitos físicos (século XIX, nunca flagrado em fraude)
 
@@ -109,11 +109,11 @@ Essa posição é controversa no diálogo com a psiquiatria e psicologia moderna
 
 ## Links
 
-- [[wiki/conceitos/Passes]]
+- [[Passes]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/entidades/André Luiz]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Perispírito]]
+- [[O Livro dos Médiuns]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Chico Xavier]]
+- [[André Luiz]]
+- [[Espiritismo e Ciência]]

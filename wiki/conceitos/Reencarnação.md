@@ -14,7 +14,7 @@ A **reencarnação** — ou **pluralidade das existências** na terminologia de 
 
 ## Definição Doutrinária
 
-Segundo [[wiki/obras/Allan Kardec/O Livro dos Espíritos]] (Q.166):
+Segundo [[O Livro dos Espíritos]] (Q.166):
 
 > **Q.166** — Como a alma, que não alcançou a perfeição durante a vida corporal, pode acabar de se depurar?
 > *"Submetendo-se à prova de uma nova existência."*
@@ -99,12 +99,12 @@ O Evangelho Segundo o Espiritismo (Cap. 4) reúne passagens onde Jesus é identi
 
 ## Links
 
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Escala Espírita]]
-- [[wiki/conceitos/Pluralidade dos Mundos Habitados]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/O Céu e o Inferno]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Perispírito]]
+- [[Escala Espírita]]
+- [[Pluralidade dos Mundos Habitados]]
+- [[Evolucionismo Espiritual]]
+- [[O Livro dos Espíritos]]
+- [[O Céu e o Inferno]]
+- [[O Evangelho Segundo o Espiritismo]]
 

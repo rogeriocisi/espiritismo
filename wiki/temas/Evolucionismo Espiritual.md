@@ -1,4 +1,4 @@
----
+﻿---
 title: "Evolucionismo Espiritual"
 type: tema
 tags: [evolução, progressão, cosmologia, filosofia]
@@ -30,10 +30,10 @@ Os princípios centrais:
 
 | Mecanismo | Descrição |
 |-----------|-----------|
-| [[wiki/conceitos/Reencarnação\|Reencarnação]] | Múltiplas vidas para aprendizado e reparação |
+| [[Reencarnação\|Reencarnação]] | Múltiplas vidas para aprendizado e reparação |
 | Experiência no entre-vidas | Tempo entre encarnações para assimilação e planejamento |
 | Trabalho espiritual | Missões e serviços nos planos espirituais |
-| [[wiki/temas/Caridade como Lei\|Caridade]] | O exercício do amor acelera a evolução |
+| [[Caridade como Lei\|Caridade]] | O exercício do amor acelera a evolução |
 | Sofrimento | Provações como oportunidade de crescimento |
 
 ---
@@ -59,9 +59,9 @@ O evolucionismo espiritual de Kardec difere do darwinismo em pontos importantes:
 
 ## Links
 
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Escala Espírita]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/temas/Caridade como Lei]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[Reencarnação]]
+- [[Escala Espírita]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Caridade como Lei]]
+- [[A Gênese]]
+- [[O Livro dos Espíritos]]

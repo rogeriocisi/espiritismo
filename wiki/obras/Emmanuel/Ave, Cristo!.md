@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Ave, Cristo!
 
-**Ave, Cristo!** é romance histórico ditado pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]], ambientado na Roma do início do século III, sob o imperador Septímio Severo. O livro é singular na série histórica por abrir com uma longa cena no **plano espiritual** — onde espíritos deliberam sobre o retorno à encarnação para servir ao Evangelho — antes de narrar os acontecimentos físicos. O título é o grito dos mártires cristãos: *"Ave, Cristo! Os que vão viver para sempre te glorificam e saúdam!"*
+**Ave, Cristo!** é romance histórico ditado pelo espírito [[wiki/autores/Emmanuel]] ao médium [[Chico Xavier]], ambientado na Roma do início do século III, sob o imperador Septímio Severo. O livro é singular na série histórica por abrir com uma longa cena no **plano espiritual** — onde espíritos deliberam sobre o retorno à encarnação para servir ao Evangelho — antes de narrar os acontecimentos físicos. O título é o grito dos mártires cristãos: *"Ave, Cristo! Os que vão viver para sempre te glorificam e saúdam!"*
 
 ---
 
@@ -96,18 +96,18 @@ O mentor espiritual que autoriza a reencarnação de Varro. Representa a hierarq
 Os cristãos que morrem no anfiteatro são recebidos por legions de espíritos que cantam vitória. O martírio é apresentado não como derrota mas como *"semente da glória futura"* — os mártires se desprendem do corpo em êxtase e são acolhidos no plano espiritual.
 
 ### A Paternidade que Transcende Encarnações
-O amor de Varro por Taciano persiste de encarnação em encarnação. O pai que retorna ao plano físico para ajudar o filho é um dos motivos recorrentes na série histórica de Emmanuel — ecoando o tema de *[[wiki/obras/Emmanuel/50 Anos Depois]]*.
+O amor de Varro por Taciano persiste de encarnação em encarnação. O pai que retorna ao plano físico para ajudar o filho é um dos motivos recorrentes na série histórica de Emmanuel — ecoando o tema de *[[50 Anos Depois]]*.
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
-- [[wiki/obras/Emmanuel/50 Anos Depois]]
-- [[wiki/obras/Emmanuel/Paulo e Estêvão]]
-- [[wiki/obras/Emmanuel/Renúncia]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/temas/Caridade como Lei]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[Há Dois Mil Anos]]
+- [[50 Anos Depois]]
+- [[Paulo e Estêvão]]
+- [[Renúncia]]
+- [[Reencarnação]]
+- [[Caridade como Lei]]
 

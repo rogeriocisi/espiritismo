@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # O Céu e o Inferno
 
-**O Céu e o Inferno** (*Le Ciel et l'Enfer*, 1865) é a quarta das Obras Básicas de [[wiki/entidades/Allan Kardec]]. Examina a doutrina espírita sobre o destino da alma após a morte, contrapondo-a às noções tradicionais de paraíso e inferno eterno.
+**O Céu e o Inferno** (*Le Ciel et l'Enfer*, 1865) é a quarta das Obras Básicas de [[Allan Kardec]]. Examina a doutrina espírita sobre o destino da alma após a morte, contrapondo-a às noções tradicionais de paraíso e inferno eterno.
 
 ---
 
@@ -113,10 +113,10 @@ PDF: *Allan Kardec — o-ceu-e-o-inferno.pdf* (edição brasileira)
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Carma e Lei de Causa e Efeito]]
-- [[wiki/conceitos/Escala Espírita]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
+- [[Allan Kardec]]
+- [[Reencarnação]]
+- [[Carma e Lei de Causa e Efeito]]
+- [[Escala Espírita]]
+- [[O Evangelho Segundo o Espiritismo]]
+- [[A Gênese]]
 

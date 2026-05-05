@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Problema do Ser, do Destino e da Dor"
 type: obra
 tags: [Leon-Denis, filosofia, teodiceia, reencarnação, dor, destino, França, 1905]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # O Problema do Ser, do Destino e da Dor
 
-**O Problema do Ser, do Destino e da Dor** (*Le Problème de l'Être et de la Destinée*, 1905) é a obra filosófica maior de [[wiki/entidades/Leon Denis]] — sua teodiceia espírita. Responde às quatro perguntas fundamentais da filosofia espírita e constrói o argumento completo para a imortalidade, a reencarnação e o sentido da dor como instrumento de evolução. É considerada a obra mais abrangente de Denis.
+**O Problema do Ser, do Destino e da Dor** (*Le Problème de l'Être et de la Destinée*, 1905) é a obra filosófica maior de [[Léon Denis]] — sua teodiceia espírita. Responde às quatro perguntas fundamentais da filosofia espírita e constrói o argumento completo para a imortalidade, a reencarnação e o sentido da dor como instrumento de evolução. É considerada a obra mais abrangente de Denis.
 
 ---
 
@@ -78,8 +78,8 @@ O capítulo XXVII constitui a resposta de Denis ao problema do mal: a dor não �
 
 ## Links
 
-- [[wiki/entidades/Leon Denis]]
-- [[wiki/obras/Leon Denis/No Invisível]]
-- [[wiki/obras/Leon Denis/Socialismo e Espiritismo]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Léon Denis]]
+- [[No Invisível]]
+- [[Socialismo e Espiritismo]]
+- [[Evolucionismo Espiritual]]
+- [[Espiritismo e Ciência]]

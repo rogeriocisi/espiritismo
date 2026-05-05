@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Paulo e Estêvão
 
-**Paulo e Estêvão** é romance histórico ditado pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]], centrado em dois personagens do Novo Testamento: **Estêvão**, o protomártir, e **Paulo de Tarso**, o *"Apóstolo dos Gentios"*. A obra não é apenas biografia romanceada — propõe-se a apresentar *"as tradições do plano espiritual acerca dos trabalhos confiados ao grande amigo dos gentios"*.
+**Paulo e Estêvão** é romance histórico ditado pelo espírito [[wiki/autores/Emmanuel]] ao médium [[Chico Xavier]], centrado em dois personagens do Novo Testamento: **Estêvão**, o protomártir, e **Paulo de Tarso**, o *"Apóstolo dos Gentios"*. A obra não é apenas biografia romanceada — propõe-se a apresentar *"as tradições do plano espiritual acerca dos trabalhos confiados ao grande amigo dos gentios"*.
 
 ---
 
@@ -86,10 +86,10 @@ Ao longo de toda a obra, Paulo é a figura do *"homem transformado por Jesus Cri
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/Há Dois Mil Anos]]
-- [[wiki/obras/Emmanuel/50 Anos Depois]]
-- [[wiki/obras/Emmanuel/Ave, Cristo!]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[Há Dois Mil Anos]]
+- [[50 Anos Depois]]
+- [[Ave, Cristo!]]
+- [[Espiritismo e Ciência]]
 

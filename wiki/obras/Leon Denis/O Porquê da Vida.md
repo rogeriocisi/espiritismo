@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Porquê da Vida"
 type: obra
 tags: [Leon-Denis, filosofia, imortalidade, dor, reencarnação, perispírito, França]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # O Porquê da Vida
 
-**O Porquê da Vida** (*Le Pourquoi de la Vie*) é obra filosófica e de consolação de [[wiki/entidades/Leon Denis]], de tom mais acessível do que *O Problema do Ser*. É dedicada *"Àqueles que sofrem"* — e o prefácio abre com essa dedicatória:
+**O Porquê da Vida** (*Le Pourquoi de la Vie*) é obra filosófica e de consolação de [[Léon Denis]], de tom mais acessível do que *O Problema do Ser*. É dedicada *"Àqueles que sofrem"* — e o prefácio abre com essa dedicatória:
 
 > *"É a vocês, ó meus irmãos e irmãs em humanidade, a todos vocês a quem o fardo da vida tem curvado, a vocês a quem as ásperas lutas, os cuidados, as provas têm sobrecarregado, que dedico estas páginas."*
 
@@ -56,7 +56,7 @@ No capítulo IV, Denis propõe contemplar Deus nas obras do universo — nos ast
 
 ## Links
 
-- [[wiki/entidades/Leon Denis]]
-- [[wiki/obras/Leon Denis/O Problema do Ser, do Destino e da Dor]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/temas/Evolucionismo Espiritual]]
+- [[Léon Denis]]
+- [[O Problema do Ser, do Destino e da Dor]]
+- [[Perispírito]]
+- [[Evolucionismo Espiritual]]

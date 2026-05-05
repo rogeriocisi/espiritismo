@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pluralidade dos Mundos Habitados"
 type: conceito
 tags: [cosmologia, doutrina, universo, mundos]
@@ -14,7 +14,7 @@ A **pluralidade dos mundos habitados** é um dos princípios cosmológicos funda
 
 ## Formulação
 
-Kardec desenvolveu este princípio em [[wiki/obras/Allan Kardec/A Gênese]] e [[wiki/obras/Allan Kardec/O Livro dos Espíritos]], baseando-se tanto nas comunicações mediúnicas quanto na astronomia de seu tempo (Camille Flammarion, com quem tinha contato, defendia a pluralidade de mundos habitados também por argumentos astronômicos).
+Kardec desenvolveu este princípio em [[A Gênese]] e [[O Livro dos Espíritos]], baseando-se tanto nas comunicações mediúnicas quanto na astronomia de seu tempo (Camille Flammarion, com quem tinha contato, defendia a pluralidade de mundos habitados também por argumentos astronômicos).
 
 Os espíritos comunicantes afirmavam conhecer outros mundos — alguns mais primitivos que a Terra, outros muito mais evoluídos — e descreviam a possibilidade de reencarnação em mundos diferentes ao longo da evolução espiritual.
 
@@ -37,8 +37,8 @@ No século XXI, a discussão sobre exoplanetas e a possibilidade de vida extrate
 
 ## Links
 
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/temas/Espiritismo e Ciência]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[Reencarnação]]
+- [[Evolucionismo Espiritual]]
+- [[Espiritismo e Ciência]]
+- [[A Gênese]]
+- [[O Livro dos Espíritos]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Livro dos Médiuns"
 type: obra
 tags: [Kardec, obra-básica, mediunidade, 1861, obsessão, identidade]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # O Livro dos Médiuns
 
-**O Livro dos Médiuns** (*Le Livre des Médiums*, 1861) é a segunda das Obras Básicas de [[wiki/entidades/Allan Kardec]]. É o guia prático da mediunidade — descreve os tipos de médiuns, os fenômenos espíritas, os procedimentos para sessões e os cuidados necessários no desenvolvimento mediúnico.
+**O Livro dos Médiuns** (*Le Livre des Médiums*, 1861) é a segunda das Obras Básicas de [[Allan Kardec]]. É o guia prático da mediunidade — descreve os tipos de médiuns, os fenômenos espíritas, os procedimentos para sessões e os cuidados necessários no desenvolvimento mediúnico.
 
 ---
 
@@ -72,7 +72,7 @@ O capítulo XIV apresenta a primeira classificação sistemática dos tipos medi
 - **Médiuns falantes** — falam em nome de espíritos (psicofônicos)
 - **Médiuns videntes** — percebem espíritos visualmente
 - **Médiuns sonambúlicos** — em estado de transe profundo
-- **Médiuns curadores** — transmitem fluidos para cura (ver [[wiki/conceitos/Passes|passes]])
+- **Médiuns curadores** — transmitem fluidos para cura (ver [[Passes|passes]])
 - **Médiuns pneumatógrafos** — escrita direta pelo espírito (sem lápis)
 - **Médiuns psicógrafos** — escrita por ditado espiritual (ver Cap. XV)
 
@@ -123,8 +123,8 @@ PDF: *Allan Kardec — lmed_br.pdf* (edição brasileira)
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Allan Kardec]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Passes]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
+- [[Passes]]
+- [[O Livro dos Espíritos]]

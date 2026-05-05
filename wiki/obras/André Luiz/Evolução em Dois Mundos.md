@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Evolução em Dois Mundos
 
-**Evolução em Dois Mundos** é o décimo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] em colaboração com dois médiuns: [[wiki/entidades/Chico Xavier]] e **Waldo Vieira**. É o volume mais científico da série — um estudo sistemático do **perispírito** (corpo espiritual) e sua relação com a evolução em ambos os mundos, físico e espiritual.
+**Evolução em Dois Mundos** é o décimo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] em colaboração com dois médiuns: [[Chico Xavier]] e **Waldo Vieira**. É o volume mais científico da série — um estudo sistemático do **perispírito** (corpo espiritual) e sua relação com a evolução em ambos os mundos, físico e espiritual.
 
 ---
 
@@ -81,12 +81,12 @@ Em formato de perguntas e respostas, a Parte 2 responde questões práticas sobr
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Ação e Reação]]
-- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Mediunidade]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Ação e Reação]]
+- [[Mecanismos da Mediunidade]]
+- [[Perispírito]]
+- [[Reencarnação]]
+- [[Mediunidade]]
 

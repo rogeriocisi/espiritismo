@@ -1,4 +1,4 @@
----
+﻿---
 title: "O Que é o Espiritismo"
 autor: "Allan Kardec"
 ano: 1859
@@ -9,7 +9,7 @@ fontes: ["Allan Kardec - o-que-é-o-espiritismo.pdf"]
 
 # O Que é o Espiritismo
 
-**O Que é o Espiritismo** (*Qu'est-ce que le Spiritisme?*) é uma obra de introdução à Doutrina Espírita, publicada por [[wiki/entidades/Allan Kardec]] em julho de 1859. O livro oferece uma visão panorâmica e sintética do Espiritismo, sendo ideal para quem deseja um primeiro contato com os princípios fundamentais sem a extensão de [[wiki/obras/Allan Kardec/O Livro dos Espíritos]].
+**O Que é o Espiritismo** (*Qu'est-ce que le Spiritisme?*) é uma obra de introdução à Doutrina Espírita, publicada por [[Allan Kardec]] em julho de 1859. O livro oferece uma visão panorâmica e sintética do Espiritismo, sendo ideal para quem deseja um primeiro contato com os princípios fundamentais sem a extensão de [[O Livro dos Espíritos]].
 
 ## Estrutura da Obra
 
@@ -43,15 +43,15 @@ Respostas diretas a questões complexas baseadas na lógica espírita:
 
 ## Importância Histórica
 
-Escrito logo após o sucesso de *O Livro dos Espíritos*, serviu como um manual prático de defesa e esclarecimento, consolidando a terminologia e as bases de pesquisa que seriam aprofundadas em [[wiki/obras/Allan Kardec/O Livro dos Médiuns]] (1861).
+Escrito logo após o sucesso de *O Livro dos Espíritos*, serviu como um manual prático de defesa e esclarecimento, consolidando a terminologia e as bases de pesquisa que seriam aprofundadas em [[O Livro dos Médiuns]] (1861).
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/conceitos/Reencarnação]]
-- [[wiki/conceitos/Escala Espírita]]
+- [[Allan Kardec]]
+- [[O Livro dos Espíritos]]
+- [[O Livro dos Médiuns]]
+- [[Mediunidade]]
+- [[Reencarnação]]
+- [[Escala Espírita]]

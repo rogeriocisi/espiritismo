@@ -1,4 +1,4 @@
----
+﻿---
 title: "Boa Nova"
 type: obra
 tags: [Emmanuel, Chico-Xavier, FEB, moral-espírita, mensagens, evangelho]
@@ -8,7 +8,7 @@ atualizado: 2026-05-04
 
 # Boa Nova
 
-***Boa Nova*** é obra de mensagens evangélicas ditada pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]], publicada pela Federação Espírita Brasileira. O título é a tradução literal do grego *euangélion* — "bom anúncio", "boa notícia" —, afirmando desde o nome que a mensagem espírita é a mesma do Evangelho de Jesus, renovada para a época.
+***Boa Nova*** é obra de mensagens evangélicas ditada pelo espírito [[wiki/autores/Emmanuel]] ao médium [[Chico Xavier]], publicada pela Federação Espírita Brasileira. O título é a tradução literal do grego *euangélion* — "bom anúncio", "boa notícia" —, afirmando desde o nome que a mensagem espírita é a mesma do Evangelho de Jesus, renovada para a época.
 
 > [!question] Lacuna
 > O PDF de *Boa Nova* foi ingerido em sessão anterior, mas a extração de texto resultou em volume reduzido. Os dados de publicação (ano, estrutura, citações diretas) precisam ser verificados em nova leitura da fonte.
@@ -29,7 +29,7 @@ atualizado: 2026-05-04
 
 ## Conteúdo
 
-*Boa Nova* reúne **mensagens de conteúdo evangélico** — textos em que Emmanuel parte de passagens do Evangelho para iluminá-las com a perspectiva espírita. O método é semelhante ao de *[[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]* de Kardec, mas com o tom devocional e poético característico de Emmanuel: menos analítico, mais exortativo.
+*Boa Nova* reúne **mensagens de conteúdo evangélico** — textos em que Emmanuel parte de passagens do Evangelho para iluminá-las com a perspectiva espírita. O método é semelhante ao de *[[O Evangelho Segundo o Espiritismo]]* de Kardec, mas com o tom devocional e poético característico de Emmanuel: menos analítico, mais exortativo.
 
 A obra se insere na tradição das obras de Emmanuel que explicam o Espiritismo como continuidade e desdobramento do Evangelho — não uma doutrina alternativa, mas a mesma mensagem de Jesus compreendida à luz da Lei de Causa e Efeito, da reencarnação e da progressão espiritual.
 
@@ -47,16 +47,16 @@ Para Emmanuel, a "boa nova" não é apenas o anúncio da imortalidade da alma �
 
 ## Lugar na Série Emmanuel
 
-*Boa Nova* pertence ao grupo de obras filosófico-morais de Emmanuel, ao lado de *[[wiki/obras/Emmanuel/Emmanuel]]* (1937), *[[wiki/obras/Emmanuel/Fonte Viva]]* e *Vida e Sexo*.
+*Boa Nova* pertence ao grupo de obras filosófico-morais de Emmanuel, ao lado de *[[Emmanuel]]* (1937), *[[Fonte Viva]]* e *Vida e Sexo*.
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/Emmanuel]]
-- [[wiki/obras/Emmanuel/Fonte Viva]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
-- [[wiki/temas/Caridade como Lei]]
-- [[wiki/conceitos/Reencarnação]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[Emmanuel]]
+- [[Fonte Viva]]
+- [[O Evangelho Segundo o Espiritismo]]
+- [[Caridade como Lei]]
+- [[Reencarnação]]

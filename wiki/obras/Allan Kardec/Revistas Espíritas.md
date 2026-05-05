@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Revistas Espíritas
 
-A **Revista Espírita — Jornal de Estudos Psicológicos** (*Revue Spirite — Journal d'Études Psychologiques*) foi o periódico mensal dirigido por [[wiki/entidades/Allan Kardec]] de janeiro de 1858 até sua morte, em 31 de março de 1869. É a principal fonte primária para acompanhar o **desenvolvimento** do Espiritismo — não apenas a doutrina acabada, mas o processo de codificação mês a mês.
+A **Revista Espírita — Jornal de Estudos Psicológicos** (*Revue Spirite — Journal d'Études Psychologiques*) foi o periódico mensal dirigido por [[Allan Kardec]] de janeiro de 1858 até sua morte, em 31 de março de 1869. É a principal fonte primária para acompanhar o **desenvolvimento** do Espiritismo — não apenas a doutrina acabada, mas o processo de codificação mês a mês.
 
 A edição em português traduzida por **Salvador Gentile** e revisada por **Elias Barbosa** foi publicada em 12 volumes (um por ano) pelo **Instituto de Difusão Espírita** (Araras, SP).
 
@@ -141,13 +141,13 @@ A Revista é irreplaceable por dois motivos:
 
 ## Links
 
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/Allan Kardec/O Livro dos Espíritos]]
-- [[wiki/obras/Allan Kardec/O Livro dos Médiuns]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
-- [[wiki/obras/Allan Kardec/A Gênese]]
-- [[wiki/obras/Allan Kardec/Obras Póstumas]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Allan Kardec]]
+- [[O Livro dos Espíritos]]
+- [[O Livro dos Médiuns]]
+- [[O Evangelho Segundo o Espiritismo]]
+- [[A Gênese]]
+- [[Obras Póstumas]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[Espiritismo e Ciência]]
 

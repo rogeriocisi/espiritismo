@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # A Caminho da Luz
 
-**A Caminho da Luz** — subtítulo *História da Civilização à Luz do Espiritismo* — é uma das obras mais ambiciosas de [[wiki/entidades/Emmanuel]], ditada por intermédio de [[wiki/entidades/Chico Xavier]] entre 17 de agosto e 21 de setembro de 1938. É uma síntese histórico-espiritual de toda a trajetória humana: da formação do planeta até o século XIX e o advento do Espiritismo.
+**A Caminho da Luz** — subtítulo *História da Civilização à Luz do Espiritismo* — é uma das obras mais ambiciosas de [[wiki/autores/Emmanuel]], ditada por intermédio de [[Chico Xavier]] entre 17 de agosto e 21 de setembro de 1938. É uma síntese histórico-espiritual de toda a trajetória humana: da formação do planeta até o século XIX e o advento do Espiritismo.
 
 ---
 
@@ -84,7 +84,7 @@ Nos capítulos finais (XXII–XXIII), Emmanuel apresenta **Allan Kardec** não c
 
 > *"Allan Kardec e os seus colaboradores — As ciências sociais — A tarefa do missionário — Provações coletivas na França."*
 
-Isso integra a codificação kardecista à grande narrativa da Terceira Revelação — após Moisés (1ª) e Jesus (2ª), o Espiritismo seria a 3ª revelação divina à humanidade terrestre. Ver [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]].
+Isso integra a codificação kardecista à grande narrativa da Terceira Revelação — após Moisés (1ª) e Jesus (2ª), o Espiritismo seria a 3ª revelação divina à humanidade terrestre. Ver [[O Evangelho Segundo o Espiritismo]].
 
 ---
 
@@ -102,11 +102,11 @@ Isso dialoga com o tema desenvolvido por Humberto de Campos em *Brasil, Coraçã
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/obras/Emmanuel/O Consolador]]
-- [[wiki/obras/Allan Kardec/O Evangelho Segundo o Espiritismo]]
-- [[wiki/temas/Evolucionismo Espiritual]]
-- [[wiki/temas/Espiritismo no Brasil]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[Allan Kardec]]
+- [[O Consolador]]
+- [[O Evangelho Segundo o Espiritismo]]
+- [[Evolucionismo Espiritual]]
+- [[Espiritismo no Brasil]]
 

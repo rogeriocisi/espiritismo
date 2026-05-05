@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mecanismos da Mediunidade"
 type: obra
 tags: [André-Luiz, Chico-Xavier, Waldo-Vieira, FEB, série-andré-luiz, mediunidade, física-espiritual]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Mecanismos da Mediunidade
 
-**Mecanismos da Mediunidade** é o décimo primeiro volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] em colaboração com [[wiki/entidades/Chico Xavier]] e **Waldo Vieira**. É o mais técnico e científico de toda a série — um tratado que explica a mediunidade usando analogias detalhadas com a física (eletromagnetismo, mecânica quântica, ondas hertzianas, circuitos elétricos).
+**Mecanismos da Mediunidade** é o décimo primeiro volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] em colaboração com [[Chico Xavier]] e **Waldo Vieira**. É o mais técnico e científico de toda a série — um tratado que explica a mediunidade usando analogias detalhadas com a física (eletromagnetismo, mecânica quântica, ondas hertzianas, circuitos elétricos).
 
 ---
 
@@ -63,11 +63,11 @@ Enquanto o vol. 8 apresenta a mediunidade em contexto narrativo, este volume for
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Evolução em Dois Mundos]]
-- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
-- [[wiki/conceitos/Mediunidade]]
-- [[wiki/conceitos/Perispírito]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Evolução em Dois Mundos]]
+- [[Nos Domínios da Mediunidade]]
+- [[Mediunidade]]
+- [[Perispírito]]
+- [[Espiritismo e Ciência]]

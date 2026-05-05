@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Libertação
 
-**Libertação** é o sexto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. O livro acompanha missões de socorro a encarnados obsediados e a espíritos perturbadores que precisam ser libertados dos próprios laços de sofrimento.
+**Libertação** é o sexto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. O livro acompanha missões de socorro a encarnados obsediados e a espíritos perturbadores que precisam ser libertados dos próprios laços de sofrimento.
 
 ---
 
@@ -64,11 +64,11 @@ Capítulo paradigmático onde André Luiz acompanha um grupo de espíritos benev
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/No Mundo Maior]]
-- [[wiki/obras/André Luiz/Entre a Terra e o Céu]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[No Mundo Maior]]
+- [[Entre a Terra e o Céu]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Mediunidade]]
+- [[Mediunidade]]
 

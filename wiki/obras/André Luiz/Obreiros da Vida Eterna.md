@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Obreiros da Vida Eterna
 
-**Obreiros da Vida Eterna** é o quarto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. Centra-se nas zonas de erraticidade que envolvem a Terra — os círculos espirituais habitados por desencarnados em processo de expiação ou aprendizagem — e nas missões de socorro que lá operam.
+**Obreiros da Vida Eterna** é o quarto volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. Centra-se nas zonas de erraticidade que envolvem a Terra — os círculos espirituais habitados por desencarnados em processo de expiação ou aprendizagem — e nas missões de socorro que lá operam.
 
 ---
 
@@ -65,11 +65,11 @@ Capítulos como *"Fogo purificador"* (10) e *"Treva e sofrimento"* (8) descrevem
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Missionários da Luz]]
-- [[wiki/obras/André Luiz/No Mundo Maior]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Missionários da Luz]]
+- [[No Mundo Maior]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/conceitos/Reencarnação]]
+- [[Reencarnação]]
 

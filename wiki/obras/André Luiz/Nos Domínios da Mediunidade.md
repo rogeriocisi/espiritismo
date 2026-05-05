@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Nos Domínios da Mediunidade
 
-**Nos Domínios da Mediunidade** é o oitavo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. É um tratado prático sobre a mediunidade visto do plano espiritual — André Luiz acompanha o especialista **Áulus** em demonstrações e análises de fenômenos mediúnicos, do psicoscópio à psicometria.
+**Nos Domínios da Mediunidade** é o oitavo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. É um tratado prático sobre a mediunidade visto do plano espiritual — André Luiz acompanha o especialista **Áulus** em demonstrações e análises de fenômenos mediúnicos, do psicoscópio à psicometria.
 
 ---
 
@@ -75,12 +75,12 @@ O capítulo 21 analisa as manifestações mediúnicas naturais que ocorrem na tr
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Entre a Terra e o Céu]]
-- [[wiki/obras/André Luiz/Ação e Reação]]
-- [[wiki/conceitos/Mediunidade]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Entre a Terra e o Céu]]
+- [[Ação e Reação]]
+- [[Mediunidade]]
 - [[wiki/conceitos/Desobsessão]]
-- [[wiki/obras/André Luiz/Mecanismos da Mediunidade]]
+- [[Mecanismos da Mediunidade]]
 

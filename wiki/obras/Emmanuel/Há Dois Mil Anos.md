@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Há Dois Mil Anos
 
-**Há Dois Mil Anos** é o romance histórico inaugural da série espírita ambientada no Cristianismo primitivo, ditado pelo espírito [[wiki/entidades/Emmanuel]] ao médium [[wiki/entidades/Chico Xavier]]. É, em sentido particular, a *confissão pública* do próprio Emmanuel: o livro narra a existência do senador romano **Públio Lentulus** — encarnação anterior do mesmo espírito que se tornaria Emmanuel.
+**Há Dois Mil Anos** é o romance histórico inaugural da série espírita ambientada no Cristianismo primitivo, ditado pelo espírito [[wiki/autores/Emmanuel]] ao médium [[Chico Xavier]]. É, em sentido particular, a *confissão pública* do próprio Emmanuel: o livro narra a existência do senador romano **Públio Lentulus** — encarnação anterior do mesmo espírito que se tornaria Emmanuel.
 
 ---
 
@@ -85,17 +85,17 @@ Os capítulos da Primeira Parte apresentam o cenário da Galileia, a casa de Pil
 A Segunda Parte acompanha as perseguições cristãs — as catacumbas como refúgio da fé, o circo romano como palco do martírio. A destruição de Jerusalém (70 d.C.) e os últimos minutos de Pompeia (79 d.C.) encerram a trajetória de Públio Lentulus.
 
 ### Continuidade em *50 Anos Depois*
-A história de Lentulus não termina em Pompeia: em *[[wiki/obras/Emmanuel/50 Anos Depois]]*, o mesmo espírito reencarna como escravo Nestório para reparar as faltas do senador orgulhoso.
+A história de Lentulus não termina em Pompeia: em *[[50 Anos Depois]]*, o mesmo espírito reencarna como escravo Nestório para reparar as faltas do senador orgulhoso.
 
 ---
 
 ## Links
 
-- [[wiki/entidades/Emmanuel]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/Emmanuel/50 Anos Depois]]
-- [[wiki/obras/Emmanuel/Paulo e Estêvão]]
-- [[wiki/obras/Emmanuel/Ave, Cristo!]]
-- [[wiki/entidades/Allan Kardec]]
-- [[wiki/temas/Espiritismo e Ciência]]
+- [[wiki/autores/Emmanuel]]
+- [[Chico Xavier]]
+- [[50 Anos Depois]]
+- [[Paulo e Estêvão]]
+- [[Ave, Cristo!]]
+- [[Allan Kardec]]
+- [[Espiritismo e Ciência]]
 

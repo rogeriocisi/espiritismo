@@ -1,4 +1,4 @@
----
+﻿---
 title: "Entre a Terra e o Céu"
 type: obra
 tags: [André-Luiz, Chico-Xavier, FEB, série-andré-luiz, reencarnação, obsessão, família, 1954]
@@ -8,7 +8,7 @@ atualizado: 2026-05-03
 
 # Entre a Terra e o Céu
 
-**Entre a Terra e o Céu** é o sétimo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[wiki/entidades/André Luiz]] ao médium [[wiki/entidades/Chico Xavier]]. É o volume mais introspectivo da série — centra-se não em técnicas espirituais mas nos *"problemas comuns de amor e ódio, simpatia e desafeto"* que persistem além da morte, e no processo de preparação para o retorno à reencarnação.
+**Entre a Terra e o Céu** é o sétimo volume da série *A Vida no Mundo Espiritual*, ditado pelo espírito [[André Luiz]] ao médium [[Chico Xavier]]. É o volume mais introspectivo da série — centra-se não em técnicas espirituais mas nos *"problemas comuns de amor e ódio, simpatia e desafeto"* que persistem além da morte, e no processo de preparação para o retorno à reencarnação.
 
 ---
 
@@ -77,10 +77,10 @@ O capítulo 1 abre com o Ministro Clarêncio no *Templo do Socorro* dissertando 
 
 ## Links
 
-- [[wiki/entidades/André Luiz]]
-- [[wiki/entidades/Chico Xavier]]
-- [[wiki/obras/André Luiz/Coleção A Vida no Mundo Espiritual]]
-- [[wiki/obras/André Luiz/Libertação]]
-- [[wiki/obras/André Luiz/Nos Domínios da Mediunidade]]
-- [[wiki/conceitos/Reencarnação]]
+- [[André Luiz]]
+- [[Chico Xavier]]
+- [[Coleção A Vida no Mundo Espiritual]]
+- [[Libertação]]
+- [[Nos Domínios da Mediunidade]]
+- [[Reencarnação]]
 - [[wiki/conceitos/Desobsessão]]
